@@ -1,1 +1,1 @@
-# lesmiserables-community-detection
+# Les Miserables Community Detection Workflow
