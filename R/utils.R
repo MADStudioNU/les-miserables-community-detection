@@ -40,11 +40,11 @@ iwanthue <- function(n, hmin=0, hmax=360, cmin=0, cmax=180, lmin=0, lmax=100,
   hex(LAB(clus$centers))
 }
 
-detectLesMisCommunities <- function(source){
+detectLesMisCommunities <- function(sourceFileName){
 
 #    for(source in sources) {
-        d <- read.csv(paste("parsed_data/", source, "_edges.csv", sep=""), header = T)[ ,c("Source", "Target")]
-        a <- read.csv(paste("parsed_data/", source, "_nodes.csv", sep=""), header = T)
+        d <- read.csv(paste("parsed_data/", sourceFileName, "_edges.csv", sep=""), header = T)[ ,c("Source", "Target")]
+        a <- read.csv(paste("parsed_data/", sourceFileName, "_nodes.csv", sep=""), header = T)
 
         m <- as.matrix(d)
         g <- graph.data.frame(m, directed = F)
@@ -69,18 +69,18 @@ detectLesMisCommunities <- function(source){
         V(G_u)$color <- iwanthue(n_u, cmin=40, lmin=55)[V(G_u)$group]
         V(G_w)$color <- iwanthue(n_w, cmin=40, lmin=55)[V(G_w)$group]
 
-        write.graph(G_u, paste("detected_communities/", source, "-NG_u.gml", sep=""), format = ("gml"));
-        write.graph(G_w, paste("detected_communities/", source, "-NG_w.gml", sep=""), format = ("gml"));
+        write.graph(G_u, paste("detected_communities/", sourceFileName, "-NG_u.gml", sep=""), format = ("gml"));
+        write.graph(G_w, paste("detected_communities/", sourceFileName, "-NG_w.gml", sep=""), format = ("gml"));
 
         print("Done!")
-        print(paste("For", source, "I detected", n_u, "(unweighed method) and", n_w, "(weighted method) communities."))
+        print(paste("For", sourceFileName, "I detected", n_u, "(unweighed method) and", n_w, "(weighted method) communities."))
         print(paste("Here is the palette applied onto the unweighted graph:"))
         print(iwanthue(n_u, cmin=40, lmin=55))
         print(paste("Here is the palette applied onto the weighted graph:"))
         print(iwanthue(n_w, cmin=40, lmin=55))
 #    }
 
-    par(mfrow=c(2,1))
-    plot(G_u, vertex.label=V(G_u)$name, main = paste(source, "(unweighted)"))
-    plot(G_w, vertex.label=V(G_u)$name, main = paste(source, "(weighted)"))
+    par(mfrow=c(1,2))
+    plot(G_u, vertex.label=V(G_u)$name, main = paste(sourceFileName, "(unweighted)"))
+    plot(G_w, vertex.label=V(G_u)$name, main = paste(sourceFileName, "(weighted)"))
 }
