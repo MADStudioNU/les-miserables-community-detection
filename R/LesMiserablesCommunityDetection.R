@@ -11,7 +11,7 @@ setwd("[PROJECT'S ROOT]")
 library(igraph)
 library(colorspace)
 
-# Load helper functions or manually add them from R/utils.R
+# Load helper functions or manually add them from R/utils/utils.R
 library(devtools)
 devtools::source_gist('6e4bf332d95b46d6d068')
 
