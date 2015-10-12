@@ -55,32 +55,34 @@ detectLesMisCommunities <- function(sourceFileName){
         V(g)$label <- as.character(a$Label[match(V(g)$name,a$Id)])
 
         G_u <- g
-        G_w <- g
+#        G_w <- g
 
         ebc_u <- edge.betweenness.community(g, directed = FALSE, weights = NULL)
-        ebc_w <- edge.betweenness.community(g, directed = FALSE, weights = E(g)$weight)
+#        ebc_w <- edge.betweenness.community(g, directed = FALSE, weights = E(g)$weight)
 
         n_u <- max(ebc_u$membership);
-        n_w <- max(ebc_w$membership);
+#        n_w <- max(ebc_w$membership);
 
         V(G_u)$group <- ebc_u$membership;
-        V(G_w)$group <- ebc_w$membership;
+#        V(G_w)$group <- ebc_w$membership;
 
         V(G_u)$color <- iwanthue(n_u, cmin=40, lmin=55)[V(G_u)$group]
-        V(G_w)$color <- iwanthue(n_w, cmin=40, lmin=55)[V(G_w)$group]
+#        V(G_w)$color <- iwanthue(n_w, cmin=40, lmin=55)[V(G_w)$group]
 
         write.graph(G_u, paste("detected_communities/", sourceFileName, "-NG_u.gml", sep=""), format = ("gml"));
-        write.graph(G_w, paste("detected_communities/", sourceFileName, "-NG_w.gml", sep=""), format = ("gml"));
+#        write.graph(G_w, paste("detected_communities/", sourceFileName, "-NG_w.gml", sep=""), format = ("gml"));
 
         print("Done!")
         print(paste("For", sourceFileName, "I detected", n_u, "(unweighed method) and", n_w, "(weighted method) communities."))
         print(paste("Here is the palette applied onto the unweighted graph:"))
-        print(iwanthue(n_u, cmin=40, lmin=55))
-        print(paste("Here is the palette applied onto the weighted graph:"))
-        print(iwanthue(n_w, cmin=40, lmin=55))
+#        print(iwanthue(n_u, cmin=40, lmin=55))
+#        print(paste("Here is the palette applied onto the weighted graph:"))
+#        print(iwanthue(n_w, cmin=40, lmin=55))
 #    }
 
-    par(mfrow=c(1,2))
+#    par(mfrow=c(1,2))
+    par(mfrow=c(1,1))
+
     plot(G_u, vertex.label=V(G_u)$name, main = paste(sourceFileName, "(unweighted)"))
-    plot(G_w, vertex.label=V(G_u)$name, main = paste(sourceFileName, "(weighted)"))
+#    plot(G_w, vertex.label=V(G_u)$name, main = paste(sourceFileName, "(weighted)"))
 }

@@ -15,7 +15,7 @@ library(colorspace)
 library(devtools)
 devtools::source_gist('6e4bf332d95b46d6d068')
 
-# Fire one by one to see results
+# Fire one by one to see results and write them to detected_communities folder
 detectLesMisCommunities("part0");
 detectLesMisCommunities("part1");
 detectLesMisCommunities("part2");
