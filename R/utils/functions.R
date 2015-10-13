@@ -57,8 +57,8 @@ detectLesMisCommunities <- function(sourceFileName){
         G_u <- g
         G_w <- g
 
-        ebc_u <- edge.betweenness.community(g, directed = FALSE, weights = NULL)
-        ebc_w <- edge.betweenness.community(g, directed = FALSE, weights = E(g)$weight)
+        ebc_u <- cluster_edge_betweenness(g, directed = FALSE, weights = NULL)
+        ebc_w <- cluster_edge_betweenness(g, directed = FALSE, weights = E(g)$weight)
 
         n_u <- max(ebc_u$membership);
         n_w <- max(ebc_w$membership);

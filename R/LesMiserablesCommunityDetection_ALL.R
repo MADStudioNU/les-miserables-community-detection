@@ -19,11 +19,15 @@ detectLesMisCommunitiesAllAlgorithms <- function(sourceFileName){
         ebc_w <- edge.betweenness.community(g, directed = FALSE, weights = E(g)$weight)
         #todo: add all other from igraph (one-liners)
         V(G_u)$ebc  <- cluster_edge_betweenness(g, directed = FALSE, weights = NULL)$membership
-        V(G_u)$fgc  <-
+        V(G_u)$fgc  <- cluster_fast_greedy(g, weights = NULL)
         V(G_u)$wtc4 <-
         V(G_u)$wtc5 <-
         V(G_u)$wtc6 <-
         V(G_u)$sgc  <-
+        V(G_u)$lec  <-
+        V(G_u)$inf  <-
+        V(G_u)$lou  <-
+        V(G_u)$opt  <-
 
 
 
