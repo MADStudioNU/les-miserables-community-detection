@@ -1,10 +1,10 @@
 # Make sure you've parsed the data and all the CSV files are in parsed_data folder
-java -jar sgbbookparser.jar jean-complete.dat parsed_data/part0_nodes.csv parsed_data/part0_edges.csv parsed_data/jean-complete-character-table.html parsed_data/jean-complete-chapter-table.html
-java -jar sgbbookparser.jar jean-complete.dat parsed_data/part1_nodes.csv parsed_data/part1_edges.csv parsed_data/jean-complete-character-table.html parsed_data/jean-complete-chapter-table.html "1\.(.*)"
-java -jar sgbbookparser.jar jean-complete.dat parsed_data/part2_nodes.csv parsed_data/part2_edges.csv parsed_data/jean-complete-character-table.html parsed_data/jean-complete-chapter-table.html "2\.(.*)"
-java -jar sgbbookparser.jar jean-complete.dat parsed_data/part3_nodes.csv parsed_data/part3_edges.csv parsed_data/jean-complete-character-table.html parsed_data/jean-complete-chapter-table.html "3\.(.*)"
-java -jar sgbbookparser.jar jean-complete.dat parsed_data/part4_nodes.csv parsed_data/part4_edges.csv parsed_data/jean-complete-character-table.html parsed_data/jean-complete-chapter-table.html "4\.(.*)"
-java -jar sgbbookparser.jar jean-complete.dat parsed_data/part5_nodes.csv parsed_data/part5_edges.csv parsed_data/jean-complete-character-table.html parsed_data/jean-complete-chapter-table.html "5\.(.*)"
+java -jar sgbbookparser.jar jean-completeO.dat parsed_data/part0o_nodes.csv parsed_data/part0o_edges.csv parsed_data/jean-complete-character-tableO.html parsed_data/jean-complete-chapter-tableO.html
+java -jar sgbbookparser.jar jean-completeO.dat parsed_data/part1o_nodes.csv parsed_data/part1o_edges.csv parsed_data/jean-complete-character-tableO.html parsed_data/jean-complete-chapter-tableO.html "1\.(.*)"
+java -jar sgbbookparser.jar jean-completeO.dat parsed_data/part2o_nodes.csv parsed_data/part2o_edges.csv parsed_data/jean-complete-character-tableO.html parsed_data/jean-complete-chapter-tableO.html "2\.(.*)"
+java -jar sgbbookparser.jar jean-completeO.dat parsed_data/part3o_nodes.csv parsed_data/part3o_edges.csv parsed_data/jean-complete-character-tableO.html parsed_data/jean-complete-chapter-tableO.html "3\.(.*)"
+java -jar sgbbookparser.jar jean-completeO.dat parsed_data/part4o_nodes.csv parsed_data/part4o_edges.csv parsed_data/jean-complete-character-tableO.html parsed_data/jean-complete-chapter-tableO.html "4\.(.*)"
+java -jar sgbbookparser.jar jean-completeO.dat parsed_data/part5o_nodes.csv parsed_data/part5o_edges.csv parsed_data/jean-complete-character-tableO.html parsed_data/jean-complete-chapter-tableO.html "5\.(.*)"
 
 # Set working dir to the project's root
 #setwd('/Applications/MAMP/htdocs/LesMiserablesCommunityDetection/')

@@ -40,7 +40,7 @@ iwanthue <- function(n, hmin=0, hmax=360, cmin=0, cmax=180, lmin=0, lmax=100,
   hex(LAB(clus$centers))
 }
 
-detectLesMisCommunities <- function(sourceFileName){
+detectLesMisCommunitiesNG <- function(sourceFileName){
 
 #    for(source in sources) {
         d <- read.csv(paste("parsed_data/", sourceFileName, "_edges.csv", sep=""), header = T, na.strings = "NaN")[ ,c("Source", "Target")]
