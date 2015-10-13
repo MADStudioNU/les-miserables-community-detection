@@ -7,11 +7,12 @@ java -jar sgbbookparser.jar jean-complete.dat parsed_data/part4_nodes.csv parsed
 java -jar sgbbookparser.jar jean-complete.dat parsed_data/part5_nodes.csv parsed_data/part5_edges.csv parsed_data/jean-complete-character-table.html parsed_data/jean-complete-chapter-table.html "5\.(.*)"
 
 # Set working dir to the project's root
+#setwd('/Applications/MAMP/htdocs/LesMiserablesCommunityDetection/')
 setwd("[PROJECT'S ROOT]")
 library(igraph)
 library(colorspace)
 
-# Load helper functions or manually add them from R/utils/utils.R
+# Load helper functions or manually add them from R/utils/functions.R
 library(devtools)
 devtools::source_gist('6e4bf332d95b46d6d068')
 

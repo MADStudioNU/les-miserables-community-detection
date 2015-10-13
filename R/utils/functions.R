@@ -69,6 +69,9 @@ detectLesMisCommunities <- function(sourceFileName){
         V(G_u)$color <- iwanthue(n_u, cmin=40, lmin=55)[V(G_u)$group]
         V(G_w)$color <- iwanthue(n_w, cmin=40, lmin=55)[V(G_w)$group]
 
+#        V(G_u)$name.cex <- 0.5
+#        V(G_w)$name.cex <- 0.5
+
         write.graph(G_u, paste("detected_communities/", sourceFileName, "-NG_u.gml", sep=""), format = ("gml"));
         write.graph(G_w, paste("detected_communities/", sourceFileName, "-NG_w.gml", sep=""), format = ("gml"));
 
@@ -82,5 +85,5 @@ detectLesMisCommunities <- function(sourceFileName){
 
     par(mfrow=c(1,2))
     plot(G_u, vertex.label=V(G_u)$name, main = paste(sourceFileName, "(unweighted)"))
-    plot(G_w, vertex.label=V(G_u)$name, main = paste(sourceFileName, "(weighted)"))
+    plot(G_w, vertex.label=V(G_w)$name, main = paste(sourceFileName, "(weighted)"))
 }

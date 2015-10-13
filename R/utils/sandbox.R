@@ -6,7 +6,7 @@
 java -jar sgbbookparser.jar jean-complete.dat parsed_data/part1_nodes.csv parsed_data/part1_edges.csv parsed_data/jean-complete-character-table.html parsed_data/jean-complete-chapter-table.html "1\.(.*)"
 
 # Set up the workspace
-setwd('/Applications/MAMP/htdocs/lesmiserables_DATA/sergei-walk-through')
+setwd('/Applications/MAMP/htdocs/LesMiserablesCommunityDetection/')
 library(igraph)
 library("devtools", lib.loc="/Library/Frameworks/R.framework/Versions/3.2/Resources/library")
 #devtools::source_gist('45b49da5e260a9fc1cd7')
