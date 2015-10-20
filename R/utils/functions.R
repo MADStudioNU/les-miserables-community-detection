@@ -40,7 +40,8 @@ iwanthue <- function(n, hmin=0, hmax=360, cmin=0, cmax=180, lmin=0, lmax=100,
   hex(LAB(clus$centers))
 }
 
-detectLesMisCommunitiesNG <- function(sourceFileName){
+#detectLesMisCommunitiesNG <- function(sourceFileName){
+detectLesMisCommunities <- function(sourceFileName, postfix){
 
 #    for(source in sources) {
         d <- read.csv(paste("parsed_data/", sourceFileName, "_edges.csv", sep=""), header = T, na.strings = "NaN")[ ,c("Source", "Target")]
@@ -57,14 +58,40 @@ detectLesMisCommunitiesNG <- function(sourceFileName){
         G_u <- g
         G_w <- g
 
-        ebc_u <- cluster_edge_betweenness(g, directed = FALSE, weights = NULL)
-        ebc_w <- cluster_edge_betweenness(g, directed = FALSE, weights = E(g)$weight)
+        ###
 
-        n_u <- max(ebc_u$membership);
-        n_w <- max(ebc_w$membership);
+#        ebc_u <- cluster_edge_betweenness(g, directed = FALSE, weights = NULL)
+#        ebc_w <- cluster_edge_betweenness(g, directed = FALSE, weights = E(g)$weight)
+#        sg_u <- cluster_spinglass(g, spins = 100, cool.fact = 0.99, gamma = 1.5, weights = NULL)
+#        sg_w <- cluster_spinglass(g, spins = 100, cool.fact = 0.99, gamma = 1.5, weights = E(g)$weight)
 
-        V(G_u)$group <- ebc_u$membership;
-        V(G_w)$group <- ebc_w$membership;
+        # Algorithms
+        ebc_u  <- cluster_edge_betweenness(g, directed = FALSE, weights = NULL)$membership
+        fgc_u  <- cluster_fast_greedy(g, weights = NULL)$membership
+        wtc4_u <- cluster_walktrap(g, weights = NULL, steps = 4)$membership
+        wtc5_u <- cluster_walktrap(g, weights = NULL, steps = 5)$membership
+        wtc6_u <- cluster_walktrap(g, weights = NULL, steps = 6)$membership
+        wtc7_u <- cluster_walktrap(g, weights = NULL, steps = 7)$membership
+        sgc_u  <- cluster_spinglass(g, weights = NULL, spins = 100, cool.fact = 0.99)$membership
+        inf_u  <- cluster_infomap(g, nb.trials = 100, e.weights = NULL)$membership
+        lou_u  <- cluster_louvain(g, weights = NULL)$membership
+        opt_u  <- cluster_optimal(g, weights = NULL)$membership
+        eig_u  <- cluster_leading_eigen(g, weights = NULL)$membership
+
+        groups_u <- cluster_spinglass(g, spins = 100, cool.fact = 0.99, gamma = 1.5, weights = NULL)
+        groups_w <- cluster_spinglass(g, spins = 100, cool.fact = 0.99, gamma = 1.5, weights = E(g)$weight)
+
+#        n_u <- max(ebc_u$membership);
+#        n_w <- max(ebc_w$membership);
+        n_u <- max(groups_u$membership);
+        n_w <- max(groups_w$membership);
+
+#        V(G_u)$group <- ebc_u$membership;
+#        V(G_w)$group <- ebc_w$membership;
+        V(G_u)$group <- groups_u$membership;
+        V(G_w)$group <- groups_w$membership;
+
+        ###
 
         V(G_u)$color <- iwanthue(n_u, cmin=40, lmin=55)[V(G_u)$group]
         V(G_w)$color <- iwanthue(n_w, cmin=40, lmin=55)[V(G_w)$group]
@@ -72,8 +99,11 @@ detectLesMisCommunitiesNG <- function(sourceFileName){
 #        V(G_u)$name.cex <- 0.5
 #        V(G_w)$name.cex <- 0.5
 
-        write.graph(G_u, paste("detected_communities/", sourceFileName, "-NG_u.gml", sep=""), format = ("gml"));
-        write.graph(G_w, paste("detected_communities/", sourceFileName, "-NG_w.gml", sep=""), format = ("gml"));
+#        write.graph(G_u, paste("detected_communities/", sourceFileName, "-NG_u.gml", sep=""), format = ("gml"));
+#        write.graph(G_w, paste("detected_communities/", sourceFileName, "-NG_w.gml", sep=""), format = ("gml"));
+
+#        write.graph(G_u, paste("detected_communities/looking/", sourceFileName, "-", postfix, "_u.gml", sep=""), format = ("gml"));
+#        write.graph(G_w, paste("detected_communities/looking/", sourceFileName, "-", postfix, "_w.gml", sep=""), format = ("gml"));
 
         print("Done!")
         print(paste("For", sourceFileName, "I detected", n_u, "(unweighed method) and", n_w, "(weighted method) communities."))
@@ -83,7 +113,10 @@ detectLesMisCommunitiesNG <- function(sourceFileName){
         print(iwanthue(n_w, cmin=40, lmin=55))
 #    }
 
-    par(mfrow=c(1,2))
-    plot(G_u, vertex.label=V(G_u)$name, main = paste(sourceFileName, "(unweighted)"))
-    plot(G_w, vertex.label=V(G_w)$name, main = paste(sourceFileName, "(weighted)"))
+#    par(mfrow=c(1,2))
+#    plot(G_u, vertex.label=V(G_u)$name, vertex.size = 5, vertex.label.cex = 0.75, main = paste(sourceFileName, postfix, "(unweighted)"))
+#    plot(G_w, vertex.label=V(G_w)$name, vertex.size = 5, vertex.label.cex = 0.75, main = paste(sourceFileName, postfix, "(weighted)"))
+
+    tkplot(G_u, vertex.label=V(G_u)$name, main = paste(sourceFileName, postfix, "(unweighted)"))
+    tkplot(G_w, vertex.label=V(G_u)$name, main = paste(sourceFileName, postfix, "(weighted)"))
 }

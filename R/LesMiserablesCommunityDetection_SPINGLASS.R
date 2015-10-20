@@ -63,45 +63,45 @@ detectLesMisCommunitiesAllAlgorithms <- function(sourceFileName){
     ## Algos ##
 
     # U
-    ebc_u  <- cluster_edge_betweenness(g, directed = FALSE, weights = NULL)$membership
-    fgc_u  <- cluster_fast_greedy(g, weights = NULL)$membership
-    wtc4_u <- cluster_walktrap(g, weights = NULL, steps = 4)$membership
+#    ebc_u  <- cluster_edge_betweenness(g, directed = FALSE, weights = NULL)$membership
+#    fgc_u  <- cluster_fast_greedy(g, weights = NULL)$membership
+#    wtc4_u <- cluster_walktrap(g, weights = NULL, steps = 4)$membership
 #    wtc4_u <- 1
-    wtc5_u <- cluster_walktrap(g, weights = NULL, steps = 5)$membership
+#    wtc5_u <- cluster_walktrap(g, weights = NULL, steps = 5)$membership
 #    wtc5_u <- 1
-    wtc6_u <- cluster_walktrap(g, weights = NULL, steps = 6)$membership
+#    wtc6_u <- cluster_walktrap(g, weights = NULL, steps = 6)$membership
 #    wtc6_u <- 1
 #    wtc7_u <- cluster_walktrap(g, weights = NULL, steps = 7)$membership
     sgc_u  <- cluster_spinglass(g, weights = NULL, spins = 100, cool.fact = 0.99)$membership
 #    sgc_u  <- 1
-    inf_u  <- cluster_infomap(g, nb.trials = 100, e.weights = NULL)$membership
+#    inf_u  <- cluster_infomap(g, nb.trials = 100, e.weights = NULL)$membership
 #    inf_u  <- 1
-    lou_u  <- cluster_louvain(g, weights = NULL)$membership
+#    lou_u  <- cluster_louvain(g, weights = NULL)$membership
 #    lou_u  <- 1
 #    opt_u  <- cluster_optimal(g, weights = NULL)$membership
 #    opt_u  <- 1
-    eig_u  <- cluster_leading_eigen(g, weights = NULL)$membership
+#    eig_u  <- cluster_leading_eigen(g, weights = NULL)$membership
 #    eig_u  <- 1
 
     # W
-    ebc_w  <- cluster_edge_betweenness(g, directed = FALSE, weights = E(g)$weight)$membership
-    fgc_w  <- cluster_fast_greedy(g, weights = E(g)$value)$membership
-    wtc4_w <- cluster_walktrap(g, weights = E(g)$value, steps = 4)$membership
+#    ebc_w  <- cluster_edge_betweenness(g, directed = FALSE, weights = E(g)$weight)$membership
+#    fgc_w  <- cluster_fast_greedy(g, weights = E(g)$value)$membership
+#    wtc4_w <- cluster_walktrap(g, weights = E(g)$value, steps = 4)$membership
 #    wtc4_w <- 1
-    wtc5_w <- cluster_walktrap(g, weights = E(g)$value, steps = 5)$membership
+#    wtc5_w <- cluster_walktrap(g, weights = E(g)$value, steps = 5)$membership
 #    wtc5_w <- 1
-    wtc6_w <- cluster_walktrap(g, weights = E(g)$value, steps = 6)$membership
+#    wtc6_w <- cluster_walktrap(g, weights = E(g)$value, steps = 6)$membership
 #    wtc6_w <- 1
 #    wtc7_w <- cluster_walktrap(g, weights = E(g)$value, steps = 7)$membership
     sgc_w  <- cluster_spinglass(g, weights = E(g)$value, spins = 100, cool.fact = 0.99)$membership
 #    sgc_w  <- 1
-    inf_w  <- cluster_infomap(g, nb.trials = 100, e.weights = E(g)$value)$membership
+#    inf_w  <- cluster_infomap(g, nb.trials = 100, e.weights = E(g)$value)$membership
 #    inf_w  <- 1
-    lou_w  <- cluster_louvain(g, weights = E(g)$value)$membership
+#    lou_w  <- cluster_louvain(g, weights = E(g)$value)$membership
 #    lou_w  <- 1
 #    opt_w  <- cluster_optimal(g, weights = E(g)$value)$membership
 #    opt_w  <- 1
-    eig_w  <- cluster_leading_eigen(g, weights = E(g)$value)$membership
+#    eig_w  <- cluster_leading_eigen(g, weights = E(g)$value)$membership
 #    eig_w  <- 1
 
     ## Assignment ##

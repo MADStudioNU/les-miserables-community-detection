@@ -1,0 +1,31 @@
+Id,Label,Description,sgcu,sgcw
+1.0,Enjolras,"Enjolras, chief of Friends of the ABC",1.0,2.0
+2.0,Feuilly,"Feuilly, member, Friends of the ABC",1.0,2.0
+3.0,Combeferre,"Combeferre, member, Friends of the ABC",1.0,2.0
+4.0,Bossuet,"Bossuet (Lesgle), member, Friends of the ABC",1.0,2.0
+5.0,Courfeyrac,"Courfeyrac, member, Friends of the ABC",1.0,2.0
+6.0,Joly,"Joly, member Friends of the ABC",1.0,2.0
+7.0,Insurgent workers,Insurgent workers,1.0,2.0
+8.0,Anonymous worker,Anonymous worker at barricade,1.0,2.0
+9.0,Marius,Marius,2.0,4.0
+10.0,Jean Valjean,Jean Valjean,3.0,4.0
+11.0,Javert,"Javert, police officer",3.0,1.0
+12.0,Government troops,Government troops,1.0,2.0
+13.0,Gavroche,"Gavroche, son of the Thénardiers",1.0,2.0
+14.0,Eponine,"Eponine, daughter of the Thénardiers",3.0,1.0
+15.0,Grantaire,"Grantaire, Friends of the ABC skeptic",1.0,2.0
+16.0,Sewermen,Sewermen,3.0,4.0
+17.0,Thénardier,"Thénardier, innkeeper in Montfermeil, aka Jondrette",3.0,1.0
+18.0,Javert's coachman,Coachman assisting Javert,3.0,1.0
+19.0,"Concierge, Gillenormand",Concierge at Gillenormand,2.0,4.0
+20.0,Basque,"Basque, manservant to Gillenormand",2.0,4.0
+21.0,Nicolette,"Nicolette, maid to Gillenormand",2.0,4.0
+22.0,Mlle Gillenormand,"Mlle Gillenormand, unmarried daughter of Gillenormand",2.0,4.0
+23.0,"Doctor, Gillenormand",Doctor at Gillenormand,2.0,4.0
+24.0,M. Gillenormand,"M. Gillenormand, Marius's grandfather",2.0,4.0
+25.0,Boulatruelle,"Boulatruelle, former convict and road mender in Montfermeil",3.0,4.0
+26.0,Cosette,"Cosette, daughter of Fantine",2.0,4.0
+27.0,Azelma,"Azelma, daughter of the Thénardiers",3.0,1.0
+28.0,"Concierge, l'Homme Armé",Concierge at rue de l'Homme Armé,3.0,3.0
+29.0,Concierge's husband,Husband of Concierge at rue de l'Homme Armé,3.0,3.0
+30.0,"Doctor, Valjean",Doctor to Valjean,3.0,3.0
