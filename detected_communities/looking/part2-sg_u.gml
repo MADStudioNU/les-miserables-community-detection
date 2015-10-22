@@ -1,4 +1,4 @@
-Creator "igraph version @VERSION@ Fri Oct  9 10:32:29 2015"
+Creator "igraph version @VERSION@ Tue Oct 20 15:44:47 2015"
 Version 1
 graph
 [
@@ -9,8 +9,8 @@ graph
     name "GP"
     description "Colonel George Pontmercy, Marius's father"
     label "Colonel Pontmercy"
-    group 1
-    color "#CF7BCE"
+    group 6
+    color "#83D64E"
   ]
   node
   [
@@ -18,8 +18,8 @@ graph
     name "BZ"
     description "Boulatruelle, former convict and road mender in Montfermeil"
     label "Boulatruelle"
-    group 1
-    color "#CF7BCE"
+    group 6
+    color "#83D64E"
   ]
   node
   [
@@ -28,7 +28,7 @@ graph
     description "Boatswain on the Orion saved by Valjean"
     label "Boatswain"
     group 2
-    color "#65C3CC"
+    color "#71CF9F"
   ]
   node
   [
@@ -36,8 +36,8 @@ graph
     name "CO"
     description "Cosette, daughter of Fantine"
     label "Cosette"
-    group 3
-    color "#DE9159"
+    group 2
+    color "#71CF9F"
   ]
   node
   [
@@ -45,8 +45,8 @@ graph
     name "AZ"
     description "Azelma, daughter of the Thénardiers"
     label "Azelma"
-    group 3
-    color "#DE9159"
+    group 4
+    color "#CDBA54"
   ]
   node
   [
@@ -54,8 +54,8 @@ graph
     name "EP"
     description "Eponine, daughter of the Thénardiers"
     label "Eponine"
-    group 3
-    color "#DE9159"
+    group 4
+    color "#CDBA54"
   ]
   node
   [
@@ -63,8 +63,8 @@ graph
     name "TH"
     description "Thénardier, innkeeper in Montfermeil, aka Jondrette"
     label "Thénardier"
-    group 1
-    color "#CF7BCE"
+    group 6
+    color "#83D64E"
   ]
   node
   [
@@ -72,8 +72,8 @@ graph
     name "PZ"
     description "Peddler in Thénardier's inn"
     label "Peddler"
-    group 3
-    color "#DE9159"
+    group 6
+    color "#83D64E"
   ]
   node
   [
@@ -82,7 +82,7 @@ graph
     description "Jean Valjean"
     label "Jean Valjean"
     group 2
-    color "#65C3CC"
+    color "#71CF9F"
   ]
   node
   [
@@ -90,8 +90,8 @@ graph
     name "DH"
     description "Duc d'Havré, accompanies Louis-Philippe"
     label "Duc d'Havré"
-    group 2
-    color "#65C3CC"
+    group 1
+    color "#7DA5E0"
   ]
   node
   [
@@ -100,7 +100,7 @@ graph
     description "Montfermeuil coachman"
     label "Montfermeuil coachman"
     group 2
-    color "#65C3CC"
+    color "#71CF9F"
   ]
   node
   [
@@ -108,8 +108,8 @@ graph
     name "JA"
     description "Javert, police officer"
     label "Javert"
-    group 2
-    color "#65C3CC"
+    group 3
+    color "#E47E64"
   ]
   node
   [
@@ -117,8 +117,8 @@ graph
     name "FF"
     description "Fauchelevent, failed notary turned carter in M-sur-M"
     label "Fauchelevent"
-    group 4
-    color "#99D05F"
+    group 5
+    color "#DA73CF"
   ]
   node
   [
@@ -126,8 +126,8 @@ graph
     name "GA"
     description "Gavroche, son of the Thénardiers"
     label "Gavroche"
-    group 3
-    color "#DE9159"
+    group 4
+    color "#CDBA54"
   ]
   node
   [
@@ -135,8 +135,8 @@ graph
     name "TM"
     description "Madame Thénardier, wife of Thénardier"
     label "Mme Thénardier"
-    group 3
-    color "#DE9159"
+    group 6
+    color "#83D64E"
   ]
   node
   [
@@ -144,8 +144,8 @@ graph
     name "LP"
     description "Louis-Philippe d'Orléans, King of France"
     label "Louis-Philippe"
-    group 2
-    color "#65C3CC"
+    group 1
+    color "#7DA5E0"
   ]
   node
   [
@@ -153,8 +153,8 @@ graph
     name "LL"
     description "Landlady at Gorbeau House (during JVJ's stay)"
     label "Landlady, Gorbeau"
-    group 2
-    color "#65C3CC"
+    group 3
+    color "#E47E64"
   ]
   node
   [
@@ -163,7 +163,7 @@ graph
     description "Toll keeper at Austerlitz bridge"
     label "Toll keeper"
     group 2
-    color "#65C3CC"
+    color "#71CF9F"
   ]
   node
   [
@@ -171,8 +171,8 @@ graph
     name "SO"
     description "Soldiers pursuing Valjean, led by Javert"
     label "Soldiers"
-    group 2
-    color "#65C3CC"
+    group 3
+    color "#E47E64"
   ]
   node
   [
@@ -180,8 +180,8 @@ graph
     name "MI"
     description "Mother Innocent, prioress of Convent of Petit Picpus"
     label "Mother Innocent"
-    group 4
-    color "#99D05F"
+    group 5
+    color "#DA73CF"
   ]
   node
   [
@@ -189,8 +189,8 @@ graph
     name "GR"
     description "Gribier, new gravedigger at Vaugirard cemetery"
     label "Gribier"
-    group 4
-    color "#99D05F"
+    group 5
+    color "#DA73CF"
   ]
   edge
   [
