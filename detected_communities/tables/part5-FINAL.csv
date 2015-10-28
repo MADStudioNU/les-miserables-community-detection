@@ -1,0 +1,35 @@
+Id,Label,name,description,group,color
+0.0,Enjolras,EN,"Enjolras, chief of Friends of the ABC",4.0,#CBBF54
+1.0,Combeferre,CM,"Combeferre, member, Friends of the ABC",4.0,#CBBF54
+2.0,Bossuet,BO,"Bossuet (Lesgle), member, Friends of the ABC",4.0,#CBBF54
+3.0,Courfeyrac,CR,"Courfeyrac, member, Friends of the ABC",4.0,#CBBF54
+4.0,Feuilly,FE,"Feuilly, member, Friends of the ABC",4.0,#CBBF54
+5.0,Insurgent workers,IW,Insurgent workers,4.0,#CBBF54
+6.0,Jean Valjean,JV,Jean Valjean,1.0,#68BDD5
+7.0,Javert,JA,"Javert, police officer",2.0,#79D269
+8.0,Gavroche,GA,"Gavroche, son of the Thénardiers",4.0,#CBBF54
+9.0,Government troops,GV,Government troops,4.0,#CBBF54
+10.0,Eponine,EP,"Eponine, daughter of the Thénardiers",2.0,#79D269
+11.0,Joly,JO,"Joly, member Friends of the ABC",4.0,#CBBF54
+12.0,Grantaire,GT,"Grantaire, Friends of the ABC skeptic",4.0,#CBBF54
+13.0,Marius,MA,Marius,1.0,#68BDD5
+14.0,Javert's coachman,CJ,Coachman assisting Javert,2.0,#79D269
+15.0,"Concierge, Gillenormand",CX,Concierge at Gillenormand,5.0,#D07AD3
+16.0,Basque,BQ,"Basque, manservant to Gillenormand",5.0,#D07AD3
+17.0,Mlle Gillenormand,MG,"Mlle Gillenormand, unmarried daughter of Gillenormand",5.0,#D07AD3
+18.0,"Doctor, Gillenormand",DG,Doctor at Gillenormand,5.0,#D07AD3
+19.0,M. Gillenormand,GI,"M. Gillenormand, Marius's grandfather",1.0,#68BDD5
+20.0,Boulatruelle,BZ,"Boulatruelle, former convict and road mender in Montfermeil",1.0,#68BDD5
+21.0,Cosette,CO,"Cosette, daughter of Fantine",1.0,#68BDD5
+22.0,Azelma,AZ,"Azelma, daughter of the Thénardiers",2.0,#79D269
+23.0,"Concierge, l'Homme Armé",CY,Concierge at rue de l'Homme Armé,3.0,#E48063
+24.0,"Doctor, Valjean",DJ,Doctor to Valjean,3.0,#E48063
+25.0,Anonymous worker,WA,Anonymous worker at barricade,4.0,#CBBF54
+26.0,Sewermen,SW,Sewermen,1.0,#68BDD5
+27.0,Thénardier,TH,"Thénardier, innkeeper in Montfermeil, aka Jondrette",2.0,#79D269
+28.0,Nicolette,NI,"Nicolette, maid to Gillenormand",5.0,#D07AD3
+29.0,Concierge's husband,CZ,Husband of Concierge at rue de l'Homme Armé,3.0,#E48063
+320,Bourgeois man,BX,Bourgeois man in Luxemburg gardens,6.0,
+321,Bourgeois son,BY,Bourgeois man's son,6.0,
+322,Older child,XA,"Older Child, son of Thénardier, raised by Magnon",6.0,
+323,Younger child,XB,"Younger Child, son of Thénardier, raised by Magnon",6.0,

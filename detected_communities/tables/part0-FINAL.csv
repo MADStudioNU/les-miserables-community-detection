@@ -1,0 +1,182 @@
+Id,Label,name,description,group,color
+0.0,Bishop Myriel,MY,"M. Myriel, Bishop of Digne",1.0,#D78DCC
+1.0,Mlle Baptistine,MB,"Mlle Baptistine, sister of Myriel",1.0,#D78DCC
+2.0,Mme Magloire,ME,"Mme Magloire, housekeeper to Myriel",1.0,#D78DCC
+3.0,Hospital director,HD,Hospital director in Digne,1.0,#D78DCC
+4.0,Mayor of Senez,MS,Mayor of Senez,1.0,#D78DCC
+5.0,Countess de Lô,CL,"Countess de Lô, distant relative of Myriel",1.0,#D78DCC
+6.0,Géborand,GE,"Géborand, retired merchant of Digne",1.0,#D78DCC
+7.0,Champtercier,MC,"Marquis de Champtercier, ultra-royalist in Digne",1.0,#D78DCC
+8.0,Condemned to death,CD,Man condemned to death,1.0,#D78DCC
+9.0,"Curé, Digne",CA,Curé in Digne,1.0,#D78DCC
+10.0,Chastelar mayor,MH,Mayor of Chastelar,1.0,#D78DCC
+11.0,Mountain curé,CB,Curé in the mountains near Digne,1.0,#D78DCC
+12.0,Cravatte,CV,"Cravatte, mountain bandit",1.0,#D78DCC
+13.0,Conventionist,GG,"G--, a Convenionist",1.0,#D78DCC
+14.0,"Gendarme, Digne",GD,Gendarme in Digne,2.0,#69D19D
+15.0,Labarre,JL,"Labarre, innkeeper in Digne",3.0,#EE5A96
+16.0,Jean Valjean,JV,Jean Valjean,2.0,#69D19D
+17.0,"Fisherman, Digne",FM,Fisherman in Digne,3.0,#EE5A96
+18.0,"Jailer, Digne",JD,Jailer in the prison of Digne,2.0,#69D19D
+19.0,Digne peasant,PD,"Peasant in Digne, whom Valjean asks for food",2.0,#DA9934
+20.0,Valjean's sister,JM,"Jeanne, sister of Valjean",5.0,#E258E0
+21.0,Isabeau,IS,"Isabeau, baker in Faverolles",2.0,#69D19D
+22.0,Sister's son,JN,Youngest son of Valjean's sister,5.0,#E258E0
+23.0,"Foreman, Grasse",DO,Distillery foreman in Grasse,2.0,#69D19D
+24.0,Tholomyès,FT,"Tholomyès, Parisian student, lover of Fantine",6.0,#90A347
+25.0,Fameuil,FA,"Fameuil, Parisian student, lover of  Zéphine",6.0,#90A347
+26.0,Blachevelle,BL,"Blachevelle, Parisian student, lover of Favourite",6.0,#90A347
+27.0,Dahlia,DA,"Dahlia, mistress of Listolier",6.0,#90A347
+28.0,Fantine,FN,"Fantine, mistress of Tholomyès",6.0,#90A347
+29.0,Favourite,FV,"Favourite, mistress of Blachevelle",6.0,#90A347
+30.0,Listolier,LI,"Listolier, Parisian student, lover of Dahlia",6.0,#90A347
+31.0,Waiter,WB,Waiter at Bombarda,6.0,#90A347
+32.0,Azelma,AZ,"Azelma, daughter of the Thénardiers",7.0,#DDCD43
+33.0,Eponine,EP,"Eponine, daughter of the Thénardiers",7.0,#DDCD43
+34.0,Cosette,CO,"Cosette, daughter of Fantine",8.0,#64C961
+35.0,Thénardier,TH,"Thénardier, innkeeper in Montfermeil, aka Jondrette",7.0,#DDCD43
+36.0,Dowager M-s-M,DM,Dowager in M-sur-M,2.0,#69D19D
+37.0,Fauchelevent,FF,"Fauchelevent, failed notary turned carter in M-sur-M",9.0,#D3A06B
+38.0,Javert,JA,"Javert, police officer",7.0,#DDCD43
+39.0,Mme Thénardier,TM,"Madame Thénardier, wife of Thénardier",7.0,#DDCD43
+40.0,Furniture seller,FD,Secondhand dealer who sold furniture to Fantine,6.0,#90A347
+41.0,Landlord,FL,Fantine's landlord,6.0,#90A347
+42.0,Barber,FB,Barber to whom Fantine sells her hair,6.0,#90A347
+43.0,Bamatabois,BM,"M. Bamatabois, idler of M-sur-M",6.0,#69D19D
+44.0,Doctor M-s-M,DS,Doctor in M-sur-M hospital,6.0,#90A347
+45.0,Sister Perpétue,SP,"Sister Perpétue, nun at infirmary in M-sur-M",6.0,#90A347
+46.0,M. Scaufflaire,SC,"M. Scaufflaire, keeper of horses and coaches in M-sur-M",2.0,#9F84E8
+47.0,Cashier,CI,Cashier at M.Madeleine's manufactory,2.0,#5CCFD5
+48.0,Arras coachman,CE,Coachman of the mail to Arras,2.0,#69D19D
+49.0,Stable boy,BH,Stable boy in Hesdin,2.0,#69D19D
+50.0,Wheelright,BW,"Master Bourgaillard, wheelright",2.0,#69D19D
+51.0,Innkeeper's wife,IK,Innkeeper's wife at Saint Pol,2.0,#69D19D
+52.0,Hospital servant,SM,Servant at the hospital in M-sur-M,6.0,#90A347
+53.0,Booking clerk,BC,Booking clerk in Arras's court,2.0,#69D19D
+54.0,Arras lawyer,AA,Lawyer in Arras's court,2.0,#69D19D
+55.0,Bailiff,BI,Bailiff in Arras's court,2.0,#69D19D
+56.0,Champmathieu,CH,"Champmathieu, accused thief mistaken for Valjean",2.0,#69D19D
+57.0,Judge,JU,Judge at the Arras court,2.0,#69D19D
+58.0,Defense counsel,CK,Counsel for the defense in Champmathieu's trial,2.0,#69D19D
+59.0,Brevet,BR,"Brevet, convict in the galleys with Valjean",2.0,#69D19D
+60.0,Chenildieu,CN,"Chenildieu, convict in the galleys with Valjean",2.0,#69D19D
+61.0,Cochepaille,CC,"Cochepaille, convict in the galleys with Valjean",2.0,#69D19D
+62.0,Colonel Pontmercy,GP,"Colonel George Pontmercy, Marius's father",12.0,#75A4DE
+63.0,Boulatruelle,BZ,"Boulatruelle, former convict and road mender in Montfermeil",7.0,#DDCD43
+64.0,Boatswain,BS,Boatswain on the Orion saved by Valjean,2.0,#69D19D
+65.0,Peddler,PZ,Peddler in Thénardier's inn,7.0,#DDCD43
+66.0,Duc d'Havré,DH,"Duc d'Havré, accompanies Louis-Philippe",2.0,#69D19D
+67.0,Montfermeuil coachman,CF,Montfermeuil coachman,2.0,#69D19D
+68.0,M. Gillenormand,GI,"M. Gillenormand, Marius's grandfather",13.0,#EC693F
+69.0,Mlle Gillenormand,MG,"Mlle Gillenormand, unmarried daughter of Gillenormand",13.0,#EC693F
+70.0,Marius,MA,Marius,8.0,#64C961
+71.0,Baroness de T,BT,"Baroness de T-, friend of M. Gillenormand",13.0,#E18585
+72.0,Abbé Mabeuf,AM,"Abbé Mabeuf, curé in Vernon, brother of M. Mabeuf",12.0,#75A4DE
+73.0,"Doctor, Vernon",DV,Doctor in Vernon,12.0,#75A4DE
+74.0,Bossuet,BO,"Bossuet (Lesgle), member, Friends of the ABC",8.0,#64C961
+75.0,Courfeyrac,CR,"Courfeyrac, member, Friends of the ABC",8.0,#64C961
+76.0,Bahorel,BA,"Bahorel, member, Friends of the ABC",8.0,#64C961
+77.0,Combeferre,CM,"Combeferre, member, Friends of the ABC",8.0,#64C961
+78.0,Enjolras,EN,"Enjolras, chief of Friends of the ABC",8.0,#64C961
+79.0,Grantaire,GT,"Grantaire, Friends of the ABC skeptic",8.0,#64C961
+80.0,M. Mabeuf,MM,"M. Mabeuf, warden of St. Sulpice, bibliophile",8.0,#64C961
+81.0,Mme Burgon,BU,"Mme Burgon (aka Bougon), new concierge at the Gorbeau tenement",8.0,#64C961
+82.0,Prouvaire,JP,"Prouvaire, member Friends of the ABC",8.0,#64C961
+83.0,Gueulemer,GU,"Gueulemer, member of Patron-Minette",7.0,#DDCD43
+84.0,Parisian coachman,CG,Coachman by Gorbeau tenement,8.0,#64C961
+85.0,Panchaud,PN,"Panchaud, a criminal aka as Printanier, Bigrenaille",7.0,#DDCD43
+86.0,Brujon,BJ,"Brujon, criminal, associate of Patron-Minette",7.0,#DDCD43
+87.0,Deuxmilliards,DU,"Deux-millards, aka Demi-liard, a criminal",7.0,#DDCD43
+88.0,Babet,BB,"Babet, member, Patron-Minette",7.0,#DDCD43
+89.0,Claquesous,QU,"Claquesous, member of Patron-Minette,aka Le Cabuc",7.0,#DDCD43
+90.0,Feuilly,FE,"Feuilly, member, Friends of the ABC",8.0,#64C961
+91.0,Joly,JO,"Joly, member Friends of the ABC",8.0,#64C961
+92.0,Card player,CP,Man playing cards with Grantaire,8.0,#64C961
+93.0,Babet's girlfriend,BF,Babet's girlfriend,15.0,#64E343
+94.0,Gavroche,GA,"Gavroche, son of the Thénardiers",8.0,#64C961
+95.0,Magnon,MN,"Magnon, servant of Gillenormand",15.0,#64E343
+96.0,Older child,XA,"Older Child, son of Thénardier, raised by Magnon",15.0,#64E343
+97.0,Paris barber,BG,Barber encountered by Gavroche,15.0,#64E343
+98.0,Paris baker,BK,"Baker, visited by Gavroche",8.0,#64C961
+99.0,Montparnasse,MO,"Montparnasse, member of Patron-Minette",7.0,#DDCD43
+100.0,Basque,BQ,"Basque, manservant to Gillenormand",13.0,#EC693F
+101.0,Minister of agriculture,MU,Minister of agriculture,8.0,#CEDF8D
+102.0,Gardener,GN,"Gardener, encountered by Mabeuf",8.0,#64C961
+103.0,Ragpicker,RP,Ragpicker,8.0,#64C961
+104.0,Mme Hucheloup,HL,"Mme Hucheloup, keeper of Corinth Inn",8.0,#64C961
+105.0,Gibolette,GB,"Gibolette, servant in Corinth Inn",8.0,#64C961
+106.0,Dandy,DN,Dandy near the barricade,8.0,#64C961
+107.0,"Porter, barricade",PC,Porter shot at the barricade by Le Cabuc,7.0,#DDCD43
+108.0,Government troops,GV,Government troops,8.0,#64C961
+109.0,Drunk coachman,DR,Drunk Auvergnat coachman,8.0,#64C961
+110.0,Insurgent workers,IW,Insurgent workers,8.0,#64C961
+111.0,Bourgeois man,BX,Bourgeois man in Luxemburg gardens,15.0,#64E343
+112.0,Bourgeois son,BY,Bourgeois man's son,15.0,#64E343
+113.0,Javert's coachman,CJ,Coachman assisting Javert,7.0,#DDCD43
+114.0,"Concierge, Gillenormand",CX,Concierge at Gillenormand,13.0,#EC693F
+115.0,"Doctor, Gillenormand",DG,Doctor at Gillenormand,13.0,#EC693F
+116.0,"Concierge, l'Homme Armé",CY,Concierge at rue de l'Homme Armé,17.0,#B4DF44
+117.0,"Doctor, Valjean",DJ,Doctor to Valjean,17.0,#B4DF44
+118.0,Napoleon,NP,"Napoleon, Emperor of France",1.0,#D78DCC
+119.0,Senator,SN,"Senator, Count ***, in Digne",1.0,#D78DCC
+120.0,Mme Boischevron,VB,"Mme Boischevron, friend and correspondent of Mlle Baptistine",1.0,#D78DCC
+121.0,Shepherd boy,SB,"Shepherd boy, serves G-- the conventionist",1.0,#D78DCC
+122.0,Kitchen boy,KB,Kitchen boy at Labarre's inn,3.0,#EE5A96
+123.0,Tavern keeper,KT,Tavern keeper in Digne,3.0,#EE5A96
+124.0,Peasant's wife,PE,Peasant's wife,2.0,#DA9934
+125.0,Marquise de R,MR,"Marquise de R-, inhabitant of Digne",2.0,#69D19D
+126.0,Marie-Claude,MD,"Marie-Claude, neighbor of the Valjeans in Faverolles",2.0,#69D19D
+127.0,Prison guard,PR,Prison guard,2.0,#69D19D
+128.0,Door keeper,KD,Door keeper at a Paris bindery,5.0,#E258E0
+129.0,Three gendarmes,TR,"Three gendarmes, arrested Valjean",1.0,#D78DCC
+130.0,Petit Gervais,PG,"Petit Gervais, a chimney sweep",2.0,#69D19D
+131.0,"Priest, Digne",PH,A priest on the road from Digne,2.0,#69D19D
+132.0,Zephine,ZE,"Zephine, mistress of Fameuil",6.0,#90A347
+133.0,Thénardiers' neighbor,NT,Neighbor of Thénardiers,6.0,#90A347
+134.0,Mme Victurnien,VI,"Mme Victurnien, snoop in M-sur-M",7.0,#DDCD43
+135.0,Factory supervisor,SF,Supervisor in M. Madeleine's factory,6.0,#90A347
+136.0,Marguerite,MT,"Marguerite, friend of Fantine in M-sur-M",6.0,#90A347
+137.0,Itinerant dentist,ID,Itinerant dentist,6.0,#90A347
+138.0,Police sergeant M-s-M,SG,Police sergeant in M-sur-M,7.0,#DDCD43
+139.0,Sister Simplice,SS,"Sister Simplice, nun at infirmary in M-sur-M",6.0,#90A347
+140.0,Scaufflaire's wife,SD,M. Scaufflaire's wife,2.0,#9F84E8
+141.0,"Portress, M-s-M",PO,Portress of JV in M-sur-M,2.0,#5CCFD5
+142.0,Old woman,WH,Old woman in Hesdin,2.0,#69D19D
+143.0,Old woman's son,WI,Old woman's son,2.0,#69D19D
+144.0,Saint Pol Servant girl,SE,Servant girl in Saint Pol,2.0,#69D19D
+145.0,German teamster,TE,German teamster,2.0,#69D19D
+146.0,Road mender,RM,Road mender,2.0,#69D19D
+147.0,Postillion,PT,"Postillion, accompanying Valjean to Arras",2.0,#69D19D
+148.0,Arras hotel keeper,LR,Landlady at an Arras hotel,2.0,#69D19D
+149.0,Arras resident,RA,Resident of Arras,2.0,#69D19D
+150.0,Prosecuting attorney,PA,Prosecuting attorney in Champmathieu trial,2.0,#69D19D
+151.0,Louis-Philippe,LP,"Louis-Philippe d'Orléans, King of France",2.0,#69D19D
+152.0,"Landlady, Gorbeau",LL,Landlady at Gorbeau House (during JVJ's stay),7.0,#DDCD43
+153.0,Toll keeper,KA,Toll keeper at Austerlitz bridge,2.0,#69D19D
+154.0,Soldiers,SO,"Soldiers pursuing Valjean, led by Javert",2.0,#69D19D
+155.0,Mother Innocent,MI,"Mother Innocent, prioress of Convent of Petit Picpus",9.0,#D3A06B
+156.0,Gribier,GR,"Gribier, new gravedigger at Vaugirard cemetery",9.0,#D3A06B
+157.0,Mlle Vaubois,MV,"Mlle Vaubois, friend of Mlle Gillenormand",13.0,#EC693F
+158.0,Théodule,TG,"Lieutenant Théodule Gillenormand, grandnephew of Gillenormand",13.0,#EC693F
+159.0,Count Lamothe,LA,"Count Lamothe, member of Baroness de T-'s salon",13.0,#E18585
+160.0,Pontmercy's servant,WP,Woman servant to Colonel Pontmercy,12.0,#75A4DE
+161.0,Mme Pontmercy,MP,"Mme Pontmercy, younger daughter of Gillenormand",12.0,#75A4DE
+162.0,Mother Plutarch,PL,"Mother Plutarch, housekeeper of M. Mabeuf",8.0,#64C961
+163.0,Marius's servant,SR,Servant to Marius at Garbeau tenement,8.0,#64C961
+164.0,"Porter, r. de l'Ouest",PS,"Porter, rue de l'Ouest",2.0,#69D19D
+165.0,"Guard, La Force",GF,"Guard, La Force prison",7.0,#DDCD43
+166.0,Toussaint,TS,"Toussaint, servant of Valjean at Rue Plumet",2.0,#DDCD43
+167.0,Younger child,XB,"Younger Child, son of Thénardier, raised by Magnon",15.0,#64E343
+168.0,Poor girl,GL,"Poor girl, helped by Gavroche",8.0,#64C961
+169.0,Minister's wife,MW,Minister of agriculture's wife,8.0,#CEDF8D
+170.0,Secondhand dealer,GS,Secondhand dealer from whom Gavroche 'borrows' a pistol,8.0,#64C961
+171.0,Three concierges,TC,"Three concierges, met by Gvaroche",8.0,#64C961
+172.0,Old soldier,OS,Old soldier at barbershop,15.0,#64E343
+173.0,"Concierge, Verrerie",CW,"Concierge, rue de la Verrerie",8.0,#64C961
+174.0,Matelotte,ML,"Matelotte, a servant at the Corinth Inn",8.0,#64C961
+175.0,Navet,NA,"Navet, friend of Gavroche",8.0,#64C961
+176.0,"Sergeant, Imprimérie",SI,Sergeant at the Imprimérie Royale post,8.0,#64C961
+177.0,Anonymous worker,WA,Anonymous worker at barricade,8.0,#64C961
+178.0,Sewermen,SW,Sewermen,2.0,#69D19D
+179.0,Nicolette,NI,"Nicolette, maid to Gillenormand",13.0,#EC693F
+180.0,Concierge's husband,CZ,Husband of Concierge at rue de l'Homme Armé,17.0,#B4DF44

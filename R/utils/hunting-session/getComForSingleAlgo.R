@@ -39,7 +39,7 @@
 #    opt_w  <- cluster_optimal(g, weights = E(g)$value)
 #    eig_w  <- cluster_leading_eigen(g, weights = E(g)$value)
 
-    groups_u <- cluster_edge_betweenness(g, directed = FALSE, weights = NULL)
+    groups_u <- cluster_spinglass(g, spins = 100, cool.fact = 0.99, gamma = 1.5, weights = NULL)
     groups_w <- cluster_edge_betweenness(g, directed = FALSE, weights = E(g)$weight)
 
     n_u <- max(groups_u$membership);
@@ -54,7 +54,7 @@
     if(writeFile)
     {
         write.graph(G_u, paste("detected_communities/looking/", sourceFileName, "-", postfix, "_u.gml", sep=""), format = ("gml"));
-        write.graph(G_w, paste("detected_communities/looking/", sourceFileName, "-", postfix, "_w.gml", sep=""), format = ("gml"));
+        #write.graph(G_w, paste("detected_communities/looking/", sourceFileName, "-", postfix, "_w.gml", sep=""), format = ("gml"));
     }
 
     print("Done!")
@@ -64,10 +64,10 @@
     print(paste("Here is the palette applied onto the weighted graph:"))
     print(iwanthue(n_w, cmin=40, lmin=55))
 
-    par(mfrow=c(1,2))
+    par(mfrow=c(1,1))
     plot(G_u, vertex.label=V(G_u)$name, vertex.size = 5, vertex.label.cex = 0.75, main = paste(sourceFileName, postfix, "(unweighted)"))
-    plot(G_w, vertex.label=V(G_w)$name, vertex.size = 5, vertex.label.cex = 0.75, main = paste(sourceFileName, postfix, "(weighted)"))
+    #plot(G_w, vertex.label=V(G_w)$name, vertex.size = 5, vertex.label.cex = 0.75, main = paste(sourceFileName, postfix, "(weighted)"))
 
     tkplot(G_u, vertex.label=V(G_u)$name, main = paste(sourceFileName, postfix, "(unweighted)"))
-    tkplot(G_w, vertex.label=V(G_u)$name, main = paste(sourceFileName, postfix, "(weighted)"))
+    #tkplot(G_w, vertex.label=V(G_u)$name, main = paste(sourceFileName, postfix, "(weighted)"))
 }

@@ -1,4 +1,4 @@
-getComForAllAlgos <- function(sourceFileName){
+getComForFaves <- function(sourceFileName){
 
     d <- read.csv(paste("parsed_data/", sourceFileName, "_edges.csv", sep=""), header = T, na.strings = "NaN")[ ,c("Source", "Target")]
     a <- read.csv(paste("parsed_data/", sourceFileName, "_nodes.csv", sep=""), header = T, na.strings = "NaN")
@@ -18,74 +18,76 @@ getComForAllAlgos <- function(sourceFileName){
     # U
 #    ebc_u  <- cluster_edge_betweenness(g, directed = FALSE, weights = NULL)$membership
     fgc_u  <- cluster_fast_greedy(g, weights = NULL)$membership
+    print(max(fgc_u))
 #    wtc4_u <- cluster_walktrap(g, weights = NULL, steps = 4)$membership
 #    wtc4_u <- 1
-    wtc5_u <- cluster_walktrap(g, weights = NULL, steps = 5)$membership
+#    wtc5_u <- cluster_walktrap(g, weights = NULL, steps = 5)$membership
 #    wtc5_u <- 1
-    wtc6_u <- cluster_walktrap(g, weights = NULL, steps = 6)$membership
+#    wtc6_u <- cluster_walktrap(g, weights = NULL, steps = 6)$membership
 #    wtc6_u <- 1
 #    wtc7_u <- cluster_walktrap(g, weights = NULL, steps = 7)$membership
-    sgc_u  <- cluster_spinglass(g, weights = NULL, spins = 100, cool.fact = 0.99)$membership
-    sgc_s100g150_u <- cluster_spinglass(g, spins = 100, cool.fact = 0.99, gamma = 1.5, weights = NULL)
+#    sgc_u  <- cluster_spinglass(g, weights = NULL, spins = 100, cool.fact = 0.99)$membership
+    sgc_s100g150_u <- cluster_spinglass(g, spins = 100, cool.fact = 0.99, gamma = 1.5, weights = NULL)$membership
+    print(max(sgc_s100g150_u))
 #    sgc_u  <- 1
-    inf_u  <- cluster_infomap(g, nb.trials = 100, e.weights = NULL)$membership
+#    inf_u  <- cluster_infomap(g, nb.trials = 100, e.weights = NULL)$membership
 #    inf_u  <- 1
-    lou_u  <- cluster_louvain(g, weights = NULL)$membership
+#    lou_u  <- cluster_louvain(g, weights = NULL)$membership
 #    lou_u  <- 1
 #    opt_u  <- cluster_optimal(g, weights = NULL)$membership
 #    opt_u  <- 1
-    eig_u  <- cluster_leading_eigen(g, weights = NULL)$membership
+#    eig_u  <- cluster_leading_eigen(g, weights = NULL)$membership
 #    eig_u  <- 1
 
     # W
-    ebc_w  <- cluster_edge_betweenness(g, directed = FALSE, weights = E(g)$weight)$membership
-    fgc_w  <- cluster_fast_greedy(g, weights = E(g)$value)$membership
-    wtc4_w <- cluster_walktrap(g, weights = E(g)$value, steps = 4)$membership
+#    ebc_w  <- cluster_edge_betweenness(g, directed = FALSE, weights = E(g)$weight)$membership
+#    fgc_w  <- cluster_fast_greedy(g, weights = E(g)$value)$membership
+#    wtc4_w <- cluster_walktrap(g, weights = E(g)$value, steps = 4)$membership
 #    wtc4_w <- 1
-    wtc5_w <- cluster_walktrap(g, weights = E(g)$value, steps = 5)$membership
+#    wtc5_w <- cluster_walktrap(g, weights = E(g)$value, steps = 5)$membership
 #    wtc5_w <- 1
-    wtc6_w <- cluster_walktrap(g, weights = E(g)$value, steps = 6)$membership
+#    wtc6_w <- cluster_walktrap(g, weights = E(g)$value, steps = 6)$membership
 #    wtc6_w <- 1
 #    wtc7_w <- cluster_walktrap(g, weights = E(g)$value, steps = 7)$membership
-    sgc_w  <- cluster_spinglass(g, weights = E(g)$value, spins = 100, cool.fact = 0.99)$membership
-    sgc_s100g150_w <- cluster_spinglass(g, spins = 100, cool.fact = 0.99, gamma = 1.5, weights = E(g)$weight)
+#    sgc_w  <- cluster_spinglass(g, weights = E(g)$value, spins = 100, cool.fact = 0.99)$membership
+#    sgc_s100g150_w <- cluster_spinglass(g, spins = 100, cool.fact = 0.99, gamma = 1.5, weights = E(g)$weight)
 #    sgc_w  <- 1
-    inf_w  <- cluster_infomap(g, nb.trials = 100, e.weights = E(g)$value)$membership
+#    inf_w  <- cluster_infomap(g, nb.trials = 100, e.weights = E(g)$value)$membership
 #    inf_w  <- 1
-    lou_w  <- cluster_louvain(g, weights = E(g)$value)$membership
+#    lou_w  <- cluster_louvain(g, weights = E(g)$value)$membership
 #    lou_w  <- 1
 #    opt_w  <- cluster_optimal(g, weights = E(g)$value)$membership
 #    opt_w  <- 1
-    eig_w  <- cluster_leading_eigen(g, weights = E(g)$value)$membership
+#    eig_w  <- cluster_leading_eigen(g, weights = E(g)$value)$membership
 #    eig_w  <- 1
 
     ## Assignment ##
 
     # U
-    V(G)$ebcU  <- ebc_u
+#    V(G)$ebcU  <- ebc_u
     V(G)$fgcU  <- fgc_u
-    V(G)$wtc4U <- wtc4_u
-    V(G)$wtc5U <- wtc5_u
-    V(G)$wtc6U <- wtc6_u
-    V(G)$sgcU  <- sgc_u
-    V(G)$sgcs100g150U  <- sgc_sgc_s100g150_u
-    V(G)$infU  <- inf_u
-    V(G)$louU  <- lou_u
+#    V(G)$wtc4U <- wtc4_u
+#    V(G)$wtc5U <- wtc5_u
+#    V(G)$wtc6U <- wtc6_u
+#    V(G)$sgcU  <- sgc_u
+    V(G)$sgcs100g150U  <- sgc_s100g150_u
+#    V(G)$infU  <- inf_u
+#    V(G)$louU  <- lou_u
 #    V(G)$optU  <- opt_u
-    V(G)$eigU  <- eig_u
+#    V(G)$eigU  <- eig_u
 
     # W
-    V(G)$ebcW  <- ebc_w
-    V(G)$fgcW  <- fgc_w
-    V(G)$wtc4W <- wtc4_w
-    V(G)$wtc5W <- wtc5_w
-    V(G)$wtc6W <- wtc6_w
-    V(G)$sgcW  <- sgc_w
-    V(G)$sgcs100g150W  <- sgc_s100g150_w
-    V(G)$infW  <- inf_w
-    V(G)$louW  <-lou_w
+#    V(G)$ebcW  <- ebc_w
+#    V(G)$fgcW  <- fgc_w
+#    V(G)$wtc4W <- wtc4_w
+#    V(G)$wtc5W <- wtc5_w
+#    V(G)$wtc6W <- wtc6_w
+#    V(G)$sgcW  <- sgc_w
+#    V(G)$sgcs100g150W  <- sgc_s100g150_w
+#    V(G)$infW  <- inf_w
+#    V(G)$louW  <-lou_w
 #    V(G)$optW  <- opt_w
-    V(G)$eigW  <- eig_w
+#    V(G)$eigW  <- eig_w
 
     ## Coloring ##
 
@@ -115,7 +117,7 @@ getComForAllAlgos <- function(sourceFileName){
 
     ## Write out ##
 
-    write.graph(G, paste("detected_communities/", sourceFileName, "-ALL.gml", sep=""), format = ("gml"));
+    write.graph(G, paste("detected_communities/", sourceFileName, "-FAVES.gml", sep=""), format = ("gml"));
 
     print("Done!")
 
