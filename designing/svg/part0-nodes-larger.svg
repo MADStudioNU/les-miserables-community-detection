@@ -1,0 +1,1762 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-55 -140 848 841" style="enable-background:new -55 -140 848 841;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#E41A1C;stroke-width:4.4;stroke-opacity:0.698;}
+	.st1{fill:none;stroke:#E41A1C;stroke-width:4;stroke-opacity:0.698;}
+	.st2{fill:none;stroke:#E41A1C;stroke-width:2.8;stroke-opacity:0.698;}
+	.st3{fill:none;stroke:#E41A1C;stroke-width:0.4;stroke-opacity:0.698;}
+	.st4{fill:none;stroke:#8D4C6A;stroke-width:2.4;stroke-opacity:0.698;}
+	.st5{fill:none;stroke:#8D4C6A;stroke-width:1.2;stroke-opacity:0.698;}
+	.st6{fill:none;stroke:#8D4C6A;stroke-width:0.8;stroke-opacity:0.698;}
+	.st7{fill:none;stroke:#377EB8;stroke-width:0.4;stroke-opacity:0.698;}
+	.st8{fill:none;stroke:#3D617E;stroke-width:0.8;stroke-opacity:0.698;}
+	.st9{fill:none;stroke:#444444;stroke-width:0.4;stroke-opacity:0.698;}
+	.st10{fill:none;stroke:#3D617E;stroke-width:0.4;stroke-opacity:0.698;}
+	.st11{fill:none;stroke:#997F95;stroke-width:0.4;stroke-opacity:0.698;}
+	.st12{fill:none;stroke:#FB8072;stroke-width:0.4;stroke-opacity:0.698;}
+	.st13{fill:none;stroke:#4DAF4A;stroke-width:2;stroke-opacity:0.698;}
+	.st14{fill:none;stroke:#4DAF4A;stroke-width:1.6;stroke-opacity:0.698;}
+	.st15{fill:none;stroke:#429681;stroke-width:4.8;stroke-opacity:0.698;}
+	.st16{fill:none;stroke:#4DAF4A;stroke-width:2.4;stroke-opacity:0.698;}
+	.st17{fill:none;stroke:#4DAF4A;stroke-width:0.4;stroke-opacity:0.698;}
+	.st18{fill:none;stroke:#6766AD;stroke-width:1.2;stroke-opacity:0.698;}
+	.st19{fill:none;stroke:#6766AD;stroke-width:0.8;stroke-opacity:0.698;}
+	.st20{fill:none;stroke:#984EA3;stroke-width:4.4;stroke-opacity:0.698;}
+	.st21{fill:none;stroke:#9B7E5C;stroke-width:24.8;stroke-opacity:0.698;}
+	.st22{fill:none;stroke:#A69725;stroke-width:0.8;stroke-opacity:0.698;}
+	.st23{fill:none;stroke:#CB6651;stroke-width:2;stroke-opacity:0.698;}
+	.st24{fill:none;stroke:#CB6651;stroke-width:1.6;stroke-opacity:0.698;}
+	.st25{fill:none;stroke:#6766AD;stroke-width:8;stroke-opacity:0.698;}
+	.st26{fill:none;stroke:#727E76;stroke-width:0.8;stroke-opacity:0.698;}
+	.st27{fill:none;stroke:#984EA3;stroke-width:4;stroke-opacity:0.698;}
+	.st28{fill:none;stroke:#984EA3;stroke-width:3.2;stroke-opacity:0.698;}
+	.st29{fill:none;stroke:#9BBE75;stroke-width:3.6;stroke-opacity:0.698;}
+	.st30{fill:none;stroke:#FFBF19;stroke-width:1.2;stroke-opacity:0.698;}
+	.st31{fill:none;stroke:#6766AD;stroke-width:9.6;stroke-opacity:0.698;}
+	.st32{fill:none;stroke:#727E76;stroke-width:2.4;stroke-opacity:0.698;}
+	.st33{fill:none;stroke:#984EA3;stroke-width:0.4;stroke-opacity:0.698;}
+	.st34{fill:none;stroke:#CB6651;stroke-width:0.4;stroke-opacity:0.698;}
+	.st35{fill:none;stroke:#984EA3;stroke-width:2;stroke-opacity:0.698;}
+	.st36{fill:none;stroke:#CBA66B;stroke-width:0.4;stroke-opacity:0.698;}
+	.st37{fill:none;stroke:#6766AD;stroke-width:4.4;stroke-opacity:0.698;}
+	.st38{fill:none;stroke:#727E76;stroke-width:1.2;stroke-opacity:0.698;}
+	.st39{fill:none;stroke:#984EA3;stroke-width:2.4;stroke-opacity:0.698;}
+	.st40{fill:none;stroke:#CB6651;stroke-width:5.2;stroke-opacity:0.698;}
+	.st41{fill:none;stroke:#984EA3;stroke-width:12.8;stroke-opacity:0.698;}
+	.st42{fill:none;stroke:#984EA3;stroke-width:1.2;stroke-opacity:0.698;}
+	.st43{fill:none;stroke:#429681;stroke-width:0.8;stroke-opacity:0.698;}
+	.st44{fill:none;stroke:#4DAF4A;stroke-width:1.2;stroke-opacity:0.698;}
+	.st45{fill:none;stroke:#377EB8;stroke-width:0.8;stroke-opacity:0.698;}
+	.st46{fill:none;stroke:#377EB8;stroke-width:1.2;stroke-opacity:0.698;}
+	.st47{fill:none;stroke:#429681;stroke-width:0.4;stroke-opacity:0.698;}
+	.st48{fill:none;stroke:#377EB8;stroke-width:2;stroke-opacity:0.698;}
+	.st49{fill:none;stroke:#98739E;stroke-width:0.4;stroke-opacity:0.698;}
+	.st50{fill:none;stroke:#984EA3;stroke-width:0.8;stroke-opacity:0.698;}
+	.st51{fill:none;stroke:#6E6A70;stroke-width:2;stroke-opacity:0.698;}
+	.st52{fill:none;stroke:#D26A14;stroke-width:1.2;stroke-opacity:0.698;}
+	.st53{fill:none;stroke:#6E6A70;stroke-width:0.8;stroke-opacity:0.698;}
+	.st54{fill:none;stroke:#D26A14;stroke-width:0.4;stroke-opacity:0.698;}
+	.st55{fill:none;stroke:#A65628;stroke-width:5.2;stroke-opacity:0.698;}
+	.st56{fill:none;stroke:#9B7E5C;stroke-width:14.8;stroke-opacity:0.698;}
+	.st57{fill:none;stroke:#CB6651;stroke-width:4;stroke-opacity:0.698;}
+	.st58{fill:none;stroke:#FF7F00;stroke-width:13.6;stroke-opacity:0.698;}
+	.st59{fill:none;stroke:#CB6651;stroke-width:1.2;stroke-opacity:0.698;}
+	.st60{fill:none;stroke:#CC8C4C;stroke-width:0.8;stroke-opacity:0.698;}
+	.st61{fill:none;stroke:#D26A14;stroke-width:8;stroke-opacity:0.698;}
+	.st62{fill:none;stroke:#D26A14;stroke-width:2.4;stroke-opacity:0.698;}
+	.st63{fill:none;stroke:#A65628;stroke-width:0.4;stroke-opacity:0.698;}
+	.st64{fill:none;stroke:#999999;stroke-width:1.2;stroke-opacity:0.698;}
+	.st65{fill:none;stroke:#999999;stroke-width:0.4;stroke-opacity:0.698;}
+	.st66{fill:none;stroke:#9B7E5C;stroke-width:0.8;stroke-opacity:0.698;}
+	.st67{fill:none;stroke:#FF7F00;stroke-width:0.4;stroke-opacity:0.698;}
+	.st68{fill:none;stroke:#FF7F00;stroke-width:2.8;stroke-opacity:0.698;}
+	.st69{fill:none;stroke:#FF7F00;stroke-width:1.2;stroke-opacity:0.698;}
+	.st70{fill:none;stroke:#FF7F00;stroke-width:7.2;stroke-opacity:0.698;}
+	.st71{fill:none;stroke:#FF7F00;stroke-width:5.6;stroke-opacity:0.698;}
+	.st72{fill:none;stroke:#FF7F00;stroke-width:0.8;stroke-opacity:0.698;}
+	.st73{fill:none;stroke:#FF7F00;stroke-width:2;stroke-opacity:0.698;}
+	.st74{fill:none;stroke:#FF7F00;stroke-width:3.2;stroke-opacity:0.698;}
+	.st75{fill:none;stroke:#FF7F00;stroke-width:4.4;stroke-opacity:0.698;}
+	.st76{fill:none;stroke:#9B7E5C;stroke-width:2.4;stroke-opacity:0.698;}
+	.st77{fill:none;stroke:#FF7F00;stroke-width:8.4;stroke-opacity:0.698;}
+	.st78{fill:none;stroke:#FF7F00;stroke-width:8.8;stroke-opacity:0.698;}
+	.st79{fill:none;stroke:#FF7F00;stroke-width:1.6;stroke-opacity:0.698;}
+	.st80{fill:none;stroke:#FF7F00;stroke-width:2.4;stroke-opacity:0.698;}
+	.st81{fill:none;stroke:#6766AD;stroke-width:0.4;stroke-opacity:0.698;}
+	.st82{fill:none;stroke:#984EA3;stroke-width:2.8;stroke-opacity:0.698;}
+	.st83{fill:none;stroke:#984EA3;stroke-width:1.6;stroke-opacity:0.698;}
+	.st84{fill:none;stroke:#FF7F00;stroke-width:4;stroke-opacity:0.698;}
+	.st85{fill:none;stroke:#C767B1;stroke-width:0.4;stroke-opacity:0.698;}
+	.st86{fill:none;stroke:#977FBB;stroke-width:1.2;stroke-opacity:0.698;}
+	.st87{fill:none;stroke:#FB805F;stroke-width:0.4;stroke-opacity:0.698;}
+	.st88{fill:none;stroke:#C767B1;stroke-width:0.8;stroke-opacity:0.698;}
+	.st89{fill:none;stroke:#FB805F;stroke-width:2;stroke-opacity:0.698;}
+	.st90{fill:none;stroke:#FB805F;stroke-width:1.6;stroke-opacity:0.698;}
+	.st91{fill:none;stroke:#FB805F;stroke-width:3.6;stroke-opacity:0.698;}
+	.st92{fill:none;stroke:#FB805F;stroke-width:2.8;stroke-opacity:0.698;}
+	.st93{fill:none;stroke:#FB805F;stroke-width:0.8;stroke-opacity:0.698;}
+	.st94{fill:none;stroke:#C767B1;stroke-width:1.2;stroke-opacity:0.698;}
+	.st95{fill:none;stroke:#CE6B73;stroke-width:0.8;stroke-opacity:0.698;}
+	.st96{fill:none;stroke:#F781BF;stroke-width:0.4;stroke-opacity:0.698;}
+	.st97{fill:none;stroke:#CE6B73;stroke-width:0.4;stroke-opacity:0.698;}
+	.st98{fill:none;stroke:#F781BF;stroke-width:1.2;stroke-opacity:0.698;}
+	.st99{fill:none;stroke:#F781BF;stroke-width:0.8;stroke-opacity:0.698;}
+	.st100{fill:none;stroke:#C767B1;stroke-width:2;stroke-opacity:0.698;}
+	.st101{fill:none;stroke:#6E6A70;stroke-width:1.2;stroke-opacity:0.698;}
+	.st102{fill:none;stroke:#A65628;stroke-width:0.8;stroke-opacity:0.698;}
+	.st103{fill:none;stroke:#9B7E5C;stroke-width:0.4;stroke-opacity:0.698;}
+	.st104{fill:none;stroke:#9F5265;stroke-width:0.8;stroke-opacity:0.698;}
+	.st105{fill:none;stroke:#D26A14;stroke-width:0.8;stroke-opacity:0.698;}
+	.st106{fill:none;stroke:#92B6D3;stroke-width:0.4;stroke-opacity:0.698;}
+	.st107{fill:none;stroke:#F6B677;stroke-width:0.4;stroke-opacity:0.698;}
+	.st108{fill:none;stroke:#EEEEEE;stroke-width:0.8;stroke-opacity:0.698;}
+	.st109{fill:none;stroke:#BE595A;stroke-width:0.4;stroke-opacity:0.698;}
+	.st110{fill:none;stroke:#E41A1C;stroke-width:0.8;stroke-opacity:0.698;}
+	.st111{fill:none;stroke:#8D4C6A;stroke-width:0.4;stroke-opacity:0.698;}
+	.st112{fill:none;stroke:#727E76;stroke-width:0.4;stroke-opacity:0.698;}
+	.st113{fill:none;stroke:#4DAF4A;stroke-width:0.8;stroke-opacity:0.698;}
+	.st114{fill:none;stroke:#429681;stroke-width:1.2;stroke-opacity:0.698;}
+	.st115{fill:none;stroke:#377EB8;stroke-width:1.6;stroke-opacity:0.698;}
+	.st116{fill:none;stroke:#9BBE75;stroke-width:0.4;stroke-opacity:0.698;}
+	.st117{fill:none;stroke:#FFBF19;stroke-width:0.4;stroke-opacity:0.698;}
+	.st118{fill:none;stroke:#FFFF33;stroke-width:1.6;stroke-opacity:0.698;}
+	.st119{fill:none;stroke:#FFFF33;stroke-width:1.2;stroke-opacity:0.698;}
+	.st120{fill:none;stroke:#A65628;stroke-width:1.2;stroke-opacity:0.698;}
+	.st121{fill:none;stroke:#999999;stroke-width:0.8;stroke-opacity:0.698;}
+	.st122{fill:none;stroke:#CC8C4C;stroke-width:0.4;stroke-opacity:0.698;}
+	.st123{fill:none;stroke:#377EB8;stroke-width:2.4;stroke-opacity:0.698;}
+	.st124{fill:none;stroke:#F781BF;stroke-width:3.6;stroke-opacity:0.698;}
+	.st125{fill:none;stroke:#6E6A70;stroke-width:0.4;stroke-opacity:0.698;}
+	.st126{fill:none;stroke:#EEEEEE;stroke-width:0.4;stroke-opacity:0.698;}
+	.st127{fill:#E41A1C;stroke:#333333;stroke-width:0.5;}
+	.st128{fill:#377EB8;stroke:#333333;stroke-width:0.5;}
+	.st129{fill:#444444;stroke:#333333;stroke-width:0.5;}
+	.st130{fill:#FB8072;stroke:#333333;stroke-width:0.5;}
+	.st131{fill:#4DAF4A;stroke:#333333;stroke-width:0.5;}
+	.st132{fill:#984EA3;stroke:#333333;stroke-width:0.5;}
+	.st133{fill:#FF7F00;stroke:#333333;stroke-width:0.5;}
+	.st134{fill:#FFFF33;stroke:#333333;stroke-width:0.5;}
+	.st135{fill:#999999;stroke:#333333;stroke-width:0.5;}
+	.st136{fill:#A65628;stroke:#333333;stroke-width:0.5;}
+	.st137{fill:#F781BF;stroke:#333333;stroke-width:0.5;}
+	.st138{fill:#EEEEEE;stroke:#333333;stroke-width:0.5;}
+	.st139{font-family:'AlegreyaSC-Regular';}
+	.st140{font-size:13.7426px;}
+	.st141{enable-background:new    ;}
+	.st142{fill:none;stroke:#FFFFFF;stroke-width:0.5312;stroke-linecap:round;stroke-linejoin:round;}
+	.st143{font-size:8.0839px;}
+	.st144{fill:none;stroke:#FFFFFF;stroke-width:0.3125;stroke-linecap:round;stroke-linejoin:round;}
+	.st145{font-size:7.2755px;}
+	.st146{fill:none;stroke:#FFFFFF;stroke-width:0.2812;stroke-linecap:round;stroke-linejoin:round;}
+	.st147{font-size:53.3537px;}
+	.st148{fill:none;stroke:#FFFFFF;stroke-width:2.0625;stroke-linecap:round;stroke-linejoin:round;}
+	.st149{font-size:9.7007px;}
+	.st150{fill:none;stroke:#FFFFFF;stroke-width:0.375;stroke-linecap:round;stroke-linejoin:round;}
+	.st151{font-size:17.7846px;}
+	.st152{fill:none;stroke:#FFFFFF;stroke-width:0.6875;stroke-linecap:round;stroke-linejoin:round;}
+	.st153{font-size:15.3594px;}
+	.st154{fill:none;stroke:#FFFFFF;stroke-width:0.5938;stroke-linecap:round;stroke-linejoin:round;}
+	.st155{font-size:8.8923px;}
+	.st156{fill:none;stroke:#FFFFFF;stroke-width:0.3438;stroke-linecap:round;stroke-linejoin:round;}
+	.st157{font-size:19.4013px;}
+	.st158{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;}
+	.st159{font-size:10.5091px;}
+	.st160{fill:none;stroke:#FFFFFF;stroke-width:0.4062;stroke-linecap:round;stroke-linejoin:round;}
+	.st161{font-size:12.1258px;}
+	.st162{fill:none;stroke:#FFFFFF;stroke-width:0.4688;stroke-linecap:round;stroke-linejoin:round;}
+	.st163{font-size:11.3174px;}
+	.st164{fill:none;stroke:#FFFFFF;stroke-width:0.4375;stroke-linecap:round;stroke-linejoin:round;}
+	.st165{font-size:22.6349px;}
+	.st166{fill:none;stroke:#FFFFFF;stroke-width:0.875;stroke-linecap:round;stroke-linejoin:round;}
+	.st167{font-size:14.551px;}
+	.st168{fill:none;stroke:#FFFFFF;stroke-width:0.5625;stroke-linecap:round;stroke-linejoin:round;}
+	.st169{font-size:12.9342px;}
+	.st170{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st171{font-size:21.8265px;}
+	.st172{fill:none;stroke:#FFFFFF;stroke-width:0.8438;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g id="edges">
+	<path class="st0" d="M207,153.2c-34.3-1.1-84.2-54.1-83.1-88.4"/>
+	<path class="st1" d="M244.9,78.1C218,99.7,145.4,91.7,123.8,64.8"/>
+	<path class="st2" d="M244.9,78.1c7.4,22.6-15.3,67.7-37.9,75.1"/>
+	<path class="st3" d="M44.7,60c16.8-14.9,64.3-12,79.2,4.7"/>
+	<path class="st3" d="M108.7-21.8c20.4,14.3,29.4,66.3,15.1,86.6"/>
+	<path class="st3" d="M49.5,31.7c21.5-8.3,66.1,11.6,74.4,33.1"/>
+	<path class="st3" d="M175.1-25.5c7.8,28.3-22.9,82.4-51.2,90.3"/>
+	<path class="st3" d="M43.9,96.5c9.7-22.3,57.6-41.3,80-31.7"/>
+	<path class="st3" d="M49.1,115.4c4.8-25.1,49.7-55.4,74.8-50.6"/>
+	<path class="st3" d="M153.6-27.6c12.5,24.4-5.4,79.8-29.8,92.3"/>
+	<path class="st3" d="M131.1-28.2c17.1,20.1,12.8,75.9-7.3,93"/>
+	<path class="st3" d="M42.7,78.6c13.5-19,62.1-27.3,81.1-13.9"/>
+	<path class="st3" d="M91.3-13.4c22.2,9.1,41.7,56.1,32.5,78.2"/>
+	<path class="st3" d="M58,14.7c23.2-3.1,62.7,26.9,65.8,50.1"/>
+	<path class="st4" d="M325.5,346.6c-96.7-16-217.7-185.1-201.6-281.8"/>
+	<path class="st5" d="M325.5,346.6c-62.4-15-133.5-131-118.5-193.4"/>
+	<path class="st6" d="M325.5,346.6C255.7,309,207.3,147.9,244.9,78.1"/>
+	<path class="st7" d="M325.5,346.6C223.5,272.8,181.2,9.2,255-92.8"/>
+	<path class="st8" d="M325.5,346.6c-25-136.8,142.8-379.5,279.6-404.5"/>
+	<path class="st9" d="M647.5-40.8c-11.9,5.1-37.3-5.2-42.3-17.1"/>
+	<path class="st10" d="M647.5-40.8c13.1,141.9-180.1,374.4-322,387.5"/>
+	<path class="st7" d="M341.1-102.7c86.7,93,77.4,362.5-15.6,449.3"/>
+	<path class="st7" d="M276.5-96.6c98.5,78.8,127.9,344.8,49,443.3"/>
+	<path class="st11" d="M218.2-87.4c108.3,65.3,172.6,325.8,107.3,434"/>
+	<path class="st7" d="M320.1-100.5c90.5,88.3,93.7,356.6,5.4,447.1"/>
+	<path class="st12" d="M207.2-113.7c7.5,3.1,14,18.8,11,26.3"/>
+	<path class="st7" d="M790.2,335.3c-90.7,95.2-369.5,102-464.7,11.3"/>
+	<path class="st13" d="M681.3,529.1c-17.2,1.5-45.2-22-46.8-39.2"/>
+	<path class="st13" d="M653.3,548.6c-15.5-8-26.8-43.2-18.8-58.7"/>
+	<path class="st13" d="M653.3,548.6c1.7-9.5,18.5-21.2,28-19.5"/>
+	<path class="st14" d="M619.3,539.1c-6.8-12.9,2.4-42.4,15.3-49.2"/>
+	<path class="st14" d="M619.3,539.1c10.4-14.4,47.6-20.4,62-10"/>
+	<path class="st14" d="M619.3,539.1c8.7-4.9,29.1,0.8,34.1,9.5"/>
+	<path class="st15" d="M490.7,499.1c-63.5,2.5-162.7-89-165.2-152.5"/>
+	<path class="st14" d="M490.7,499.1c26.9-30.6,113.2-36.1,143.8-9.2"/>
+	<path class="st14" d="M490.7,499.1c44.1-32.1,158.5-14.1,190.6,30"/>
+	<path class="st14" d="M490.7,499.1c42.4-22.6,140,7.1,162.6,49.5"/>
+	<path class="st16" d="M490.7,499.1c33.7-17.7,110.9,6.3,128.6,40"/>
+	<path class="st13" d="M667.6,496.3c-7.9,5.3-27.7,1.5-33-6.4"/>
+	<path class="st13" d="M667.6,496.3c9.3,3.8,17.5,23.5,13.7,32.9"/>
+	<path class="st13" d="M667.6,496.3c7.6,13.3-0.9,44.7-14.3,52.4"/>
+	<path class="st16" d="M667.6,496.3c-1.1,18.2-30.1,43.9-48.3,42.9"/>
+	<path class="st16" d="M667.6,496.3c-34.8,36-140.9,37.7-176.9,2.9"/>
+	<path class="st13" d="M653.3,519.3c-9.6-2.1-20.9-19.7-18.8-29.4"/>
+	<path class="st13" d="M653.3,519.3c7.6-3.6,24.3,2.3,28,9.9"/>
+	<path class="st13" d="M653.3,519.3c5.9,5.9,5.9,23.5,0,29.4"/>
+	<path class="st14" d="M653.3,519.3c-2.8,10.8-23.3,22.7-34.1,19.9"/>
+	<path class="st14" d="M653.3,519.3c-36.6,28.5-134.1,16.4-162.6-20.1"/>
+	<path class="st13" d="M653.3,519.3c-1.7-7.4,6.8-21.2,14.2-23"/>
+	<path class="st17" d="M595,524.8c7.7-2,22.2,6.6,24.2,14.3"/>
+	<path class="st17" d="M595,524.8c-26,15.7-88.6,0.3-104.4-25.7"/>
+	<path class="st17" d="M595,524.8c8.8-20.2,52.3-37.3,72.5-28.5"/>
+	<path class="st18" d="M345,551.2c-44.8-37-56.5-159.8-19.5-204.6"/>
+	<path class="st19" d="M348.7,585.4c-52.4-43.1-66.4-186.3-23.3-238.7"/>
+	<path class="st20" d="M348.7,585.4c-7.6-6.1-9.8-26.6-3.8-34.1"/>
+	<path class="st21" d="M197.3,347.9c25.4-25.9,102.2-26.7,128.1-1.3"/>
+	<path class="st22" d="M197.3,347.9c88.9-28.4,264.9,62.3,293.3,151.2"/>
+	<path class="st23" d="M197.3,347.9C267.5,359.1,356.1,481,345,551.2"/>
+	<path class="st24" d="M197.3,347.9c77.8,17.2,168.6,159.7,151.4,237.4"/>
+	<path class="st25" d="M404.4,541.5c-54.8-23.2-102.1-140.1-79-194.9"/>
+	<path class="st26" d="M404.4,541.5c8.8-25.7,60.5-51.1,86.2-42.3"/>
+	<path class="st27" d="M404.4,541.5c-9.9,13.8-45.6,19.7-59.5,9.7"/>
+	<path class="st28" d="M404.4,541.5c-2.4,19.9-35.8,46.2-55.7,43.9"/>
+	<path class="st23" d="M404.4,541.5C324.3,544.2,200,428.1,197.3,348"/>
+	<path class="st7" d="M679.3-17c2,143.5-210.4,361.7-353.9,363.6"/>
+	<path class="st29" d="M264,158.9c49.8,25.2,86.8,137.9,61.5,187.7"/>
+	<path class="st30" d="M264,158.9c24.5,51.1-15.5,164.6-66.6,189"/>
+	<path class="st31" d="M373.7,531.1c-46.5-27.2-75.5-137.9-48.2-184.5"/>
+	<path class="st32" d="M373.7,531.1c17-29.8,87.2-48.9,117-31.9"/>
+	<path class="st33" d="M373.7,531.1c-1.7,9.8-18.9,21.9-28.7,20.2"/>
+	<path class="st33" d="M373.7,531.1c5.9,15.9-9.1,48.4-25,54.3"/>
+	<path class="st34" d="M373.7,531.1C301.8,529.7,196,419.9,197.3,348"/>
+	<path class="st35" d="M373.7,531.1c8.2-4.1,26.7,2.2,30.7,10.4"/>
+	<path class="st36" d="M373.7,531.1C277.3,478.6,211.5,255.3,264,158.9"/>
+	<path class="st37" d="M431.6,557.8c-63.5-21-127.1-147.7-106.1-211.1"/>
+	<path class="st38" d="M431.6,557.8c0.1-23.5,35.5-58.7,59.1-58.6"/>
+	<path class="st39" d="M431.6,557.8c-18.6,16-70.6,12.1-86.6-6.5"/>
+	<path class="st28" d="M431.6,557.8c-11.1,22.1-60.8,38.7-82.9,27.6"/>
+	<path class="st40" d="M431.6,557.8c-88.8,4.9-229.4-121-234.3-209.8"/>
+	<path class="st41" d="M431.6,557.8c-8.7,2.2-25-7.6-27.2-16.3"/>
+	<path class="st42" d="M431.6,557.8c-16.9,6.2-51.7-9.8-57.9-26.7"/>
+	<path class="st17" d="M724.4,562.4c-59.4,34.1-199.6-3.8-233.7-63.2"/>
+	<path class="st17" d="M607,651.4c-53.7-7.2-123.5-98.6-116.3-152.3"/>
+	<path class="st17" d="M734.4,543c-57.5,40-203.7,13.7-243.7-43.9"/>
+	<path class="st43" d="M744.8,332.7c-81.1,86.6-332.6,95-419.3,13.9"/>
+	<path class="st17" d="M744.8,332.7c-17.5,84.1-170,184-254.1,166.5"/>
+	<path class="st43" d="M581.4,652.2c-112.3-9.9-265.9-193.3-256-305.6"/>
+	<path class="st44" d="M581.4,652.2c-48.8-12.5-103.2-104.3-90.8-153.1"/>
+	<path class="st7" d="M697.6-5.1c-4.1,144.8-227.3,355.8-372.1,351.7"/>
+	<path class="st7" d="M405.9-105.5C480.2,1,432,272.3,325.5,346.6"/>
+	<path class="st7" d="M427-102.5c69.5,110.1,8.6,379.6-101.5,449.1"/>
+	<path class="st7" d="M447.2-99.6c64.9,113.6-8.1,381.3-121.7,446.2"/>
+	<path class="st7" d="M511-89.6c50.2,124.3-61.1,386.1-185.5,436.3"/>
+	<path class="st17" d="M656.3,647.4c-62.8,3.5-162.1-85.5-165.6-148.3"/>
+	<path class="st7" d="M757.7,87.2c-34.6,138.3-293.9,293.9-432.2,259.4"/>
+	<path class="st7" d="M766.5,109.7c-40.8,135.6-305.4,277.7-441,236.9"/>
+	<path class="st45" d="M773.9,128c-46,133.4-315,264.5-448.4,218.6"/>
+	<path class="st46" d="M779.4,230.2c-67.5,114.1-339.9,183.9-453.9,116.4"/>
+	<path class="st47" d="M779.4,230.2c13.6,27.4-7.2,88.9-34.6,102.5"/>
+	<path class="st46" d="M754.8,214.8C695.3,327,437.7,406.1,325.5,346.6"/>
+	<path class="st43" d="M754.8,214.8c21.6,25.6,15.5,96.3-10,117.9"/>
+	<path class="st45" d="M754.8,214.8c-13.5-21.2-2.1-73.2,19.1-86.7"/>
+	<path class="st48" d="M754.8,214.8c8-1.8,22.8,7.4,24.6,15.4"/>
+	<path class="st7" d="M740.4,248.1c-63.3,102.7-312.2,161.8-414.9,98.5"/>
+	<path class="st47" d="M740.4,248.1c17.8,16,20.5,66.8,4.4,84.6"/>
+	<path class="st7" d="M740.4,248.1c4.2-11.4,27.7-22.1,39.1-17.9"/>
+	<path class="st7" d="M740.4,248.1c-3.8-9.5,4.9-29.5,14.5-33.3"/>
+	<path class="st45" d="M718.5,255c-60.3,96.9-296.1,151.9-393,91.6"/>
+	<path class="st47" d="M718.5,255c20.8,10.3,36.6,56.9,26.3,77.7"/>
+	<path class="st45" d="M718.5,255c7.2-17.2,43.8-32,60.9-24.8"/>
+	<path class="st46" d="M718.5,255c-0.8-15.3,21-39.4,36.3-40.2"/>
+	<path class="st45" d="M740.7,270.7c-67.9,98.2-317,143.7-415.2,75.9"/>
+	<path class="st47" d="M740.7,270.7c13.2,11.6,15.6,48.7,4,61.9"/>
+	<path class="st45" d="M740.7,270.7c-0.4-15.8,22.8-40.2,38.7-40.6"/>
+	<path class="st46" d="M740.7,270.7c-8.4-14,0.1-47.6,14.1-56"/>
+	<path class="st46" d="M740.7,270.7c-7.6,1.3-20.9-8.1-22.2-15.7"/>
+	<path class="st45" d="M718.5,225.7c-54.4,102.8-290.2,175.3-393,120.9"/>
+	<path class="st47" d="M718.5,225.7c26.6,16.1,42.4,80.3,26.2,107"/>
+	<path class="st45" d="M718.5,225.7c13.1-11.3,49.6-8.6,60.9,4.5"/>
+	<path class="st46" d="M718.5,225.7c5.1-9.4,26.8-16,36.3-10.9"/>
+	<path class="st46" d="M718.5,225.7c5.8,5.9,5.8,23.4-0.1,29.3"/>
+	<path class="st46" d="M718.5,225.7c13.4,4.6,26.8,31.6,22.2,45"/>
+	<path class="st49" d="M148.7,622c35-67.2,188.5-115.6,255.7-80.5"/>
+	<path class="st19" d="M384.6,625.4c-67.6-43.9-103.1-211.2-59.1-278.8"/>
+	<path class="st50" d="M384.6,625.4c-12.8-20.7-0.9-71.1,19.8-83.9"/>
+	<path class="st7" d="M786.5,379.2c-98.7,85.7-375.3,66.1-461-32.6"/>
+	<path class="st34" d="M448,464.8c-73.5,26.8-223.9-43.4-250.6-116.9"/>
+	<path class="st33" d="M448,464.8c15.3,21.9,5.5,77.6-16.3,93"/>
+	<path class="st7" d="M773,447.9c-109.8,69.2-378.3,8.5-447.5-101.3"/>
+	<path class="st7" d="M789,357.5c-94.9,90.5-372.9,84-463.5-10.9"/>
+	<path class="st51" d="M214.6,227.6c46,1.6,112.5,73,110.9,119"/>
+	<path class="st52" d="M214.6,227.6c20.6,27.5,10.3,99.7-17.2,120.3"/>
+	<path class="st53" d="M196,195.1c56.2,4.4,133.9,95.3,129.5,151.5"/>
+	<path class="st54" d="M196,195.1c30.8,30.3,31.6,122,1.3,152.8"/>
+	<path class="st55" d="M196,195.1c10.2,2.8,21.4,22.3,18.6,32.5"/>
+	<path class="st56" d="M139.2,392.2c28.2-46.4,140-73.7,186.3-45.6"/>
+	<path class="st57" d="M139.2,392.2c80.6-3.3,206.3,112.6,209.6,193.2"/>
+	<path class="st58" d="M139.2,392.2c2.8-20.5,37.7-47,58.2-44.2"/>
+	<path class="st59" d="M139.2,392.2c82.9-23.2,242.1,66.4,265.3,149.3"/>
+	<path class="st24" d="M139.2,392.2c74.7-19.1,215.4,64.2,234.6,138.9"/>
+	<path class="st60" d="M139.2,392.2c47.9,44.1,53.6,181.9,9.6,229.8"/>
+	<path class="st61" d="M139.2,392.2c-17.8-48,27.4-146.7,75.4-164.6"/>
+	<path class="st62" d="M139.2,392.2c-28-50.8,6.1-169,56.9-197.1"/>
+	<path class="st63" d="M228.9,221.9c-1.7,4-10.3,7.4-14.3,5.7"/>
+	<path class="st54" d="M228.9,221.9c16.1,52-37.8,154.2-89.8,170.2"/>
+	<path class="st64" d="M166,640.1c-7.1-0.2-17.4-11.1-17.3-18.2"/>
+	<path class="st65" d="M183.6,627c-8,6-29,3-34.9-5"/>
+	<path class="st65" d="M183.6,627c-0.9,6.2-11.5,14-17.7,13.1"/>
+	<path class="st66" d="M35.1,368.2c53.8-62.4,228-75.3,290.4-21.6"/>
+	<path class="st67" d="M35.1,368.2c28.4-36.5,125.7-48.7,162.2-20.3"/>
+	<path class="st68" d="M35.1,368.2c25.6-16,88-1.6,104,24"/>
+	<path class="st59" d="M94.9,371.3c93.6-7.9,245.9,120.5,253.8,214.1"/>
+	<path class="st69" d="M94.9,371.3c15.8-25.1,77.3-39.1,102.4-23.3"/>
+	<path class="st34" d="M94.9,371.3c87.7-23.8,255,72.1,278.8,159.8"/>
+	<path class="st70" d="M94.9,371.3c13-4.7,39.5,7.9,44.2,20.9"/>
+	<path class="st71" d="M94.9,371.3c-12.6,11.4-48.5,9.5-59.8-3.1"/>
+	<path class="st72" d="M81.5,449.4c2.9-43.5,72.4-104.3,115.8-101.5"/>
+	<path class="st72" d="M81.5,449.4c0.1-23,34.7-57.3,57.7-57.2"/>
+	<path class="st73" d="M81.5,449.4c-25.5-7-53.3-55.7-46.4-81.2"/>
+	<path class="st74" d="M81.5,449.4c-12.9-18.3-4.9-65.2,13.4-78.1"/>
+	<path class="st66" d="M77.7,405.7c37.7-61.4,186.4-96.8,247.8-59.1"/>
+	<path class="st34" d="M77.7,405.7c84.3-34.1,261.9,41.1,296,125.4"/>
+	<path class="st73" d="M77.7,405.7c9.6-15,46.4-23.1,61.4-13.5"/>
+	<path class="st75" d="M77.7,405.7c-16,1-41.6-21.5-42.6-37.5"/>
+	<path class="st71" d="M77.7,405.7c-3.4-10.3,6.9-31,17.2-34.4"/>
+	<path class="st73" d="M77.7,405.7c9.5,8,11.8,34.2,3.8,43.7"/>
+	<path class="st76" d="M115.5,429c25.5-58.5,151.5-107.9,210-82.4"/>
+	<path class="st69" d="M115.5,429c0.2-32.6,49.3-81.2,81.9-81"/>
+	<path class="st57" d="M115.5,429c72.1-31.2,227,30,258.2,102.1"/>
+	<path class="st71" d="M115.5,429c-2.6-12.1,11.6-34.2,23.7-36.8"/>
+	<path class="st71" d="M115.5,429c-28.2,3.9-76.4-32.6-80.3-60.8"/>
+	<path class="st77" d="M115.5,429c-15.6-7.4-28-42.1-20.5-57.7"/>
+	<path class="st68" d="M115.5,429c-2.7,10.9-23.1,23.1-34,20.4"/>
+	<path class="st78" d="M115.5,429c-12.2,2.9-34.9-11.1-37.8-23.3"/>
+	<path class="st72" d="M-14.3,376c8.3-11.4,38-16.1,49.4-7.8"/>
+	<path class="st67" d="M-14.3,376c20.9-22.8,86.4-25.6,109.2-4.7"/>
+	<path class="st67" d="M-14.3,376c33.8-4.5,91.3,39.6,95.8,73.4"/>
+	<path class="st79" d="M-14.3,376c36.6-15.3,114.4,16.5,129.8,53"/>
+	<path class="st34" d="M59,479.3c79.2-36.7,253,26.9,289.7,106.1"/>
+	<path class="st60" d="M59,479.3c46.5,10.6,100.3,96.2,89.7,142.7"/>
+	<path class="st79" d="M59,479.3c-1.4-33.4,46.7-85.7,80.1-87.1"/>
+	<path class="st67" d="M59,479.3c-27-17.4-41.3-84.1-23.9-111.1"/>
+	<path class="st69" d="M59,479.3c-14.4-28.8,7.1-93.6,35.9-108"/>
+	<path class="st67" d="M59,479.3c-1.5-10.5,12-28.4,22.5-29.9"/>
+	<path class="st72" d="M59,479.3c-11-18.5,0.2-62.6,18.7-73.6"/>
+	<path class="st72" d="M59,479.3c1.2-21.3,35.1-51.5,56.4-50.3"/>
+	<path class="st34" d="M230.8,430c48.8-8.4,134.5,52.3,142.9,101.1"/>
+	<path class="st72" d="M230.8,430c-25.9,10.8-80.9-11.9-91.6-37.8"/>
+	<path class="st67" d="M230.8,430c-38.9,15.4-120.4-19.8-135.9-58.7"/>
+	<path class="st67" d="M42.1,442.5c12.1-50,105.3-106.7,155.2-94.6"/>
+	<path class="st67" d="M42.1,442.5c9.3-29.5,67.6-59.7,97-50.4"/>
+	<path class="st69" d="M42.1,442.5c-16.3-13.5-20.5-58.1-7-74.3"/>
+	<path class="st80" d="M42.1,442.5c-3.7-24.8,28-67.6,52.8-71.3"/>
+	<path class="st79" d="M42.1,442.5c9.3-6.5,32.9-2.4,39.4,6.9"/>
+	<path class="st80" d="M42.1,442.5c-0.2-14.5,21.1-36.6,35.6-36.8"/>
+	<path class="st68" d="M42.1,442.5c12-17.4,56-25.5,73.4-13.6"/>
+	<path class="st81" d="M431.9,610c-74-31.4-137.8-189.5-106.4-263.4"/>
+	<path class="st33" d="M431.9,610c-21.6,11.7-71.5-3.1-83.2-24.7"/>
+	<path class="st39" d="M431.9,610c-19.2-8.2-35.7-49.3-27.5-68.5"/>
+	<path class="st50" d="M431.9,610c-27.4-4.2-62.3-51.5-58.2-79"/>
+	<path class="st33" d="M431.9,610c-10.5-10.4-10.7-41.8-0.3-52.3"/>
+	<path class="st67" d="M40.3,309.2c36.4-3.2,95.7,46.6,98.9,83"/>
+	<path class="st18" d="M413.1,624.4c-73.1-38-125.7-204.7-87.6-277.8"/>
+	<path class="st82" d="M413.1,624.4c-18.3-14.9-23.5-64.6-8.7-83"/>
+	<path class="st42" d="M413.1,624.4c-26.6-10.8-50.2-66.8-39.4-93.4"/>
+	<path class="st33" d="M413.1,624.4c-9.6-17,1.5-57.1,18.5-66.7"/>
+	<path class="st50" d="M413.1,624.4c-5.5,5.9-22.6,6.4-28.5,0.9"/>
+	<path class="st42" d="M413.1,624.4c0.9-6.6,12.1-15.3,18.8-14.4"/>
+	<path class="st81" d="M398,572.7c-59.7-30.7-103.3-166.4-72.6-226.1"/>
+	<path class="st33" d="M398,572.7c-7.3,12.4-36.9,20-49.3,12.7"/>
+	<path class="st39" d="M398,572.7c-5-7.5-1.1-26.2,6.4-31.2"/>
+	<path class="st50" d="M398,572.7c-13.2-3.5-27.8-28.4-24.3-41.6"/>
+	<path class="st33" d="M398,572.7c3.7-9.7,23.9-18.7,33.6-14.9"/>
+	<path class="st33" d="M398,572.7c7.9,13.2-0.2,44.8-13.4,52.7"/>
+	<path class="st34" d="M398,572.7c-87.9,15.7-243.2-92.6-258.9-180.5"/>
+	<path class="st27" d="M398,572.7c14.2,0.7,34.6,23.1,33.9,37.3"/>
+	<path class="st35" d="M398,572.7c13.4,7.3,22.4,38.4,15.1,51.8"/>
+	<path class="st81" d="M438,583.2c-69.8-24.8-137.3-166.8-112.5-236.6"/>
+	<path class="st33" d="M438,583.2c-15-1.6-35.2-26.7-33.5-41.7"/>
+	<path class="st50" d="M438,583.2c-23.3,2.4-61.8-28.8-64.3-52.1"/>
+	<path class="st33" d="M438,583.2c-6.4-3.8-10.2-19.1-6.3-25.4"/>
+	<path class="st33" d="M438,583.2c-2.2,19.1-34.2,44.4-53.3,42.2"/>
+	<path class="st34" d="M438,583.2c-98,21.6-277.3-93-298.8-191"/>
+	<path class="st42" d="M438,583.2c4.2,6.6,0.5,22.7-6.1,26.8"/>
+	<path class="st35" d="M438,583.2c3.3,13.2-11.6,38-24.8,41.3"/>
+	<path class="st39" d="M438,583.2c-10.1,5.9-34-0.4-39.9-10.5"/>
+	<path class="st81" d="M367.8,571.7c-53.5-36.5-78.9-171.6-42.4-225.1"/>
+	<path class="st50" d="M367.8,571.7c-1.1,6.6-12.5,14.8-19.1,13.7"/>
+	<path class="st28" d="M367.8,571.7c1.3-13.4,23.2-31.5,36.6-30.2"/>
+	<path class="st50" d="M367.8,571.7c-6.9-9.3-3.4-33.7,5.9-40.6"/>
+	<path class="st33" d="M367.8,571.7c10-15.5,48.3-23.9,63.8-13.9"/>
+	<path class="st27" d="M367.8,571.7c20.5-5.1,58.9,17.9,64.1,38.4"/>
+	<path class="st42" d="M367.8,571.7c19.6,1.5,46.8,33.2,45.3,52.8"/>
+	<path class="st20" d="M367.8,571.7c6.2-5.8,24.4-5.2,30.2,1"/>
+	<path class="st42" d="M367.8,571.7c16.3-11.7,58.4-4.8,70.1,11.5"/>
+	<path class="st19" d="M364.4,615.1c-61.5-45.9-84.8-207-38.9-268.5"/>
+	<path class="st33" d="M364.4,615.1c-9.1-2.8-18.5-20.7-15.7-29.7"/>
+	<path class="st50" d="M364.4,615.1c-6.7-22.7,17.3-66.9,40-73.6"/>
+	<path class="st50" d="M364.4,615.1c-14.9-18.7-9.4-69.1,9.3-84"/>
+	<path class="st33" d="M364.4,615.1c2-24.9,42.3-59.3,67.2-57.3"/>
+	<path class="st34" d="M364.4,615.1c-87,12.6-236.4-99.1-249-186.1"/>
+	<path class="st82" d="M364.4,615.1c12.5-14.5,53-17.6,67.5-5.1"/>
+	<path class="st42" d="M364.4,615.1c11.6-7.9,40.8-2.3,48.7,9.3"/>
+	<path class="st83" d="M364.4,615.1c-1.8-15.2,18.4-40.7,33.6-42.4"/>
+	<path class="st42" d="M364.4,615.1c8.3-21.1,52.4-40.2,73.5-31.9"/>
+	<path class="st35" d="M364.4,615.1c-8-9.4-6-35.4,3.4-43.4"/>
+	<path class="st67" d="M34,404.5c21.4-44,119.4-77.9,163.4-56.6"/>
+	<path class="st72" d="M34,404.5c18.6-23.5,81.7-30.9,105.2-12.3"/>
+	<path class="st68" d="M34,404.5c-7-7.5-6.4-29.3,1.1-36.3"/>
+	<path class="st80" d="M34,404.5c5.5-18.8,42.1-38.8,61-33.2"/>
+	<path class="st73" d="M34,404.5c18.5-0.5,47,26.4,47.5,44.9"/>
+	<path class="st68" d="M34,404.5c9-8.5,35.2-7.8,43.7,1.2"/>
+	<path class="st74" d="M34,404.5c21.2-11.4,70.1,3.3,81.5,24.5"/>
+	<path class="st67" d="M34,404.5c20,9.9,35,54.8,25,74.8"/>
+	<path class="st69" d="M34,404.5c9.2,6,14.1,28.8,8.1,38"/>
+	<path class="st67" d="M-5.7,422.5c22.9-35,109.8-53.3,144.8-30.4"/>
+	<path class="st84" d="M-5.7,422.5c-2.7-19,21.8-51.6,40.8-54.3"/>
+	<path class="st68" d="M-5.7,422.5c9.9-30.4,70.3-61.1,100.6-51.3"/>
+	<path class="st73" d="M-5.7,422.5c22.8-12.1,75.1,4.1,87.2,26.9"/>
+	<path class="st68" d="M-5.7,422.5c13.3-20,63.4-30.1,83.4-16.8"/>
+	<path class="st80" d="M-5.7,422.5c25.5-22.9,98.2-19.1,121.2,6.5"/>
+	<path class="st69" d="M-5.7,422.5c-11-7.6-16.2-35.5-8.6-46.6"/>
+	<path class="st67" d="M-5.7,422.5c24.3-1.6,63.1,32.5,64.7,56.7"/>
+	<path class="st69" d="M-5.7,422.5c13.6-5.6,42.2,6.5,47.8,20"/>
+	<path class="st80" d="M-5.7,422.5c4.3-11.5,28.1-22.4,39.7-18"/>
+	<path class="st67" d="M-23.4,351.6c6.7,3,12.2,17.6,9.1,24.3"/>
+	<path class="st85" d="M98.9,186.5c130.8,23.2,292.2,254.3,268.9,385.2"/>
+	<path class="st86" d="M76.4,276.9c63.8-35.9,213.2,5.9,249.1,69.7"/>
+	<path class="st85" d="M76.4,276.9C185,278,346.2,442.6,345,551.2"/>
+	<path class="st85" d="M76.4,276.9c116.2,7.2,279.6,192.3,272.4,308.4"/>
+	<path class="st87" d="M76.4,276.9c38.4-10,111,32.6,121,71"/>
+	<path class="st85" d="M76.4,276.9c118.5-12.7,315.4,146,328.1,264.5"/>
+	<path class="st88" d="M76.4,276.9c110.3-8.6,288.7,143.8,297.4,254.1"/>
+	<path class="st89" d="M76.4,276.9c35.6,10.5,73.3,79.6,62.8,115.2"/>
+	<path class="st90" d="M76.4,276.9c10,26.5-14.7,81.3-41.2,91.3"/>
+	<path class="st91" d="M76.4,276.9c22.6,15.2,33.7,71.8,18.6,94.3"/>
+	<path class="st89" d="M76.4,276.9c35.5,33.5,38.6,137,5.1,172.5"/>
+	<path class="st89" d="M76.4,276.9c26,25.5,26.8,102.7,1.4,128.8"/>
+	<path class="st92" d="M76.4,276.9c38.2,22.6,61.7,113.8,39.1,152.1"/>
+	<path class="st93" d="M76.4,276.9c37,43.9,26.6,165.3-17.3,202.3"/>
+	<path class="st87" d="M76.4,276.9c61.5-0.3,154.2,91.5,154.4,153"/>
+	<path class="st87" d="M76.4,276.9c26.3,40,5.7,139.3-34.2,165.6"/>
+	<path class="st85" d="M76.4,276.9c137.7-4.5,351.1,195.4,355.5,333.1"/>
+	<path class="st85" d="M76.4,276.9c123.5-5.2,316.5,172.3,321.7,295.8"/>
+	<path class="st85" d="M76.4,276.9c117.2,0.7,292.1,177.5,291.5,294.7"/>
+	<path class="st87" d="M76.4,276.9c17,34-8.4,110.5-42.4,127.6"/>
+	<path class="st93" d="M76.4,276.9c12.7,45.5-36.5,132.9-82,145.6"/>
+	<path class="st94" d="M98.4,163.2c134.5,34.4,284.7,287.7,250.3,422.2"/>
+	<path class="st85" d="M98.4,163.2c145.6,12.3,345.5,249,333.2,394.6"/>
+	<path class="st95" d="M98.4,163.2c36.1-10.3,105.8,28.3,116.2,64.4"/>
+	<path class="st85" d="M98.4,163.2C234,191,395.7,436.1,367.8,571.7"/>
+	<path class="st96" d="M98.4,163.2c4.8,4.6,5.1,18.6,0.5,23.4"/>
+	<path class="st97" d="M88.8,196.8c31.3-19,106.8-0.5,125.8,30.8"/>
+	<path class="st98" d="M88.8,196.8c13.5,18.5,6.1,66.6-12.4,80.1"/>
+	<path class="st99" d="M88.8,196.8c-4.8-8.7,1-28.8,9.6-33.6"/>
+	<path class="st99" d="M9.2,168.9c35,8.2,75.3,73,67.2,108"/>
+	<path class="st96" d="M9.2,168.9c21.5-10.3,69.2,6.4,79.6,27.9"/>
+	<path class="st96" d="M-36.2,248.2c28.2-16.8,95.8,0.4,112.5,28.7"/>
+	<path class="st81" d="M314.1,571.4c-42.7-47.2-35.9-182.1,11.4-224.8"/>
+	<path class="st33" d="M314.1,571.4c9.7-4.1,30.5,4.3,34.6,14"/>
+	<path class="st42" d="M314.1,571.4c12.1-24,66.3-42,90.3-29.9"/>
+	<path class="st83" d="M314.1,571.4c31.3-15.8,102,7.4,117.8,38.6"/>
+	<path class="st83" d="M314.1,571.4c17-16.5,67.4-15.7,83.9,1.3"/>
+	<path class="st83" d="M314.1,571.4c10.8-10.7,43-10.5,53.7,0.3"/>
+	<path class="st33" d="M314.1,571.4c18.8-1.3,49,24.9,50.3,43.7"/>
+	<path class="st100" d="M314.1,571.4C207.7,560,65,383.4,76.4,276.9"/>
+	<path class="st101" d="M177.9,233.7c52.1-6.9,140.7,60.8,147.6,112.9"/>
+	<path class="st102" d="M177.9,233.7c6.1-8.6,28.2-12.2,36.7-6.1"/>
+	<path class="st63" d="M177.9,233.7c-4.1-11.3,6.8-34.5,18.1-38.6"/>
+	<path class="st54" d="M177.9,233.7c24,39.4,0.7,134.5-38.7,158.5"/>
+	<path class="st67" d="M24,493.5c4.2-9.8,25.2-18.4,35-14.2"/>
+	<path class="st67" d="M34.8,522.2C31,508.8,45.6,483,59,479.3"/>
+	<path class="st99" d="M-29.1,219c32.7-9.5,96,25.3,105.5,58"/>
+	<path class="st67" d="M-28.8,467.2C-23.2,423.3,51,365.7,95,371.3"/>
+	<path class="st67" d="M-28.8,467.2c18.5-25.6,84.7-36.3,110.3-17.8"/>
+	<path class="st67" d="M-28.8,467.2c-15.3-21.1-6.6-75.9,14.5-91.2"/>
+	<path class="st67" d="M-52.2,435.7c4-31,56.3-71.5,87.3-67.5"/>
+	<path class="st67" d="M-52.2,435.7c32.2-34.9,132.8-38.9,167.6-6.7"/>
+	<path class="st67" d="M-52.2,435.7c11-23.5,62.7-42.2,86.1-31.2"/>
+	<path class="st72" d="M-52.2,435.7c6.7-11.9,34.5-19.8,46.5-13.2"/>
+	<path class="st72" d="M-52.2,435.7c11,1.6,25,20.5,23.3,31.4"/>
+	<path class="st96" d="M-39.7,263.8c25.9-20.6,95.5-12.7,116.1,13.2"/>
+	<path class="st33" d="M355.2,653.5c-5.8-9.5-0.3-32.6,9.2-38.5"/>
+	<path class="st103" d="M59.8,359.5c50.6-55.7,210-63.5,265.7-12.9"/>
+	<path class="st67" d="M59.8,359.5c22.4-9.3,70,10.2,79.4,32.6"/>
+	<path class="st79" d="M59.8,359.5c-3.2,6.7-18,11.9-24.7,8.7"/>
+	<path class="st73" d="M59.8,359.5c9.4-4.7,30.5,2.4,35.2,11.7"/>
+	<path class="st72" d="M59.8,359.5c22.3,13.6,35.3,67.6,21.7,89.9"/>
+	<path class="st73" d="M59.8,359.5c12.8,5.6,23.6,33.4,17.9,46.2"/>
+	<path class="st74" d="M59.8,359.5c25,2.8,58.4,44.4,55.7,69.5"/>
+	<path class="st67" d="M59.8,359.5c-11.5,18.1-56,28-74.1,16.4"/>
+	<path class="st67" d="M59.8,359.5c23.8,24.1,23.3,95.9-0.8,119.7"/>
+	<path class="st67" d="M59.8,359.5c13.1,20.1,2.5,69.9-17.7,83"/>
+	<path class="st67" d="M59.8,359.5c3.8,14.2-11.6,41.1-25.8,45"/>
+	<path class="st67" d="M59.8,359.5c-0.5,25.7-39.8,63.5-65.5,63"/>
+	<path class="st89" d="M59.8,359.5c-13.2-19.8-3.3-69.4,16.6-82.6"/>
+	<path class="st96" d="M-9.5,185.6c35.4,1.1,87,55.9,85.9,91.3"/>
+	<path class="st72" d="M2,456.3c14.6-40.3,96.9-78.7,137.2-64.1"/>
+	<path class="st67" d="M2,456.3c-11-24.2,8.9-77.1,33.2-88.1"/>
+	<path class="st72" d="M2,456.3c1.6-35.6,57.4-86.6,93-85"/>
+	<path class="st69" d="M2,456.3c5-25.3,50.5-55.6,75.8-50.6"/>
+	<path class="st69" d="M2,456.3c17.2-28.2,85.4-44.5,113.5-27.3"/>
+	<path class="st67" d="M2,456.3c-3.9-16.8,15.3-47.8,32-51.8"/>
+	<path class="st67" d="M2,456.3c-8.3-5.2-12.9-25.5-7.6-33.7"/>
+	<path class="st96" d="M61.9,168.1c11.1,0.4,27.2,17.6,26.9,28.7"/>
+	<path class="st96" d="M82,156.5c9.4,6.7,13.5,30.9,6.8,40.3"/>
+	<path class="st96" d="M82,156.5c-1.7,6.3-13.8,13.3-20.1,11.6"/>
+	<path class="st81" d="M290.4,446.3c-12.9-27,8.1-86.8,35.1-99.7"/>
+	<path class="st83" d="M290.4,446.3c33.6,0.3,83.6,51.1,83.3,84.7"/>
+	<path class="st34" d="M290.4,446.3c-41.1,19.4-131.8-13.1-151.2-54.2"/>
+	<path class="st53" d="M201.6,240.4c46-3.5,120.4,60.2,123.9,106.2"/>
+	<path class="st54" d="M201.6,240.4c20.7,22.4,18.1,86.9-4.2,107.6"/>
+	<path class="st104" d="M201.6,240.4c92.6,23.7,195.9,198.1,172.2,290.7"/>
+	<path class="st63" d="M201.6,240.4c-10.2-7.9-13.5-35.1-5.5-45.3"/>
+	<path class="st105" d="M201.6,240.4c17.9,42.8-19.6,133.9-62.4,151.8"/>
+	<path class="st102" d="M201.6,240.4c-6.1,3.4-20.3-0.6-23.7-6.7"/>
+	<path class="st102" d="M165.6,214.2c12.5-7.1,41.9,0.9,49,13.4"/>
+	<path class="st63" d="M165.6,214.2c2.3-9.9,20.5-21.4,30.4-19.1"/>
+	<path class="st105" d="M165.6,214.2c30.3,40.9,14.4,147.6-26.5,177.9"/>
+	<path class="st63" d="M165.6,214.2c6.3,1.4,13.7,13.1,12.3,19.4"/>
+	<path class="st63" d="M165.6,214.2c12.4-2,34,13.7,35.9,26.1"/>
+	<path class="st106" d="M253.9,647.6c-45.9-74.5-3-255.1,71.5-301"/>
+	<path class="st106" d="M248.3,633.4c-41.9-72.8,4.4-244.8,77.1-286.8"/>
+	<path class="st107" d="M248.3,633.4c-70-26.4-135.5-171.2-109.1-241.2"/>
+	<path class="st108" d="M248.3,633.4c4,1.7,7.3,10.3,5.6,14.3"/>
+	<path class="st3" d="M3,35.7c30-18.4,102.5-0.9,120.8,29.1"/>
+	<path class="st109" d="M3,35.7C149.4,123.8,236.8,475.6,148.7,622"/>
+	<path class="st110" d="M76.5,1.5c22.1,3.2,50.6,41.2,47.4,63.3"/>
+	<path class="st110" d="M192.2,117.7c10.1,4.1,18.9,25.4,14.8,35.4"/>
+	<path class="st3" d="M37.5-4.4C45.4-4.7,57.7,6.8,58,14.7"/>
+	<path class="st9" d="M613.7-92.7c5.2,8.7,0.1,29.5-8.6,34.8"/>
+	<path class="st8" d="M624.9-50.2C644.4,89,464.7,327.1,325.5,346.6"/>
+	<path class="st9" d="M624.9-50.2c6.4-2.6,19.9,3,22.5,9.4"/>
+	<path class="st7" d="M270.3-123.7c6.6,4.2,10.4,20.4,6.2,27"/>
+	<path class="st7" d="M299-98.5c94.3,83.7,110.2,350.8,26.5,445.1"/>
+	<path class="st7" d="M196.9-83.2C308.6-23,385.7,234.9,325.5,346.6"/>
+	<path class="st7" d="M176.5-76.3c114.4,54.8,203.8,308.5,149,422.9"/>
+	<path class="st12" d="M184.7-137.2c9.2,0.2,22.7,14.3,22.5,23.5"/>
+	<path class="st3" d="M217.9,32.9c-12.4,25.2-68.9,44.3-94.1,31.8"/>
+	<path class="st111" d="M217.9,32.9c84.2,41.2,148.8,229.4,107.6,313.7"/>
+	<path class="st7" d="M362.8-103.3c82.5,97.5,60.1,367.4-37.3,450"/>
+	<path class="st7" d="M383.9-103.8c78.4,101.8,43.3,372-58.5,450.4"/>
+	<path class="st14" d="M610.5,503.3c2.1-7.5,16.5-15.5,24-13.4"/>
+	<path class="st14" d="M610.5,503.3c19.3-9,61.8,6.5,70.8,25.8"/>
+	<path class="st14" d="M610.5,503.3c17.6,0.5,43.3,27.7,42.8,45.3"/>
+	<path class="st16" d="M610.5,503.3c8.9,5.4,14.2,26.9,8.8,35.8"/>
+	<path class="st16" d="M610.5,503.3c-24.8,23.1-96.7,20.6-119.8-4.2"/>
+	<path class="st16" d="M610.5,503.3c10-12.8,44.2-17.1,57.1-7.1"/>
+	<path class="st14" d="M610.5,503.3c11.8-5.4,37.4,4.2,42.8,15.9"/>
+	<path class="st17" d="M610.5,503.3c1.2,7.4-8.1,20.3-15.5,21.5"/>
+	<path class="st17" d="M700.4,599.3c-62,21.9-187.8-38.2-209.7-100.1"/>
+	<path class="st112" d="M439.5,505.2c9-11.5,39.7-15.1,51.2-6.1"/>
+	<path class="st34" d="M439.5,505.2c-79.9,17-225.2-77.4-242.1-157.3"/>
+	<path class="st33" d="M439.5,505.2c0.2,14.3-20.8,36-35,36.3"/>
+	<path class="st33" d="M439.5,505.2c8.9,12.1,4.2,43.6-7.9,52.6"/>
+	<path class="st113" d="M687.6,617.4c-63,15.7-181.2-55.2-196.9-118.2"/>
+	<path class="st44" d="M672,633c-63,9.5-171.8-70.8-181.3-133.8"/>
+	<path class="st17" d="M712.9,581c-60.8,28.1-194.2-21.1-222.2-81.9"/>
+	<path class="st33" d="M340.3,650c-17.1-30.5,3-101.8,33.5-118.9"/>
+	<path class="st114" d="M611,680.5c-123.9-9.7-295.2-210-285.5-333.9"/>
+	<path class="st113" d="M611,680.5c-60.3-12.2-132.5-121-120.3-181.4"/>
+	<path class="st112" d="M611,680.5c-77.3,17.6-219.7-72.1-237.3-149.4"/>
+	<path class="st17" d="M611,680.5c-11.6,0.3-29.3-16.7-29.6-28.3"/>
+	<path class="st17" d="M611,680.5c8.8-1.7,24.5,8.9,26.2,17.7"/>
+	<path class="st17" d="M611,680.5c2.4-15.7,29.6-35.5,45.3-33.1"/>
+	<path class="st7" d="M707.6-43.3c5.6,9.6-0.4,32.5-10,38.1"/>
+	<path class="st45" d="M714.4,14.1c-11.3,144.3-244.6,343.8-388.9,332.5"/>
+	<path class="st81" d="M714.4,14.1C749.6,185.6,545.2,495.8,373.7,531"/>
+	<path class="st7" d="M714.4,14.1c-3.7-10.9,7.1-32.7,17.9-36.4"/>
+	<path class="st7" d="M469.1-97.5c60.1,117.5-26,384-143.6,444.1"/>
+	<path class="st7" d="M490.1-93.6c55.1,121-43.6,385.1-164.6,440.2"/>
+	<path class="st7" d="M530.1-84.4c45.3,127.1-77.4,385.7-204.6,431"/>
+	<path class="st7" d="M549.3-80c40.6,130.1-93.7,386-223.8,426.6"/>
+	<path class="st7" d="M567.4-72.7c35.5,132.2-109.7,383.8-241.9,419.3"/>
+	<path class="st7" d="M584.5-63.5c30.2,133.8-125.1,379.9-259,410.2"/>
+	<path class="st7" d="M737.2,43.5c-21.7,143-268.8,324.8-411.7,303.1"/>
+	<path class="st7" d="M748.8,64.3c-28.2,141.1-282.2,310.5-423.3,282.3"/>
+	<path class="st46" d="M775.4,264.3c-73.5,106.5-343.5,155.9-449.9,82.4"/>
+	<path class="st81" d="M775.4,264.3c-27,133.7-268,293.8-401.7,266.8"/>
+	<path class="st43" d="M775.4,264.3c7.6,19.8-10.8,60.9-30.7,68.4"/>
+	<path class="st115" d="M775.4,264.3c-6-7.6-3.6-28.1,4-34.1"/>
+	<path class="st48" d="M775.4,264.3c-14-5.8-26.4-35.5-20.6-49.5"/>
+	<path class="st7" d="M775.4,264.3c-10.3,3.8-31.3-5.9-35.1-16.2"/>
+	<path class="st45" d="M775.4,264.3c-13.2,9.5-47.4,4-56.9-9.2"/>
+	<path class="st45" d="M775.4,264.3c-5.6,8.2-26.5,12.1-34.7,6.5"/>
+	<path class="st45" d="M775.4,264.3c-19.1,3.7-53.2-19.4-56.9-38.5"/>
+	<path class="st7" d="M776.7,427.2c-106.4,74.1-377.1,25.7-451.2-80.6"/>
+	<path class="st7" d="M776.7,427.2c3.4,4.9,1.2,17.3-3.7,20.7"/>
+	<path class="st18" d="M317,447.3c-18.4-21.8-13.3-82.3,8.5-100.7"/>
+	<path class="st34" d="M317,447.3c-43.8,4-115.6-55.6-119.6-99.4"/>
+	<path class="st33" d="M317,447.3c28.1,5.4,62.1,55.6,56.7,83.7"/>
+	<path class="st7" d="M783.7,400.5c-102.4,80.9-377.4,48.5-458.3-53.9"/>
+	<path class="st7" d="M442.6,385.3c-31.2,15.7-101.4-7.6-117.1-38.7"/>
+	<path class="st18" d="M442.6,385.3c15.4,42.9-26,130.4-68.9,145.7"/>
+	<path class="st116" d="M286.2,157.1c45.8,30,69.4,143.8,39.3,189.6"/>
+	<path class="st117" d="M286.2,157.1c20.4,55.9-32.9,170.5-88.8,190.9"/>
+	<path class="st118" d="M286.2,157.1c-4.1,4.8-17.4,5.9-22.2,1.8"/>
+	<path class="st119" d="M269.7,140.4c2.5,4.8-0.9,15.9-5.7,18.4"/>
+	<path class="st63" d="M176.4,175.8c7.8-0.1,19.5,11.5,19.6,19.3"/>
+	<path class="st54" d="M174.8,198c34.5,25.5,48.1,115.5,22.6,150"/>
+	<path class="st102" d="M174.8,198c13.9-2,37.8,15.7,39.8,29.6"/>
+	<path class="st120" d="M174.8,198c3.7-4.8,16.4-6.5,21.3-2.9"/>
+	<path class="st54" d="M174.8,198c31.7,46,10.4,162.5-35.6,194.2"/>
+	<path class="st63" d="M220.4,188.3c8.4,5,13.5,25.2,8.5,33.6"/>
+	<path class="st121" d="M171.3,602.3c-0.6,8.4-14.1,20.3-22.5,19.7"/>
+	<path class="st122" d="M171.3,602.3c-48.4-35.6-67.7-161.7-32.1-210.1"/>
+	<path class="st65" d="M171.3,602.3c6.5,8.6,3.3,31.3-5.3,37.9"/>
+	<path class="st65" d="M171.3,602.3c7.4,2.5,14.9,17.3,12.4,24.7"/>
+	<path class="st65" d="M149.4,649.8c-5.7-5.4-6.2-22.1-0.7-27.9"/>
+	<path class="st79" d="M57.6,535.9c-11-11.6-10.2-45.6,1.4-56.6"/>
+	<path class="st67" d="M33.1,317.7c36.1-6.3,99.7,38.3,106.1,74.4"/>
+	<path class="st7" d="M283.9,358.5c5.9-10.7,30.9-17.8,41.6-11.9"/>
+	<path class="st66" d="M283.9,358.5c-22.2,35.7-109.1,55.9-144.7,33.7"/>
+	<path class="st33" d="M399.6,661.9c-18.1-17.5-19.1-71.1-1.5-89.2"/>
+	<path class="st123" d="M308.9,371.2c-1.6-8.2,8.3-23,16.6-24.6"/>
+	<path class="st76" d="M308.9,371.2c-27,17.7-93.9,3.7-111.6-23.2"/>
+	<path class="st81" d="M308.9,371.2c44.9,19,83.8,115,64.8,159.9"/>
+	<path class="st97" d="M66.7,188.6c37.4-21.8,126.1,1.6,147.9,39"/>
+	<path class="st98" d="M66.7,188.6c19.6,15.7,25.4,68.7,9.6,88.3"/>
+	<path class="st99" d="M66.7,188.6c1.3-11.4,20.3-26.7,31.7-25.4"/>
+	<path class="st124" d="M66.7,188.6c6.1-2.8,19.3,2.2,22.1,8.2"/>
+	<path class="st96" d="M66.7,188.6c-15.4,7.6-49.9-4.2-57.5-19.6"/>
+	<path class="st96" d="M66.7,188.6c-5.1-3.1-8-15.4-4.8-20.5"/>
+	<path class="st96" d="M66.7,188.6c-3.4-9.5,5.8-28.7,15.3-32.1"/>
+	<path class="st96" d="M-34.7,232c31.2-13.2,97.9,13.7,111.1,44.9"/>
+	<path class="st67" d="M19.7,509.5c-2.3-4.1,0.2-13.7,4.3-16"/>
+	<path class="st96" d="M-1.3,176.9c35.5,4.5,82.1,64.5,77.7,100"/>
+	<path class="st96" d="M-22.3,206c33.9-5.5,93.1,37,98.7,71"/>
+	<path class="st99" d="M-22.3,206c1.2,4-2.9,11.8-6.8,13"/>
+	<path class="st96" d="M-1.5,151.5c5.6,1.4,12,11.8,10.7,17.4"/>
+	<path class="st67" d="M24.5,326.2c23.1-5.1,65.3,22,70.4,45"/>
+	<path class="st67" d="M-37.8,401.4c7.9-21.2,51.7-41.1,72.9-33.2"/>
+	<path class="st67" d="M-37.8,401.4c36.2-25.1,128.1-8.6,153.2,27.6"/>
+	<path class="st67" d="M-37.8,401.4c-0.4-9.8,13.7-25,23.5-25.4"/>
+	<path class="st67" d="M-37.8,401.4c15-13.7,58-11.9,71.8,3.1"/>
+	<path class="st72" d="M-37.8,401.4c10.6-2.2,29.9,10.5,32.1,21.1"/>
+	<path class="st72" d="M-37.8,401.4c14.9,11.4,20.3,50.8,8.9,65.8"/>
+	<path class="st73" d="M-37.8,401.4c4,9.7-4.6,30.3-14.4,34.3"/>
+	<path class="st67" d="M5.2,335.8c12.5,0.5,30.4,19.9,29.9,32.4"/>
+	<path class="st96" d="M-18.6,195.4c35.3-2.7,92.3,46.2,95,81.5"/>
+	<path class="st67" d="M149.9,489.8c-19.1-5.3-39.7-41.8-34.4-60.8"/>
+	<path class="st45" d="M254.8,307.1c22-6.2,64.5,17.5,70.7,39.5"/>
+	<path class="st103" d="M254.8,307.1c-6.1,40.1-75.5,91.2-115.6,85"/>
+	<path class="st125" d="M212.7,206.2c50.6,5.5,118.3,89.8,112.8,140.4"/>
+	<path class="st63" d="M212.7,206.2c4.7,3.9,5.8,16.7,1.9,21.4"/>
+	<path class="st102" d="M212.7,206.2c-5.5,1.1-15.5-5.5-16.7-11.1"/>
+	<path class="st102" d="M212.7,206.2c-1.5,12.5-22.3,29-34.8,27.5"/>
+	<path class="st126" d="M255.8,663.1c-3.5-2.7-4.6-12-1.8-15.4"/>
+</g>
+<g id="nodes">
+	<circle class="st127" cx="124.4" cy="64.8" r="5.3"/>
+	<circle class="st127" cx="207.4" cy="153.2" r="3.3"/>
+	<circle class="st127" cx="245.4" cy="78.1" r="3.1"/>
+	<circle class="st127" cx="45.2" cy="60" r="2.8"/>
+	<circle class="st127" cx="109.2" cy="-21.8" r="2.8"/>
+	<circle class="st127" cx="50" cy="31.7" r="2.8"/>
+	<circle class="st127" cx="175.6" cy="-25.5" r="2.8"/>
+	<circle class="st127" cx="44.4" cy="96.5" r="2.8"/>
+	<circle class="st127" cx="49.6" cy="115.4" r="2.8"/>
+	<circle class="st127" cx="154.1" cy="-27.6" r="2.8"/>
+	<circle class="st127" cx="131.6" cy="-28.2" r="2.8"/>
+	<circle class="st127" cx="43.2" cy="78.6" r="2.8"/>
+	<circle class="st127" cx="91.8" cy="-13.4" r="2.8"/>
+	<circle class="st127" cx="58.5" cy="14.7" r="3"/>
+	<circle class="st128" cx="255.4" cy="-92.8" r="2.8"/>
+	<circle class="st129" cx="605.5" cy="-57.9" r="3.1"/>
+	<circle class="st128" cx="326" cy="346.6" r="16.2"/>
+	<circle class="st129" cx="647.8" cy="-40.8" r="3.1"/>
+	<circle class="st128" cx="341.6" cy="-102.7" r="2.8"/>
+	<circle class="st128" cx="277" cy="-96.6" r="3"/>
+	<circle class="st130" cx="218.7" cy="-87.4" r="3"/>
+	<circle class="st128" cx="320.6" cy="-100.5" r="2.8"/>
+	<circle class="st130" cx="207.7" cy="-113.7" r="3"/>
+	<circle class="st128" cx="790.5" cy="335.3" r="2.8"/>
+	<circle class="st131" cx="635" cy="489.9" r="3.8"/>
+	<circle class="st131" cx="681.8" cy="529.1" r="3.8"/>
+	<circle class="st131" cx="653.8" cy="548.6" r="3.8"/>
+	<circle class="st131" cx="619.8" cy="539.1" r="3.9"/>
+	<circle class="st131" cx="491.2" cy="499.1" r="6.6"/>
+	<circle class="st131" cx="668" cy="496.3" r="3.9"/>
+	<circle class="st131" cx="653.8" cy="519.3" r="3.8"/>
+	<circle class="st131" cx="595.5" cy="524.8" r="3.3"/>
+	<circle class="st132" cx="345.5" cy="551.2" r="3.8"/>
+	<circle class="st132" cx="349.2" cy="585.4" r="5.2"/>
+	<circle class="st133" cx="197.8" cy="347.9" r="6.6"/>
+	<circle class="st132" cx="404.9" cy="541.5" r="5.6"/>
+	<circle class="st128" cx="679.8" cy="-17" r="2.8"/>
+	<circle class="st134" cx="264.5" cy="158.9" r="3.4"/>
+	<circle class="st132" cx="374.2" cy="531.1" r="7.2"/>
+	<circle class="st132" cx="432.1" cy="557.8" r="5.2"/>
+	<circle class="st131" cx="724.8" cy="562.4" r="2.8"/>
+	<circle class="st131" cx="607.3" cy="651.4" r="2.8"/>
+	<circle class="st131" cx="734.8" cy="543" r="2.8"/>
+	<circle class="st131" cx="745.2" cy="332.7" r="4.1"/>
+	<circle class="st131" cx="581.8" cy="652.2" r="3.1"/>
+	<circle class="st131" cx="637.6" cy="698.2" r="2.8"/>
+	<circle class="st128" cx="698" cy="-5.1" r="3"/>
+	<circle class="st128" cx="732.8" cy="-22.3" r="2.8"/>
+	<circle class="st128" cx="406.4" cy="-105.5" r="2.8"/>
+	<circle class="st128" cx="427.5" cy="-102.5" r="2.8"/>
+	<circle class="st128" cx="447.7" cy="-99.6" r="2.8"/>
+	<circle class="st128" cx="511.5" cy="-89.6" r="2.8"/>
+	<circle class="st131" cx="656.8" cy="647.4" r="3"/>
+	<circle class="st128" cx="758.1" cy="87.2" r="2.8"/>
+	<circle class="st128" cx="767" cy="109.7" r="2.8"/>
+	<circle class="st128" cx="774.3" cy="128" r="3"/>
+	<circle class="st128" cx="779.8" cy="230.2" r="3.9"/>
+	<circle class="st128" cx="755.2" cy="214.8" r="4.1"/>
+	<circle class="st128" cx="740.8" cy="248.1" r="3.4"/>
+	<circle class="st128" cx="719" cy="255" r="3.8"/>
+	<circle class="st128" cx="741.1" cy="270.7" r="3.8"/>
+	<circle class="st128" cx="719" cy="225.7" r="3.8"/>
+	<circle class="st135" cx="149.2" cy="622" r="3.9"/>
+	<circle class="st132" cx="385.1" cy="625.4" r="3.4"/>
+	<circle class="st128" cx="787" cy="379.2" r="2.8"/>
+	<circle class="st132" cx="448.5" cy="464.8" r="3"/>
+	<circle class="st128" cx="773.5" cy="447.9" r="3"/>
+	<circle class="st128" cx="789.3" cy="357.5" r="2.8"/>
+	<circle class="st136" cx="215.1" cy="227.6" r="4.5"/>
+	<circle class="st136" cx="196.4" cy="195.1" r="4.2"/>
+	<circle class="st133" cx="139.6" cy="392.2" r="8.1"/>
+	<circle class="st136" cx="229.4" cy="221.9" r="3.1"/>
+	<circle class="st135" cx="166.4" cy="640.1" r="3.1"/>
+	<circle class="st135" cx="184.1" cy="627" r="3.1"/>
+	<circle class="st133" cx="35.6" cy="368.2" r="5.5"/>
+	<circle class="st133" cx="95.4" cy="371.3" r="5.6"/>
+	<circle class="st133" cx="82" cy="449.4" r="4.8"/>
+	<circle class="st133" cx="78.2" cy="405.7" r="4.8"/>
+	<circle class="st133" cx="116" cy="429" r="5.8"/>
+	<circle class="st133" cx="-13.8" cy="376" r="4.1"/>
+	<circle class="st133" cx="59.5" cy="479.3" r="5"/>
+	<circle class="st133" cx="231.2" cy="430" r="3.3"/>
+	<circle class="st133" cx="42.6" cy="442.5" r="4.4"/>
+	<circle class="st132" cx="432.4" cy="610" r="4.5"/>
+	<circle class="st133" cx="40.7" cy="309.2" r="2.8"/>
+	<circle class="st132" cx="413.6" cy="624.4" r="4.2"/>
+	<circle class="st132" cx="398.5" cy="572.7" r="5"/>
+	<circle class="st132" cx="438.5" cy="583.2" r="4.4"/>
+	<circle class="st132" cx="368.3" cy="571.7" r="4.8"/>
+	<circle class="st132" cx="364.9" cy="615.1" r="4.7"/>
+	<circle class="st133" cx="34.5" cy="404.5" r="5"/>
+	<circle class="st133" cx="-5.2" cy="422.5" r="5"/>
+	<circle class="st133" cx="-22.9" cy="351.6" r="2.8"/>
+	<circle class="st137" cx="99.4" cy="186.5" r="3"/>
+	<circle class="st137" cx="76.8" cy="276.9" r="7.8"/>
+	<circle class="st137" cx="98.9" cy="163.2" r="3.8"/>
+	<circle class="st137" cx="89.2" cy="196.8" r="3.8"/>
+	<circle class="st137" cx="9.7" cy="168.9" r="3.3"/>
+	<circle class="st137" cx="-35.7" cy="248.2" r="2.8"/>
+	<circle class="st132" cx="314.6" cy="571.4" r="3.9"/>
+	<circle class="st136" cx="178.4" cy="233.7" r="3.8"/>
+	<circle class="st133" cx="24.5" cy="493.5" r="3"/>
+	<circle class="st133" cx="35.3" cy="522.2" r="2.8"/>
+	<circle class="st137" cx="-28.6" cy="219" r="3"/>
+	<circle class="st133" cx="-28.3" cy="467.2" r="3.4"/>
+	<circle class="st133" cx="-51.7" cy="435.7" r="3.6"/>
+	<circle class="st137" cx="-39.2" cy="263.8" r="2.8"/>
+	<circle class="st132" cx="355.7" cy="653.5" r="2.8"/>
+	<circle class="st133" cx="60.3" cy="359.5" r="4.7"/>
+	<circle class="st137" cx="-9" cy="185.6" r="2.8"/>
+	<circle class="st133" cx="2.4" cy="456.3" r="3.8"/>
+	<circle class="st137" cx="62.4" cy="168.1" r="3.1"/>
+	<circle class="st137" cx="82.5" cy="156.5" r="3.1"/>
+	<circle class="st132" cx="290.9" cy="446.3" r="3.1"/>
+	<circle class="st136" cx="201.9" cy="240.4" r="3.8"/>
+	<circle class="st136" cx="166.1" cy="214.2" r="3.4"/>
+	<circle class="st138" cx="254.4" cy="647.6" r="3.1"/>
+	<circle class="st138" cx="248.8" cy="633.4" r="3.1"/>
+	<circle class="st127" cx="3.5" cy="35.7" r="3"/>
+	<circle class="st127" cx="77" cy="1.5" r="2.8"/>
+	<circle class="st127" cx="192.6" cy="117.7" r="2.8"/>
+	<circle class="st127" cx="38" cy="-4.4" r="2.8"/>
+	<circle class="st129" cx="614.1" cy="-92.7" r="2.8"/>
+	<circle class="st129" cx="625.3" cy="-50.2" r="3"/>
+	<circle class="st128" cx="270.7" cy="-123.7" r="2.8"/>
+	<circle class="st128" cx="299.5" cy="-98.5" r="2.8"/>
+	<circle class="st128" cx="197.2" cy="-83.2" r="2.8"/>
+	<circle class="st128" cx="176.9" cy="-76.3" r="2.8"/>
+	<circle class="st130" cx="185.2" cy="-137.2" r="2.8"/>
+	<circle class="st127" cx="218.4" cy="32.9" r="3"/>
+	<circle class="st128" cx="363.3" cy="-103.3" r="2.8"/>
+	<circle class="st128" cx="384.4" cy="-103.8" r="2.8"/>
+	<circle class="st131" cx="611" cy="503.3" r="3.9"/>
+	<circle class="st131" cx="700.8" cy="599.3" r="2.8"/>
+	<circle class="st132" cx="440" cy="505.2" r="3.3"/>
+	<circle class="st131" cx="688" cy="617.4" r="2.8"/>
+	<circle class="st131" cx="672.3" cy="633" r="2.8"/>
+	<circle class="st131" cx="713.3" cy="581" r="2.8"/>
+	<circle class="st132" cx="340.7" cy="650" r="2.8"/>
+	<circle class="st131" cx="611.5" cy="680.5" r="3.6"/>
+	<circle class="st128" cx="708" cy="-43.3" r="2.8"/>
+	<circle class="st128" cx="714.8" cy="14.1" r="3.1"/>
+	<circle class="st128" cx="469.6" cy="-97.5" r="2.8"/>
+	<circle class="st128" cx="490.6" cy="-93.6" r="2.8"/>
+	<circle class="st128" cx="530.5" cy="-84.4" r="2.8"/>
+	<circle class="st128" cx="549.8" cy="-80" r="2.8"/>
+	<circle class="st128" cx="567.8" cy="-72.7" r="2.8"/>
+	<circle class="st128" cx="584.8" cy="-63.5" r="2.8"/>
+	<circle class="st128" cx="737.6" cy="43.5" r="2.8"/>
+	<circle class="st128" cx="749.2" cy="64.3" r="2.8"/>
+	<circle class="st128" cx="775.8" cy="264.3" r="4.1"/>
+	<circle class="st128" cx="777.1" cy="427.2" r="3"/>
+	<circle class="st132" cx="317.5" cy="447.3" r="3.1"/>
+	<circle class="st128" cx="784.1" cy="400.5" r="2.8"/>
+	<circle class="st128" cx="443.1" cy="385.3" r="3"/>
+	<circle class="st134" cx="286.7" cy="157.1" r="3.1"/>
+	<circle class="st134" cx="270.2" cy="140.4" r="2.8"/>
+	<circle class="st136" cx="176.9" cy="175.8" r="2.8"/>
+	<circle class="st136" cx="175.2" cy="198" r="3.3"/>
+	<circle class="st136" cx="220.9" cy="188.3" r="2.8"/>
+	<circle class="st135" cx="171.7" cy="602.3" r="3.3"/>
+	<circle class="st135" cx="149.9" cy="649.8" r="2.8"/>
+	<circle class="st133" cx="58.1" cy="535.9" r="2.8"/>
+	<circle class="st133" cx="33.6" cy="317.7" r="2.8"/>
+	<circle class="st128" cx="284.4" cy="358.5" r="3"/>
+	<circle class="st132" cx="400.1" cy="661.9" r="2.8"/>
+	<circle class="st128" cx="309.4" cy="371.2" r="3.1"/>
+	<circle class="st137" cx="67.2" cy="188.6" r="3.8"/>
+	<circle class="st137" cx="-34.2" cy="232" r="2.8"/>
+	<circle class="st133" cx="20.2" cy="509.5" r="2.8"/>
+	<circle class="st137" cx="-0.8" cy="176.9" r="2.8"/>
+	<circle class="st137" cx="-21.8" cy="206" r="3"/>
+	<circle class="st137" cx="-1" cy="151.5" r="2.8"/>
+	<circle class="st133" cx="25" cy="326.2" r="2.8"/>
+	<circle class="st133" cx="-37.3" cy="401.4" r="3.8"/>
+	<circle class="st133" cx="5.7" cy="335.8" r="2.8"/>
+	<circle class="st137" cx="-18.2" cy="195.4" r="2.8"/>
+	<circle class="st133" cx="150.4" cy="489.8" r="2.8"/>
+	<circle class="st128" cx="255.2" cy="307.1" r="3"/>
+	<circle class="st136" cx="213.2" cy="206.2" r="3.3"/>
+	<circle class="st138" cx="256.3" cy="663.1" r="2.8"/>
+</g>
+<g id="node-labels-outline">
+	<text transform="matrix(1 0 0 1 69.7454 67.7561)" class="st139 st140">Bishop Myriel</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 69.7454 67.7561)" class="st142 st139 st140">Bishop Myriel</text>
+	</g>
+	<text transform="matrix(1 0 0 1 167.7708 155.2175)" class="st139 st143">Mlle Baptistine</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 167.7708 155.2175)" class="st144 st139 st143">Mlle Baptistine</text>
+	</g>
+	<text transform="matrix(1 0 0 1 208.2034 80.0945)" class="st139 st143">Mme Magloire</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 208.2034 80.0945)" class="st144 st139 st143">Mme Magloire</text>
+	</g>
+	<text transform="matrix(1 0 0 1 4.3694 61.9294)" class="st139 st145">Hospital director</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 4.3694 61.9294)" class="st146 st139 st145">Hospital director</text>
+	</g>
+	<text transform="matrix(1 0 0 1 73.011 -19.9158)" class="st139 st145">Mayor of Senez</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 73.011 -19.9158)" class="st146 st139 st145">Mayor of Senez</text>
+	</g>
+	<text transform="matrix(1 0 0 1 14.2122 33.7014)" class="st139 st145">Countess de Lô</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 14.2122 33.7014)" class="st146 st139 st145">Countess de Lô</text>
+	</g>
+	<text transform="matrix(1 0 0 1 148.467 -23.45)" class="st139 st145">Géborand</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 148.467 -23.45)" class="st146 st139 st145">Géborand</text>
+	</g>
+	<text transform="matrix(1 0 0 1 10.5843 98.348)" class="st139 st145">Champtercier</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 10.5843 98.348)" class="st146 st139 st145">Champtercier</text>
+	</g>
+	<text transform="matrix(1 0 0 1 4.177 117.2874)" class="st139 st145">Condemned to death</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 4.177 117.2874)" class="st146 st139 st145">Condemned to death</text>
+	</g>
+	<text transform="matrix(1 0 0 1 123.8885 -25.304)" class="st139 st145">Curé, Digne</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 123.8885 -25.304)" class="st146 st139 st145">Curé, Digne</text>
+	</g>
+	<text transform="matrix(1 0 0 1 92.9769 -26.3273)" class="st139 st145">Chastelar mayor</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 92.9769 -26.3273)" class="st146 st139 st145">Chastelar mayor</text>
+	</g>
+	<text transform="matrix(1 0 0 1 7.5511 80.6619)" class="st139 st145">Mountain curé</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 7.5511 80.6619)" class="st146 st139 st145">Mountain curé</text>
+	</g>
+	<text transform="matrix(1 0 0 1 66.0809 -11.5491)" class="st139 st145">Cravatte</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 66.0809 -11.5491)" class="st146 st139 st145">Cravatte</text>
+	</g>
+	<text transform="matrix(1 0 0 1 23.4465 16.6262)" class="st139 st145">Conventionist</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 23.4465 16.6262)" class="st146 st139 st145">Conventionist</text>
+	</g>
+	<text transform="matrix(1 0 0 1 216.5413 -90.6492)" class="st139 st145">Gendarme, Digne</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 216.5413 -90.6492)" class="st146 st139 st145">Gendarme, Digne</text>
+	</g>
+	<text transform="matrix(1 0 0 1 580.3948 -55.8743)" class="st139 st143">Labarre</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 580.3948 -55.8743)" class="st144 st139 st143">Labarre</text>
+	</g>
+	<text transform="matrix(1 0 0 1 165.0222 357.8645)" class="st139 st147">Jean Valjean</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 165.0222 357.8645)" class="st148 st139 st147">Jean Valjean</text>
+	</g>
+	<text transform="matrix(1 0 0 1 605.1691 -38.5217)" class="st139 st143">Fisherman, Digne</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 605.1691 -38.5217)" class="st144 st139 st143">Fisherman, Digne</text>
+	</g>
+	<text transform="matrix(1 0 0 1 309.8914 -100.5198)" class="st139 st145">Jailer, Digne</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 309.8914 -100.5198)" class="st146 st139 st145">Jailer, Digne</text>
+	</g>
+	<text transform="matrix(1 0 0 1 242.842 -94.7352)" class="st139 st145">Digne peasant</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 242.842 -94.7352)" class="st146 st139 st145">Digne peasant</text>
+	</g>
+	<text transform="matrix(1 0 0 1 182.3694 -85.3309)" class="st139 st145">Valjean&apos;s sister</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 182.3694 -85.3309)" class="st146 st139 st145">Valjean&apos;s sister</text>
+	</g>
+	<text transform="matrix(1 0 0 1 297.4964 -98.5623)" class="st139 st145">Isabeau</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 297.4964 -98.5623)" class="st146 st139 st145">Isabeau</text>
+	</g>
+	<text transform="matrix(1 0 0 1 177.7405 -111.7518)" class="st139 st145">Sister&apos;s son</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 177.7405 -111.7518)" class="st146 st139 st145">Sister&apos;s son</text>
+	</g>
+	<text transform="matrix(1 0 0 1 752.5942 337.4265)" class="st139 st145">Foreman, Grasse</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 752.5942 337.4265)" class="st146 st139 st145">Foreman, Grasse</text>
+	</g>
+	<text transform="matrix(1 0 0 1 600.3619 492.3459)" class="st139 st149">Tholomyès</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 600.3619 492.3459)" class="st150 st139 st149">Tholomyès</text>
+	</g>
+	<text transform="matrix(1 0 0 1 653.798 531.4373)" class="st139 st149">Fameuil</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 653.798 531.4373)" class="st150 st139 st149">Fameuil</text>
+	</g>
+	<text transform="matrix(1 0 0 1 615.7612 550.9025)" class="st139 st149">Blachevelle</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 615.7612 550.9025)" class="st150 st139 st149">Blachevelle</text>
+	</g>
+	<text transform="matrix(1 0 0 1 594.0165 541.4069)" class="st139 st149">Dahlia</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 594.0165 541.4069)" class="st150 st139 st149">Dahlia</text>
+	</g>
+	<text transform="matrix(1 0 0 1 449.0027 502.8337)" class="st139 st151">Fantine</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 449.0027 502.8337)" class="st152 st139 st151">Fantine</text>
+	</g>
+	<text transform="matrix(1 0 0 1 635.4515 498.5706)" class="st139 st149">Favourite</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 635.4515 498.5706)" class="st150 st139 st149">Favourite</text>
+	</g>
+	<text transform="matrix(1 0 0 1 623.0989 521.5593)" class="st139 st149">Listolier</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 623.0989 521.5593)" class="st150 st139 st149">Listolier</text>
+	</g>
+	<text transform="matrix(1 0 0 1 571.6921 526.8513)" class="st139 st143">Waiter</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 571.6921 526.8513)" class="st144 st139 st143">Waiter</text>
+	</g>
+	<text transform="matrix(1 0 0 1 319.1341 553.5247)" class="st139 st149">Azelma</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 319.1341 553.5247)" class="st150 st139 st149">Azelma</text>
+	</g>
+	<text transform="matrix(1 0 0 1 313.1077 588.3718)" class="st139 st140">Eponine</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 313.1077 588.3718)" class="st142 st139 st140">Eponine</text>
+	</g>
+	<text transform="matrix(1 0 0 1 154.8651 351.5715)" class="st139 st151">Cosette</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 154.8651 351.5715)" class="st152 st139 st151">Cosette</text>
+	</g>
+	<text transform="matrix(1 0 0 1 353.6472 544.9675)" class="st139 st153">Thénardier</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 353.6472 544.9675)" class="st154 st139 st153">Thénardier</text>
+	</g>
+	<text transform="matrix(1 0 0 1 643.0314 -15.1248)" class="st139 st145">Dowager M-s-M</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 643.0314 -15.1248)" class="st146 st139 st145">Dowager M-s-M</text>
+	</g>
+	<text transform="matrix(1 0 0 1 225.6155 161.0916)" class="st139 st155">Fauchelevent</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 225.6155 161.0916)" class="st156 st139 st155">Fauchelevent</text>
+	</g>
+	<text transform="matrix(1 0 0 1 335.7385 535.59)" class="st139 st157">Javert</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 335.7385 535.59)" class="st158 st139 st157">Javert</text>
+	</g>
+	<text transform="matrix(1 0 0 1 369.5031 560.9509)" class="st139 st140">Mme Thénardier</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 369.5031 560.9509)" class="st142 st139 st140">Mme Thénardier</text>
+	</g>
+	<text transform="matrix(1 0 0 1 686.131 564.2855)" class="st139 st145">Furniture seller</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 686.131 564.2855)" class="st146 st139 st145">Furniture seller</text>
+	</g>
+	<text transform="matrix(1 0 0 1 580.8967 653.3392)" class="st139 st145">Landlord</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 580.8967 653.3392)" class="st146 st139 st145">Landlord</text>
+	</g>
+	<text transform="matrix(1 0 0 1 712.6506 544.8732)" class="st139 st145">Barber</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 712.6506 544.8732)" class="st146 st139 st145">Barber</text>
+	</g>
+	<text transform="matrix(1 0 0 1 707.3876 335.0895)" class="st139 st159">Bamatabois</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 707.3876 335.0895)" class="st160 st139 st159">Bamatabois</text>
+	</g>
+	<text transform="matrix(1 0 0 1 545.3685 654.2224)" class="st139 st143">Doctor M-s-M</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 545.3685 654.2224)" class="st144 st139 st143">Doctor M-s-M</text>
+	</g>
+	<text transform="matrix(1 0 0 1 601.0303 700.1633)" class="st139 st145">Sister Perpétue</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 601.0303 700.1633)" class="st146 st139 st145">Sister Perpétue</text>
+	</g>
+	<text transform="matrix(1 0 0 1 663.306 -3.2264)" class="st139 st145">M. Scaufflaire</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 663.306 -3.2264)" class="st146 st139 st145">M. Scaufflaire</text>
+	</g>
+	<text transform="matrix(1 0 0 1 709.1301 -20.4084)" class="st139 st145">Cashier</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 709.1301 -20.4084)" class="st146 st139 st145">Cashier</text>
+	</g>
+	<text transform="matrix(1 0 0 1 368.681 -103.5403)" class="st139 st145">Arras coachman</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 368.681 -103.5403)" class="st146 st139 st145">Arras coachman</text>
+	</g>
+	<text transform="matrix(1 0 0 1 399.5316 -100.5842)" class="st139 st145">Stable boy</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 399.5316 -100.5842)" class="st146 st139 st145">Stable boy</text>
+	</g>
+	<text transform="matrix(1 0 0 1 416.824 -97.7073)" class="st139 st145">Wheelright</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 416.824 -97.7073)" class="st146 st139 st145">Wheelright</text>
+	</g>
+	<text transform="matrix(1 0 0 1 473.3035 -87.7214)" class="st139 st145">Innkeeper&apos;s wife</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 473.3035 -87.7214)" class="st146 st139 st145">Innkeeper&apos;s wife</text>
+	</g>
+	<text transform="matrix(1 0 0 1 617.6437 649.342)" class="st139 st145">Hospital servant</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 617.6437 649.342)" class="st146 st139 st145">Hospital servant</text>
+	</g>
+	<text transform="matrix(1 0 0 1 723.639 89.1477)" class="st139 st145">Booking clerk</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 723.639 89.1477)" class="st146 st139 st145">Booking clerk</text>
+	</g>
+	<text transform="matrix(1 0 0 1 734.3243 111.5779)" class="st139 st145">Arras lawyer</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 734.3243 111.5779)" class="st146 st139 st145">Arras lawyer</text>
+	</g>
+	<text transform="matrix(1 0 0 1 752.5931 129.9211)" class="st139 st145">Bailiff</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 752.5931 129.9211)" class="st146 st139 st145">Bailiff</text>
+	</g>
+	<text transform="matrix(1 0 0 1 736.7643 232.4885)" class="st139 st149">Champmathieu</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 736.7643 232.4885)" class="st150 st139 st149">Champmathieu</text>
+	</g>
+	<text transform="matrix(1 0 0 1 731.1595 217.5583)" class="st139 st159">Judge</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 731.1595 217.5583)" class="st160 st139 st159">Judge</text>
+	</g>
+	<text transform="matrix(1 0 0 1 696.1238 250.2507)" class="st139 st155">Defense counsel</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 696.1238 250.2507)" class="st156 st139 st155">Defense counsel</text>
+	</g>
+	<text transform="matrix(1 0 0 1 693.1155 257.2946)" class="st139 st149">Brevet</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 693.1155 257.2946)" class="st150 st139 st149">Brevet</text>
+	</g>
+	<text transform="matrix(1 0 0 1 705.6135 273.0789)" class="st139 st149">Chenildieu</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 705.6135 273.0789)" class="st150 st139 st149">Chenildieu</text>
+	</g>
+	<text transform="matrix(1 0 0 1 681.2767 228.0208)" class="st139 st149">Cochepaille</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 681.2767 228.0208)" class="st150 st139 st149">Cochepaille</text>
+	</g>
+	<text transform="matrix(1 0 0 1 94.9422 624.321)" class="st139 st149">Colonel Pontmercy</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 94.9422 624.321)" class="st150 st139 st149">Colonel Pontmercy</text>
+	</g>
+	<text transform="matrix(1 0 0 1 346.9977 627.5159)" class="st139 st155">Boulatruelle</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 346.9977 627.5159)" class="st156 st139 st155">Boulatruelle</text>
+	</g>
+	<text transform="matrix(1 0 0 1 758.694 381.1136)" class="st139 st145">Boatswain</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 758.694 381.1136)" class="st146 st139 st145">Boatswain</text>
+	</g>
+	<text transform="matrix(1 0 0 1 424.2678 466.6725)" class="st139 st145">Peddler</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 424.2678 466.6725)" class="st146 st139 st145">Peddler</text>
+	</g>
+	<text transform="matrix(1 0 0 1 742.446 449.9089)" class="st139 st145">Duc d&apos;Havré</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 742.446 449.9089)" class="st146 st139 st145">Duc d&apos;Havré</text>
+	</g>
+	<text transform="matrix(1 0 0 1 737.3376 359.3885)" class="st139 st145">Montfermeuil coachman</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 737.3376 359.3885)" class="st146 st139 st145">Montfermeuil coachman</text>
+	</g>
+	<text transform="matrix(1 0 0 1 157.0149 230.3464)" class="st139 st161">M. Gillenormand</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 157.0149 230.3464)" class="st162 st139 st161">M. Gillenormand</text>
+	</g>
+	<text transform="matrix(1 0 0 1 135.0642 197.7048)" class="st139 st163">Mlle Gillenormand</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 135.0642 197.7048)" class="st164 st139 st163">Mlle Gillenormand</text>
+	</g>
+	<text transform="matrix(1 0 0 1 92.4016 396.6018)" class="st139 st165">Marius</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 92.4016 396.6018)" class="st166 st139 st165">Marius</text>
+	</g>
+	<text transform="matrix(1 0 0 1 193.2814 223.9774)" class="st139 st143">Baroness de T</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 193.2814 223.9774)" class="st144 st139 st143">Baroness de T</text>
+	</g>
+	<text transform="matrix(1 0 0 1 132.7015 642.2941)" class="st139 st143">Abbé Mabeuf</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 132.7015 642.2941)" class="st144 st139 st143">Abbé Mabeuf</text>
+	</g>
+	<text transform="matrix(1 0 0 1 143.9407 629.3488)" class="st139 st143">Doctor, Vernon</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 143.9407 629.3488)" class="st144 st139 st143">Doctor, Vernon</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -1.6252 371.2727)" class="st139 st167">Bossuet</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -1.6252 371.2727)" class="st168 st139 st167">Bossuet</text>
+	</g>
+	<text transform="matrix(1 0 0 1 43.9641 374.4973)" class="st139 st153">Courfeyrac</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 43.9641 374.4973)" class="st154 st139 st153">Courfeyrac</text>
+	</g>
+	<text transform="matrix(1 0 0 1 46.7439 452.2057)" class="st139 st169">Bahorel</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 46.7439 452.2057)" class="st170 st139 st169">Bahorel</text>
+	</g>
+	<text transform="matrix(1 0 0 1 32.1678 408.5349)" class="st139 st169">Combeferre</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 32.1678 408.5349)" class="st170 st139 st169">Combeferre</text>
+	</g>
+	<text transform="matrix(1 0 0 1 74.472 432.6111)" class="st139 st153">Enjolras</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 74.472 432.6111)" class="st154 st139 st153">Enjolras</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -48.8664 378.4373)" class="st139 st159">Grantaire</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -48.8664 378.4373)" class="st160 st139 st159">Grantaire</text>
+	</g>
+	<text transform="matrix(1 0 0 1 18.5784 482.0999)" class="st139 st169">M. Mabeuf</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 18.5784 482.0999)" class="st170 st139 st169">M. Mabeuf</text>
+	</g>
+	<text transform="matrix(1 0 0 1 197.4631 432.0227)" class="st139 st143">Mme Burgon</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 197.4631 432.0227)" class="st144 st139 st143">Mme Burgon</text>
+	</g>
+	<text transform="matrix(1 0 0 1 5.7874 445.0797)" class="st139 st163">Prouvaire</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 5.7874 445.0797)" class="st164 st139 st163">Prouvaire</text>
+	</g>
+	<text transform="matrix(1 0 0 1 391.2849 612.7283)" class="st139 st161">Gueulemer</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 391.2849 612.7283)" class="st162 st139 st161">Gueulemer</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -1.3308 311.1184)" class="st139 st145">Parisian coachman</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -1.3308 311.1184)" class="st146 st139 st145">Parisian coachman</text>
+	</g>
+	<text transform="matrix(1 0 0 1 377.381 627.0236)" class="st139 st163">Panchaud</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 377.381 627.0236)" class="st164 st139 st163">Panchaud</text>
+	</g>
+	<text transform="matrix(1 0 0 1 367.2527 575.821)" class="st139 st169">Brujon</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 367.2527 575.821)" class="st170 st139 st169">Brujon</text>
+	</g>
+	<text transform="matrix(1 0 0 1 390.0294 585.7238)" class="st139 st163">Deuxmilliards</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 390.0294 585.7238)" class="st164 st139 st163">Deuxmilliards</text>
+	</g>
+	<text transform="matrix(1 0 0 1 340.8654 574.4655)" class="st139 st169">Babet</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 340.8654 574.4655)" class="st170 st139 st169">Babet</text>
+	</g>
+	<text transform="matrix(1 0 0 1 321.9817 618.2775)" class="st139 st161">Claquesous</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 321.9817 618.2775)" class="st162 st139 st161">Claquesous</text>
+	</g>
+	<text transform="matrix(1 0 0 1 2.6834 407.3269)" class="st139 st169">Feuilly</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 2.6834 407.3269)" class="st170 st139 st169">Feuilly</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -27.6545 425.7664)" class="st139 st169">Joly</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -27.6545 425.7664)" class="st170 st139 st169">Joly</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -53.1907 353.5276)" class="st139 st145">Card player</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -53.1907 353.5276)" class="st146 st139 st145">Card player</text>
+	</g>
+	<text transform="matrix(1 0 0 1 58.5506 188.4343)" class="st139 st145">Babet&apos;s girlfriend</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 58.5506 188.4343)" class="st146 st139 st145">Babet&apos;s girlfriend</text>
+	</g>
+	<text transform="matrix(1 0 0 1 17.1614 281.2317)" class="st139 st171">Gavroche</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 17.1614 281.2317)" class="st172 st139 st171">Gavroche</text>
+	</g>
+	<text transform="matrix(1 0 0 1 70.1677 165.4753)" class="st139 st149">Magnon</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 70.1677 165.4753)" class="st150 st139 st149">Magnon</text>
+	</g>
+	<text transform="matrix(1 0 0 1 51.9485 199.0944)" class="st139 st149">Older child</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 51.9485 199.0944)" class="st150 st139 st149">Older child</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -23.8782 170.9539)" class="st139 st143">Paris barber</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -23.8782 170.9539)" class="st144 st139 st143">Paris barber</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -65.1169 250.1208)" class="st139 st145">Paris baker</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -65.1169 250.1208)" class="st146 st139 st145">Paris baker</text>
+	</g>
+	<text transform="matrix(1 0 0 1 272.0666 573.6995)" class="st139 st149">Montparnasse</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 272.0666 573.6995)" class="st150 st139 st149">Montparnasse</text>
+	</g>
+	<text transform="matrix(1 0 0 1 152.0353 236.3494)" class="st139 st149">Basque</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 152.0353 236.3494)" class="st150 st139 st149">Basque</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -26.3484 495.3992)" class="st139 st145">Minister of agriculture</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -26.3484 495.3992)" class="st146 st139 st145">Minister of agriculture</text>
+	</g>
+	<text transform="matrix(1 0 0 1 8.4265 524.1414)" class="st139 st145">Gardener</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 8.4265 524.1414)" class="st146 st139 st145">Gardener</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -56.0036 220.8381)" class="st139 st145">Ragpicker</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -56.0036 220.8381)" class="st146 st139 st145">Ragpicker</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -71.7107 469.3269)" class="st139 st155">Mme Hucheloup</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -71.7107 469.3269)" class="st156 st139 st155">Mme Hucheloup</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -82.2848 437.8713)" class="st139 st155">Gibolette</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -82.2848 437.8713)" class="st156 st139 st155">Gibolette</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -60.4069 265.6701)" class="st139 st145">Dandy</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -60.4069 265.6701)" class="st146 st139 st145">Dandy</text>
+	</g>
+	<text transform="matrix(1 0 0 1 315.343 655.6921)" class="st139 st145">Porter, barricade</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 315.343 655.6921)" class="st146 st139 st145">Porter, barricade</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -5.237 362.2664)" class="st139 st161">Government troops</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -5.237 362.2664)" class="st162 st139 st161">Government troops</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -48.0598 187.5037)" class="st139 st145">Drunk coachman</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -48.0598 187.5037)" class="st146 st139 st145">Drunk coachman</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -51.0983 458.5955)" class="st139 st149">Insurgent workers</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -51.0983 458.5955)" class="st150 st139 st149">Insurgent workers</text>
+	</g>
+	<text transform="matrix(1 0 0 1 24.4183 170.1531)" class="st139 st143">Bourgeois man</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 24.4183 170.1531)" class="st144 st139 st143">Bourgeois man</text>
+	</g>
+	<text transform="matrix(1 0 0 1 45.2352 158.5178)" class="st139 st143">Bourgeois son</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 45.2352 158.5178)" class="st144 st139 st143">Bourgeois son</text>
+	</g>
+	<text transform="matrix(1 0 0 1 246.5355 448.619)" class="st139 st143">Javert&apos;s coachman</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 246.5355 448.619)" class="st144 st139 st143">Javert&apos;s coachman</text>
+	</g>
+	<text transform="matrix(1 0 0 1 134.3215 243.0251)" class="st139 st149">Concierge, Gillenormand</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 134.3215 243.0251)" class="st150 st139 st149">Concierge, Gillenormand</text>
+	</g>
+	<text transform="matrix(1 0 0 1 109.2737 216.7302)" class="st139 st155">Doctor, Gillenormand</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 109.2737 216.7302)" class="st156 st139 st155">Doctor, Gillenormand</text>
+	</g>
+	<text transform="matrix(1 0 0 1 196.6644 650.056)" class="st139 st143">Concierge, l&apos;Homme Armé</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 196.6644 650.056)" class="st144 st139 st143">Concierge, l&apos;Homme Armé</text>
+	</g>
+	<text transform="matrix(1 0 0 1 208.571 635.6882)" class="st139 st143">Doctor, Valjean</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 208.571 635.6882)" class="st144 st139 st143">Doctor, Valjean</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -23.2439 37.6663)" class="st139 st145">Napoleon</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -23.2439 37.6663)" class="st146 st139 st145">Napoleon</text>
+	</g>
+	<text transform="matrix(1 0 0 1 52.718 3.4138)" class="st139 st145">Senator</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 52.718 3.4138)" class="st146 st139 st145">Senator</text>
+	</g>
+	<text transform="matrix(1 0 0 1 152.2947 119.6477)" class="st139 st145">Mme Boischevron</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 152.2947 119.6477)" class="st146 st139 st145">Mme Boischevron</text>
+	</g>
+	<text transform="matrix(1 0 0 1 4.7649 -2.5217)" class="st139 st145">Shepherd boy</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 4.7649 -2.5217)" class="st146 st139 st145">Shepherd boy</text>
+	</g>
+	<text transform="matrix(1 0 0 1 583.5569 -90.764)" class="st139 st145">Kitchen boy</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 583.5569 -90.764)" class="st146 st139 st145">Kitchen boy</text>
+	</g>
+	<text transform="matrix(1 0 0 1 591.1257 -48.3127)" class="st139 st145">Tavern keeper</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 591.1257 -48.3127)" class="st146 st139 st145">Tavern keeper</text>
+	</g>
+	<text transform="matrix(1 0 0 1 236.3914 -121.7341)" class="st139 st145">Peasant&apos;s wife</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 236.3914 -121.7341)" class="st146 st139 st145">Peasant&apos;s wife</text>
+	</g>
+	<text transform="matrix(1 0 0 1 265.4115 -96.3469)" class="st139 st145">Marquise de R</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 265.4115 -96.3469)" class="st146 st139 st145">Marquise de R</text>
+	</g>
+	<text transform="matrix(1 0 0 1 163.8367 -81.3333)" class="st139 st145">Marie-Claude</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 163.8367 -81.3333)" class="st146 st139 st145">Marie-Claude</text>
+	</g>
+	<text transform="matrix(1 0 0 1 144.3963 -74.3455)" class="st139 st145">Prison guard</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 144.3963 -74.3455)" class="st146 st139 st145">Prison guard</text>
+	</g>
+	<text transform="matrix(1 0 0 1 153.863 -135.2961)" class="st139 st145">Door keeper</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 153.863 -135.2961)" class="st146 st139 st145">Door keeper</text>
+	</g>
+	<text transform="matrix(1 0 0 1 178.9163 34.8729)" class="st139 st145">Three gendarmes</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 178.9163 34.8729)" class="st146 st139 st145">Three gendarmes</text>
+	</g>
+	<text transform="matrix(1 0 0 1 330.7108 -101.45)" class="st139 st145">Petit Gervais</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 330.7108 -101.45)" class="st146 st139 st145">Petit Gervais</text>
+	</g>
+	<text transform="matrix(1 0 0 1 352.0135 -101.6589)" class="st139 st145">Priest, Digne</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 352.0135 -101.6589)" class="st146 st139 st145">Priest, Digne</text>
+	</g>
+	<text transform="matrix(1 0 0 1 582.7313 505.6799)" class="st139 st149">Zephine</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 582.7313 505.6799)" class="st150 st139 st149">Zephine</text>
+	</g>
+	<text transform="matrix(1 0 0 1 652.342 601.2908)" class="st139 st145">Thénardiers&apos; neighbor</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 652.342 601.2908)" class="st146 st139 st145">Thénardiers&apos; neighbor</text>
+	</g>
+	<text transform="matrix(1 0 0 1 399.5627 507.2614)" class="st139 st143">Mme Victurnien</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 399.5627 507.2614)" class="st144 st139 st143">Mme Victurnien</text>
+	</g>
+	<text transform="matrix(1 0 0 1 645.5164 619.2625)" class="st139 st145">Factory supervisor</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 645.5164 619.2625)" class="st146 st139 st145">Factory supervisor</text>
+	</g>
+	<text transform="matrix(1 0 0 1 642.3143 634.858)" class="st139 st145">Marguerite</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 642.3143 634.858)" class="st146 st139 st145">Marguerite</text>
+	</g>
+	<text transform="matrix(1 0 0 1 673.509 582.9393)" class="st139 st145">Itinerant dentist</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 673.509 582.9393)" class="st146 st139 st145">Itinerant dentist</text>
+	</g>
+	<text transform="matrix(1 0 0 1 292.6023 651.91)" class="st139 st145">Police sergeant M-s-M</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 292.6023 651.91)" class="st146 st139 st145">Police sergeant M-s-M</text>
+	</g>
+	<text transform="matrix(1 0 0 1 570.345 682.6569)" class="st139 st155">Sister Simplice</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 570.345 682.6569)" class="st156 st139 st155">Sister Simplice</text>
+	</g>
+	<text transform="matrix(1 0 0 1 667.4182 -41.387)" class="st139 st145">Scaufflaire&apos;s wife</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 667.4182 -41.387)" class="st146 st139 st145">Scaufflaire&apos;s wife</text>
+	</g>
+	<text transform="matrix(1 0 0 1 674.6093 16.4431)" class="st139 st143">Portress, M-s-M</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 674.6093 16.4431)" class="st144 st139 st143">Portress, M-s-M</text>
+	</g>
+	<text transform="matrix(1 0 0 1 440.2034 -95.5803)" class="st139 st145">Old woman</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 440.2034 -95.5803)" class="st146 st139 st145">Old woman</text>
+	</g>
+	<text transform="matrix(1 0 0 1 452.1687 -91.7166)" class="st139 st145">Old woman&apos;s son</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 452.1687 -91.7166)" class="st146 st139 st145">Old woman&apos;s son</text>
+	</g>
+	<text transform="matrix(1 0 0 1 482.9197 -82.4968)" class="st139 st145">Saint Pol Servant girl</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 482.9197 -82.4968)" class="st146 st139 st145">Saint Pol Servant girl</text>
+	</g>
+	<text transform="matrix(1 0 0 1 510.3909 -78.1052)" class="st139 st145">German teamster</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 510.3909 -78.1052)" class="st146 st139 st145">German teamster</text>
+	</g>
+	<text transform="matrix(1 0 0 1 535.5607 -70.7678)" class="st139 st145">Road mender</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 535.5607 -70.7678)" class="st146 st139 st145">Road mender</text>
+	</g>
+	<text transform="matrix(1 0 0 1 556.8879 -61.637)" class="st139 st145">Postillion</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 556.8879 -61.637)" class="st146 st139 st145">Postillion</text>
+	</g>
+	<text transform="matrix(1 0 0 1 695.3439 45.3849)" class="st139 st145">Arras hotel keeper</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 695.3439 45.3849)" class="st146 st139 st145">Arras hotel keeper</text>
+	</g>
+	<text transform="matrix(1 0 0 1 713.8713 66.194)" class="st139 st145">Arras resident</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 713.8713 66.194)" class="st146 st139 st145">Arras resident</text>
+	</g>
+	<text transform="matrix(1 0 0 1 712.3074 266.7068)" class="st139 st159">Prosecuting attorney</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 712.3074 266.7068)" class="st160 st139 st159">Prosecuting attorney</text>
+	</g>
+	<text transform="matrix(1 0 0 1 742.8787 429.1096)" class="st139 st145">Louis-Philippe</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 742.8787 429.1096)" class="st146 st139 st145">Louis-Philippe</text>
+	</g>
+	<text transform="matrix(1 0 0 1 272.1906 449.662)" class="st139 st143">Landlady, Gorbeau</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 272.1906 449.662)" class="st144 st139 st143">Landlady, Gorbeau</text>
+	</g>
+	<text transform="matrix(1 0 0 1 754.3528 402.4197)" class="st139 st145">Toll keeper</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 754.3528 402.4197)" class="st146 st139 st145">Toll keeper</text>
+	</g>
+	<text transform="matrix(1 0 0 1 418.0099 387.2341)" class="st139 st145">Soldiers</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 418.0099 387.2341)" class="st146 st139 st145">Soldiers</text>
+	</g>
+	<text transform="matrix(1 0 0 1 243.3307 159.1042)" class="st139 st143">Mother Innocent</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 243.3307 159.1042)" class="st144 st139 st143">Mother Innocent</text>
+	</g>
+	<text transform="matrix(1 0 0 1 247.2346 142.3416)" class="st139 st145">Gribier</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 247.2346 142.3416)" class="st146 st139 st145">Gribier</text>
+	</g>
+	<text transform="matrix(1 0 0 1 144.3952 177.7288)" class="st139 st145">Mlle Vaubois</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 144.3952 177.7288)" class="st146 st139 st145">Mlle Vaubois</text>
+	</g>
+	<text transform="matrix(1 0 0 1 146.8323 200.0897)" class="st139 st143">Théodule</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 146.8323 200.0897)" class="st144 st139 st143">Théodule</text>
+	</g>
+	<text transform="matrix(1 0 0 1 184.7678 190.2454)" class="st139 st145">Count Lamothe</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 184.7678 190.2454)" class="st146 st139 st145">Count Lamothe</text>
+	</g>
+	<text transform="matrix(1 0 0 1 122.9632 604.3546)" class="st139 st143">Pontmercy&apos;s servant</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 122.9632 604.3546)" class="st144 st139 st143">Pontmercy&apos;s servant</text>
+	</g>
+	<text transform="matrix(1 0 0 1 112.8977 651.7523)" class="st139 st145">Mme Pontmercy</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 112.8977 651.7523)" class="st146 st139 st145">Mme Pontmercy</text>
+	</g>
+	<text transform="matrix(1 0 0 1 18.2141 537.759)" class="st139 st145">Mother Plutarch</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 18.2141 537.759)" class="st146 st139 st145">Mother Plutarch</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -5.0061 319.6385)" class="st139 st145">Marius&apos;s servant</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -5.0061 319.6385)" class="st146 st139 st145">Marius&apos;s servant</text>
+	</g>
+	<text transform="matrix(1 0 0 1 240.2166 360.6472)" class="st139 st145">Porter, r. de l&apos;Ouest</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 240.2166 360.6472)" class="st146 st139 st145">Porter, r. de l&apos;Ouest</text>
+	</g>
+	<text transform="matrix(1 0 0 1 363.241 664.0408)" class="st139 st145">Guard, La Force</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 363.241 664.0408)" class="st146 st139 st145">Guard, La Force</text>
+	</g>
+	<text transform="matrix(1 0 0 1 280.4441 373.2365)" class="st139 st143">Toussaint</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 280.4441 373.2365)" class="st144 st139 st143">Toussaint</text>
+	</g>
+	<text transform="matrix(1 0 0 1 24.3166 190.9143)" class="st139 st149">Younger child</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 24.3166 190.9143)" class="st150 st139 st149">Younger child</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -60.55 233.8845)" class="st139 st145">Poor girl</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -60.55 233.8845)" class="st146 st139 st145">Poor girl</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -15.7585 511.4186)" class="st139 st145">Minister&apos;s wife</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -15.7585 511.4186)" class="st146 st139 st145">Minister&apos;s wife</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -44.2409 178.8547)" class="st139 st145">Secondhand dealer</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -44.2409 178.8547)" class="st146 st139 st145">Secondhand dealer</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -61.8737 207.8898)" class="st139 st145">Three concierges</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -61.8737 207.8898)" class="st146 st139 st145">Three concierges</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -31.134 153.4084)" class="st139 st145">Old soldier</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -31.134 153.4084)" class="st146 st139 st145">Old soldier</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -19.3312 328.3864)" class="st139 st145">Concierge, Verrerie</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -19.3312 328.3864)" class="st146 st139 st145">Concierge, Verrerie</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -71.2751 403.6721)" class="st139 st149">Matelotte</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -71.2751 403.6721)" class="st150 st139 st149">Matelotte</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -14.8445 337.7596)" class="st139 st145">Navet</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -14.8445 337.7596)" class="st146 st139 st145">Navet</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -63.9202 197.6608)" class="st139 st145">Sergeant, Imprimérie</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 -63.9202 197.6608)" class="st146 st139 st145">Sergeant, Imprimérie</text>
+	</g>
+	<text transform="matrix(1 0 0 1 107.4353 491.7195)" class="st139 st145">Anonymous worker</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 107.4353 491.7195)" class="st146 st139 st145">Anonymous worker</text>
+	</g>
+	<text transform="matrix(1 0 0 1 227.5294 309.0412)" class="st139 st145">Sewermen</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 227.5294 309.0412)" class="st146 st139 st145">Sewermen</text>
+	</g>
+	<text transform="matrix(1 0 0 1 184.0695 208.26)" class="st139 st143">Nicolette</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 184.0695 208.26)" class="st144 st139 st143">Nicolette</text>
+	</g>
+	<text transform="matrix(1 0 0 1 210.946 664.994)" class="st139 st145">Concierge&apos;s husband</text>
+	<g class="st141">
+		<text transform="matrix(1 0 0 1 210.946 664.994)" class="st146 st139 st145">Concierge&apos;s husband</text>
+	</g>
+</g>
+<g id="node-labels">
+	<text transform="matrix(1 0 0 1 69.7454 67.7561)" class="st139 st140">Bishop Myriel</text>
+	<text transform="matrix(1 0 0 1 167.7708 155.2175)" class="st139 st143">Mlle Baptistine</text>
+	<text transform="matrix(1 0 0 1 208.2034 80.0945)" class="st139 st143">Mme Magloire</text>
+	<text transform="matrix(1 0 0 1 4.3694 61.9294)" class="st139 st145">Hospital director</text>
+	<text transform="matrix(1 0 0 1 73.011 -19.9158)" class="st139 st145">Mayor of Senez</text>
+	<text transform="matrix(1 0 0 1 14.2122 33.7014)" class="st139 st145">Countess de Lô</text>
+	<text transform="matrix(1 0 0 1 148.467 -23.45)" class="st139 st145">Géborand</text>
+	<text transform="matrix(1 0 0 1 10.5843 98.348)" class="st139 st145">Champtercier</text>
+	<text transform="matrix(1 0 0 1 4.177 117.2874)" class="st139 st145">Condemned to death</text>
+	<text transform="matrix(1 0 0 1 123.8885 -25.304)" class="st139 st145">Curé, Digne</text>
+	<text transform="matrix(1 0 0 1 92.9769 -26.3273)" class="st139 st145">Chastelar mayor</text>
+	<text transform="matrix(1 0 0 1 7.5511 80.6619)" class="st139 st145">Mountain curé</text>
+	<text transform="matrix(1 0 0 1 66.0809 -11.5491)" class="st139 st145">Cravatte</text>
+	<text transform="matrix(1 0 0 1 23.4465 16.6262)" class="st139 st145">Conventionist</text>
+	<text transform="matrix(1 0 0 1 216.5413 -90.6492)" class="st139 st145">Gendarme, Digne</text>
+	<text transform="matrix(1 0 0 1 580.3948 -55.8743)" class="st139 st143">Labarre</text>
+	<text transform="matrix(1 0 0 1 165.0222 357.8645)" class="st139 st147">Jean Valjean</text>
+	<text transform="matrix(1 0 0 1 605.1691 -38.5217)" class="st139 st143">Fisherman, Digne</text>
+	<text transform="matrix(1 0 0 1 309.8914 -100.5198)" class="st139 st145">Jailer, Digne</text>
+	<text transform="matrix(1 0 0 1 242.842 -94.7352)" class="st139 st145">Digne peasant</text>
+	<text transform="matrix(1 0 0 1 182.3694 -85.3309)" class="st139 st145">Valjean&apos;s sister</text>
+	<text transform="matrix(1 0 0 1 297.4964 -98.5623)" class="st139 st145">Isabeau</text>
+	<text transform="matrix(1 0 0 1 177.7405 -111.7518)" class="st139 st145">Sister&apos;s son</text>
+	<text transform="matrix(1 0 0 1 752.5942 337.4265)" class="st139 st145">Foreman, Grasse</text>
+	<text transform="matrix(1 0 0 1 600.3619 492.3459)" class="st139 st149">Tholomyès</text>
+	<text transform="matrix(1 0 0 1 653.798 531.4373)" class="st139 st149">Fameuil</text>
+	<text transform="matrix(1 0 0 1 615.7612 550.9025)" class="st139 st149">Blachevelle</text>
+	<text transform="matrix(1 0 0 1 594.0165 541.4069)" class="st139 st149">Dahlia</text>
+	<text transform="matrix(1 0 0 1 449.0027 502.8337)" class="st139 st151">Fantine</text>
+	<text transform="matrix(1 0 0 1 635.4515 498.5706)" class="st139 st149">Favourite</text>
+	<text transform="matrix(1 0 0 1 623.0989 521.5593)" class="st139 st149">Listolier</text>
+	<text transform="matrix(1 0 0 1 571.6921 526.8513)" class="st139 st143">Waiter</text>
+	<text transform="matrix(1 0 0 1 319.1341 553.5247)" class="st139 st149">Azelma</text>
+	<text transform="matrix(1 0 0 1 313.1077 588.3718)" class="st139 st140">Eponine</text>
+	<text transform="matrix(1 0 0 1 154.8651 351.5715)" class="st139 st151">Cosette</text>
+	<text transform="matrix(1 0 0 1 353.6472 544.9675)" class="st139 st153">Thénardier</text>
+	<text transform="matrix(1 0 0 1 643.0314 -15.1248)" class="st139 st145">Dowager M-s-M</text>
+	<text transform="matrix(1 0 0 1 225.6155 161.0916)" class="st139 st155">Fauchelevent</text>
+	<text transform="matrix(1 0 0 1 335.7385 535.59)" class="st139 st157">Javert</text>
+	<text transform="matrix(1 0 0 1 369.5031 560.9509)" class="st139 st140">Mme Thénardier</text>
+	<text transform="matrix(1 0 0 1 686.131 564.2855)" class="st139 st145">Furniture seller</text>
+	<text transform="matrix(1 0 0 1 580.8967 653.3392)" class="st139 st145">Landlord</text>
+	<text transform="matrix(1 0 0 1 712.6506 544.8732)" class="st139 st145">Barber</text>
+	<text transform="matrix(1 0 0 1 707.3876 335.0895)" class="st139 st159">Bamatabois</text>
+	<text transform="matrix(1 0 0 1 545.3685 654.2224)" class="st139 st143">Doctor M-s-M</text>
+	<text transform="matrix(1 0 0 1 601.0303 700.1633)" class="st139 st145">Sister Perpétue</text>
+	<text transform="matrix(1 0 0 1 663.306 -3.2264)" class="st139 st145">M. Scaufflaire</text>
+	<text transform="matrix(1 0 0 1 709.1301 -20.4084)" class="st139 st145">Cashier</text>
+	<text transform="matrix(1 0 0 1 368.681 -103.5403)" class="st139 st145">Arras coachman</text>
+	<text transform="matrix(1 0 0 1 399.5316 -100.5842)" class="st139 st145">Stable boy</text>
+	<text transform="matrix(1 0 0 1 416.824 -97.7073)" class="st139 st145">Wheelright</text>
+	<text transform="matrix(1 0 0 1 473.3035 -87.7214)" class="st139 st145">Innkeeper&apos;s wife</text>
+	<text transform="matrix(1 0 0 1 617.6437 649.342)" class="st139 st145">Hospital servant</text>
+	<text transform="matrix(1 0 0 1 723.639 89.1477)" class="st139 st145">Booking clerk</text>
+	<text transform="matrix(1 0 0 1 734.3243 111.5779)" class="st139 st145">Arras lawyer</text>
+	<text transform="matrix(1 0 0 1 752.5931 129.9211)" class="st139 st145">Bailiff</text>
+	<text transform="matrix(1 0 0 1 736.7643 232.4885)" class="st139 st149">Champmathieu</text>
+	<text transform="matrix(1 0 0 1 731.1595 217.5583)" class="st139 st159">Judge</text>
+	<text transform="matrix(1 0 0 1 696.1238 250.2507)" class="st139 st155">Defense counsel</text>
+	<text transform="matrix(1 0 0 1 693.1155 257.2946)" class="st139 st149">Brevet</text>
+	<text transform="matrix(1 0 0 1 705.6135 273.0789)" class="st139 st149">Chenildieu</text>
+	<text transform="matrix(1 0 0 1 681.2767 228.0208)" class="st139 st149">Cochepaille</text>
+	<text transform="matrix(1 0 0 1 94.9422 624.321)" class="st139 st149">Colonel Pontmercy</text>
+	<text transform="matrix(1 0 0 1 346.9977 627.5159)" class="st139 st155">Boulatruelle</text>
+	<text transform="matrix(1 0 0 1 758.694 381.1136)" class="st139 st145">Boatswain</text>
+	<text transform="matrix(1 0 0 1 424.2678 466.6725)" class="st139 st145">Peddler</text>
+	<text transform="matrix(1 0 0 1 742.446 449.9089)" class="st139 st145">Duc d&apos;Havré</text>
+	<text transform="matrix(1 0 0 1 737.3376 359.3885)" class="st139 st145">Montfermeuil coachman</text>
+	<text transform="matrix(1 0 0 1 157.0149 230.3464)" class="st139 st161">M. Gillenormand</text>
+	<text transform="matrix(1 0 0 1 135.0642 197.7048)" class="st139 st163">Mlle Gillenormand</text>
+	<text transform="matrix(1 0 0 1 92.4016 396.6018)" class="st139 st165">Marius</text>
+	<text transform="matrix(1 0 0 1 193.2814 223.9774)" class="st139 st143">Baroness de T</text>
+	<text transform="matrix(1 0 0 1 132.7015 642.2941)" class="st139 st143">Abbé Mabeuf</text>
+	<text transform="matrix(1 0 0 1 143.9407 629.3488)" class="st139 st143">Doctor, Vernon</text>
+	<text transform="matrix(1 0 0 1 -1.6252 371.2727)" class="st139 st167">Bossuet</text>
+	<text transform="matrix(1 0 0 1 43.9641 374.4973)" class="st139 st153">Courfeyrac</text>
+	<text transform="matrix(1 0 0 1 46.7439 452.2057)" class="st139 st169">Bahorel</text>
+	<text transform="matrix(1 0 0 1 32.1678 408.5349)" class="st139 st169">Combeferre</text>
+	<text transform="matrix(1 0 0 1 74.472 432.6111)" class="st139 st153">Enjolras</text>
+	<text transform="matrix(1 0 0 1 -48.8664 378.4373)" class="st139 st159">Grantaire</text>
+	<text transform="matrix(1 0 0 1 18.5784 482.0999)" class="st139 st169">M. Mabeuf</text>
+	<text transform="matrix(1 0 0 1 197.4631 432.0227)" class="st139 st143">Mme Burgon</text>
+	<text transform="matrix(1 0 0 1 5.7874 445.0797)" class="st139 st163">Prouvaire</text>
+	<text transform="matrix(1 0 0 1 391.2849 612.7283)" class="st139 st161">Gueulemer</text>
+	<text transform="matrix(1 0 0 1 -1.3308 311.1184)" class="st139 st145">Parisian coachman</text>
+	<text transform="matrix(1 0 0 1 377.381 627.0236)" class="st139 st163">Panchaud</text>
+	<text transform="matrix(1 0 0 1 367.2527 575.821)" class="st139 st169">Brujon</text>
+	<text transform="matrix(1 0 0 1 390.0294 585.7238)" class="st139 st163">Deuxmilliards</text>
+	<text transform="matrix(1 0 0 1 340.8654 574.4655)" class="st139 st169">Babet</text>
+	<text transform="matrix(1 0 0 1 321.9817 618.2775)" class="st139 st161">Claquesous</text>
+	<text transform="matrix(1 0 0 1 2.6834 407.3269)" class="st139 st169">Feuilly</text>
+	<text transform="matrix(1 0 0 1 -27.6545 425.7664)" class="st139 st169">Joly</text>
+	<text transform="matrix(1 0 0 1 -53.1907 353.5276)" class="st139 st145">Card player</text>
+	<text transform="matrix(1 0 0 1 58.5506 188.4343)" class="st139 st145">Babet&apos;s girlfriend</text>
+	<text transform="matrix(1 0 0 1 17.1614 281.2317)" class="st139 st171">Gavroche</text>
+	<text transform="matrix(1 0 0 1 70.1677 165.4753)" class="st139 st149">Magnon</text>
+	<text transform="matrix(1 0 0 1 51.9485 199.0944)" class="st139 st149">Older child</text>
+	<text transform="matrix(1 0 0 1 -23.8782 170.9539)" class="st139 st143">Paris barber</text>
+	<text transform="matrix(1 0 0 1 -65.1169 250.1208)" class="st139 st145">Paris baker</text>
+	<text transform="matrix(1 0 0 1 272.0666 573.6995)" class="st139 st149">Montparnasse</text>
+	<text transform="matrix(1 0 0 1 152.0353 236.3494)" class="st139 st149">Basque</text>
+	<text transform="matrix(1 0 0 1 -26.3484 495.3992)" class="st139 st145">Minister of agriculture</text>
+	<text transform="matrix(1 0 0 1 8.4265 524.1414)" class="st139 st145">Gardener</text>
+	<text transform="matrix(1 0 0 1 -56.0036 220.8381)" class="st139 st145">Ragpicker</text>
+	<text transform="matrix(1 0 0 1 -71.7107 469.3269)" class="st139 st155">Mme Hucheloup</text>
+	<text transform="matrix(1 0 0 1 -82.2848 437.8713)" class="st139 st155">Gibolette</text>
+	<text transform="matrix(1 0 0 1 -60.4069 265.6701)" class="st139 st145">Dandy</text>
+	<text transform="matrix(1 0 0 1 315.343 655.6921)" class="st139 st145">Porter, barricade</text>
+	<text transform="matrix(1 0 0 1 -5.237 362.2664)" class="st139 st161">Government troops</text>
+	<text transform="matrix(1 0 0 1 -48.0598 187.5037)" class="st139 st145">Drunk coachman</text>
+	<text transform="matrix(1 0 0 1 -51.0983 458.5955)" class="st139 st149">Insurgent workers</text>
+	<text transform="matrix(1 0 0 1 24.4183 170.1531)" class="st139 st143">Bourgeois man</text>
+	<text transform="matrix(1 0 0 1 45.2352 158.5178)" class="st139 st143">Bourgeois son</text>
+	<text transform="matrix(1 0 0 1 246.5355 448.619)" class="st139 st143">Javert&apos;s coachman</text>
+	<text transform="matrix(1 0 0 1 134.3215 243.0251)" class="st139 st149">Concierge, Gillenormand</text>
+	<text transform="matrix(1 0 0 1 109.2737 216.7302)" class="st139 st155">Doctor, Gillenormand</text>
+	<text transform="matrix(1 0 0 1 196.6644 650.056)" class="st139 st143">Concierge, l&apos;Homme Armé</text>
+	<text transform="matrix(1 0 0 1 208.571 635.6882)" class="st139 st143">Doctor, Valjean</text>
+	<text transform="matrix(1 0 0 1 -23.2439 37.6663)" class="st139 st145">Napoleon</text>
+	<text transform="matrix(1 0 0 1 52.718 3.4138)" class="st139 st145">Senator</text>
+	<text transform="matrix(1 0 0 1 152.2947 119.6477)" class="st139 st145">Mme Boischevron</text>
+	<text transform="matrix(1 0 0 1 4.7649 -2.5217)" class="st139 st145">Shepherd boy</text>
+	<text transform="matrix(1 0 0 1 583.5569 -90.764)" class="st139 st145">Kitchen boy</text>
+	<text transform="matrix(1 0 0 1 591.1257 -48.3127)" class="st139 st145">Tavern keeper</text>
+	<text transform="matrix(1 0 0 1 236.3914 -121.7341)" class="st139 st145">Peasant&apos;s wife</text>
+	<text transform="matrix(1 0 0 1 265.4115 -96.3469)" class="st139 st145">Marquise de R</text>
+	<text transform="matrix(1 0 0 1 163.8367 -81.3333)" class="st139 st145">Marie-Claude</text>
+	<text transform="matrix(1 0 0 1 144.3963 -74.3455)" class="st139 st145">Prison guard</text>
+	<text transform="matrix(1 0 0 1 153.863 -135.2961)" class="st139 st145">Door keeper</text>
+	<text transform="matrix(1 0 0 1 178.9163 34.8729)" class="st139 st145">Three gendarmes</text>
+	<text transform="matrix(1 0 0 1 330.7108 -101.45)" class="st139 st145">Petit Gervais</text>
+	<text transform="matrix(1 0 0 1 352.0135 -101.6589)" class="st139 st145">Priest, Digne</text>
+	<text transform="matrix(1 0 0 1 582.7313 505.6799)" class="st139 st149">Zephine</text>
+	<text transform="matrix(1 0 0 1 652.342 601.2908)" class="st139 st145">Thénardiers&apos; neighbor</text>
+	<text transform="matrix(1 0 0 1 399.5627 507.2614)" class="st139 st143">Mme Victurnien</text>
+	<text transform="matrix(1 0 0 1 645.5164 619.2625)" class="st139 st145">Factory supervisor</text>
+	<text transform="matrix(1 0 0 1 642.3143 634.858)" class="st139 st145">Marguerite</text>
+	<text transform="matrix(1 0 0 1 673.509 582.9393)" class="st139 st145">Itinerant dentist</text>
+	<text transform="matrix(1 0 0 1 292.6023 651.91)" class="st139 st145">Police sergeant M-s-M</text>
+	<text transform="matrix(1 0 0 1 570.345 682.6569)" class="st139 st155">Sister Simplice</text>
+	<text transform="matrix(1 0 0 1 667.4182 -41.387)" class="st139 st145">Scaufflaire&apos;s wife</text>
+	<text transform="matrix(1 0 0 1 674.6093 16.4431)" class="st139 st143">Portress, M-s-M</text>
+	<text transform="matrix(1 0 0 1 440.2034 -95.5803)" class="st139 st145">Old woman</text>
+	<text transform="matrix(1 0 0 1 452.1687 -91.7166)" class="st139 st145">Old woman&apos;s son</text>
+	<text transform="matrix(1 0 0 1 482.9197 -82.4968)" class="st139 st145">Saint Pol Servant girl</text>
+	<text transform="matrix(1 0 0 1 510.3909 -78.1052)" class="st139 st145">German teamster</text>
+	<text transform="matrix(1 0 0 1 535.5607 -70.7678)" class="st139 st145">Road mender</text>
+	<text transform="matrix(1 0 0 1 556.8879 -61.637)" class="st139 st145">Postillion</text>
+	<text transform="matrix(1 0 0 1 695.3439 45.3849)" class="st139 st145">Arras hotel keeper</text>
+	<text transform="matrix(1 0 0 1 713.8713 66.194)" class="st139 st145">Arras resident</text>
+	<text transform="matrix(1 0 0 1 712.3074 266.7068)" class="st139 st159">Prosecuting attorney</text>
+	<text transform="matrix(1 0 0 1 742.8787 429.1096)" class="st139 st145">Louis-Philippe</text>
+	<text transform="matrix(1 0 0 1 272.1906 449.662)" class="st139 st143">Landlady, Gorbeau</text>
+	<text transform="matrix(1 0 0 1 754.3528 402.4197)" class="st139 st145">Toll keeper</text>
+	<text transform="matrix(1 0 0 1 418.0099 387.2341)" class="st139 st145">Soldiers</text>
+	<text transform="matrix(1 0 0 1 243.3307 159.1042)" class="st139 st143">Mother Innocent</text>
+	<text transform="matrix(1 0 0 1 247.2346 142.3416)" class="st139 st145">Gribier</text>
+	<text transform="matrix(1 0 0 1 144.3952 177.7288)" class="st139 st145">Mlle Vaubois</text>
+	<text transform="matrix(1 0 0 1 146.8323 200.0897)" class="st139 st143">Théodule</text>
+	<text transform="matrix(1 0 0 1 184.7678 190.2454)" class="st139 st145">Count Lamothe</text>
+	<text transform="matrix(1 0 0 1 122.9632 604.3546)" class="st139 st143">Pontmercy&apos;s servant</text>
+	<text transform="matrix(1 0 0 1 112.8977 651.7523)" class="st139 st145">Mme Pontmercy</text>
+	<text transform="matrix(1 0 0 1 18.2141 537.759)" class="st139 st145">Mother Plutarch</text>
+	<text transform="matrix(1 0 0 1 -5.0061 319.6385)" class="st139 st145">Marius&apos;s servant</text>
+	<text transform="matrix(1 0 0 1 240.2166 360.6472)" class="st139 st145">Porter, r. de l&apos;Ouest</text>
+	<text transform="matrix(1 0 0 1 363.241 664.0408)" class="st139 st145">Guard, La Force</text>
+	<text transform="matrix(1 0 0 1 280.4441 373.2365)" class="st139 st143">Toussaint</text>
+	<text transform="matrix(1 0 0 1 24.3166 190.9143)" class="st139 st149">Younger child</text>
+	<text transform="matrix(1 0 0 1 -60.55 233.8845)" class="st139 st145">Poor girl</text>
+	<text transform="matrix(1 0 0 1 -15.7585 511.4186)" class="st139 st145">Minister&apos;s wife</text>
+	<text transform="matrix(1 0 0 1 -44.2409 178.8547)" class="st139 st145">Secondhand dealer</text>
+	<text transform="matrix(1 0 0 1 -61.8737 207.8898)" class="st139 st145">Three concierges</text>
+	<text transform="matrix(1 0 0 1 -31.134 153.4084)" class="st139 st145">Old soldier</text>
+	<text transform="matrix(1 0 0 1 -19.3312 328.3864)" class="st139 st145">Concierge, Verrerie</text>
+	<text transform="matrix(1 0 0 1 -71.2751 403.6721)" class="st139 st149">Matelotte</text>
+	<text transform="matrix(1 0 0 1 -14.8445 337.7596)" class="st139 st145">Navet</text>
+	<text transform="matrix(1 0 0 1 -63.9202 197.6608)" class="st139 st145">Sergeant, Imprimérie</text>
+	<text transform="matrix(1 0 0 1 107.4353 491.7195)" class="st139 st145">Anonymous worker</text>
+	<text transform="matrix(1 0 0 1 227.5294 309.0412)" class="st139 st145">Sewermen</text>
+	<text transform="matrix(1 0 0 1 184.0695 208.26)" class="st139 st143">Nicolette</text>
+	<text transform="matrix(1 0 0 1 210.946 664.994)" class="st139 st145">Concierge&apos;s husband</text>
+</g>
+</svg>
